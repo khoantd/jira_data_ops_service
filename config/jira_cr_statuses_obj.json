@@ -1,0 +1,14 @@
+{
+  "Registered": "0. New",
+  "In Review": "1. In Review",
+  "CANCELED": "7. Canceled",
+  "Rejected": "8. Rejected",
+  "DEPLOYED IN PROD": "10. Deployed",
+  "In Deployment": "9. In progress of Deployment",
+  "Waiting for Approval": "3. Waiting for Approval",
+  "In Security Review": "2. In Security Review",
+  "Waiting for CAB Approval": "4. Waiting for CAB Approval",
+  "Approved": "5. Approved",
+  "Closed": "6. Done",
+  "Rolled back": "9. In progress of Deployment"
+}

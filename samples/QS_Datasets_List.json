@@ -1,0 +1,317 @@
+{
+    "AwsAccountId": "103629660136",
+    "QUickSightDataSetList": [
+        {
+            "ID": 1,
+            "Name": "Sales Pipeline",
+            "DataSetId": "00e96af4-98ee-48ee-b85a-95e873c5cee5",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 2,
+            "Name": "IT SDBO Incidences 2023 DataSet",
+            "DataSetId": "042fa971-9464-4f27-8125-c54446d69f40",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 3,
+            "Name": "IT FEC IT Completed Change Requests Dataset",
+            "DataSetId": "05bcd7e9-5ffe-4b5c-a929-a6e0587972a2",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 4,
+            "Name": "FE IT Delinquency CRs Dataset",
+            "DataSetId": "0b11ce04-399b-4e62-ad4e-a74780b6b803",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 5,
+            "Name": "FE IT_Approved BOMC CRs and Estimations 2023 Dataset",
+            "DataSetId": "0b8825d6-e12f-4c64-b109-d61df2c6abee",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 6,
+            "Name": "Sales Pipeline",
+            "DataSetId": "0f181b2f-6713-4b1a-b354-f5a6abdac6e7",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 7,
+            "Name": "FE IT Change Request Dataset 2022 BOM Biz Significance",
+            "DataSetId": "101977ad-ee79-4a88-a171-c3433c60169b",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 8,
+            "Name": "IT FEC IT Deployment Planning RAW Dataset",
+            "DataSetId": "18ff3805-6aa9-4061-81a7-f7c0aaf9d2c1",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 9,
+            "Name": "CRs List of FEC_V1",
+            "DataSetId": "19f6b224-5570-4926-885a-5a66007fa5bc",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 10,
+            "Name": "FE IT Change Request Dataset BOMC 90days",
+            "DataSetId": "1b0b2e18-b9c7-4bbb-b669-216aafbe4f7c",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 11,
+            "Name": "IT FEC Service Desk - Downstream System tickets Data Dataset",
+            "DataSetId": "24aea1cb-9a39-465a-8bd7-627d48777bc6",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 12,
+            "Name": "IT FEC Daily IT Deployment Status Tracking Dataset",
+            "DataSetId": "31b677e9-db0f-4ec9-8557-6f872c782395",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 13,
+            "Name": "FE IT Change Request Dataset 2022 BOM Validation Details",
+            "DataSetId": "3271cd55-8d57-43b9-9794-6e59956efd1d",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 14,
+            "Name": "IT FEC - Admin Capacity Planning Dataset",
+            "DataSetId": "3c6914bb-1e08-4794-af41-0076656fbd2c",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 15,
+            "Name": "IT FEC IT Deployment Planning Dataset",
+            "DataSetId": "3ee6b24a-f2c3-4f21-803c-99e59894e1f4",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 16,
+            "Name": "IT FEC IT Capacity Planning Dataset",
+            "DataSetId": "420b2575-e388-431f-a9e1-1da66cdc6b9a",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 17,
+            "Name": "Business Review",
+            "DataSetId": "4271dcd2-c80e-4a7d-9165-bfd8cd55f660",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 18,
+            "Name": "IT FEC Detailed IT Deployment Dataset",
+            "DataSetId": "4b20fe2f-eb88-4d1b-9acc-73bbce4862fd",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 19,
+            "Name": "IT FEC Completed IT Deployment KPI Tracking Dataset",
+            "DataSetId": "4e441288-88a2-4918-b7a7-3d5be0ed46dd",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 20,
+            "Name": "FE IT Change Request Dataset BOMC State Statistics",
+            "DataSetId": "54238b1e-59e2-4548-97b7-62843d3639a2",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 21,
+            "Name": "IT SDBO Problems 2023 DataSet",
+            "DataSetId": "585752f7-2bf3-49f0-b8b0-59c32e345623",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 22,
+            "Name": "IT FEC Service Desk TAT Data Dataset",
+            "DataSetId": "67275cbb-371d-405d-a0c5-bfeab74e3b77",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 23,
+            "Name": "IT FEC Confluence Dataset",
+            "DataSetId": "69b71dd8-0113-45d9-a12c-91b135f2353b",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 24,
+            "Name": "FE IT_Approved CRs and Estimations 2023 Dataset",
+            "DataSetId": "69ede0d8-8c3e-428a-9f79-87f701194978",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 25,
+            "Name": "IT FEC - Project Capacity Planning Dataset",
+            "DataSetId": "6ff3a715-16f8-4814-a986-418867324f0a",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 26,
+            "Name": "IT FEC IT Deployment Followup Dataset",
+            "DataSetId": "72f17ddb-7f86-481f-b3b0-f16c9f6a8c8a",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 27,
+            "Name": "MuleSoft Change Requests",
+            "DataSetId": "7cdb7c16-fe0f-4771-bc52-b519768f0b9b",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 28,
+            "Name": "MuleSoft",
+            "DataSetId": "84d8f9c2-700c-479e-83a0-3afafa941e4b",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 29,
+            "Name": "QuickSight_Import_V1",
+            "DataSetId": "8556bb35-317e-4a3e-827f-4235aa28d5ac",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 30,
+            "Name": "calendar_year_2023",
+            "DataSetId": "8b08efbe-b6eb-446f-b5eb-1d153fb0d950",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 31,
+            "Name": "IT SDBO Incidences 2023 DataSet_ART",
+            "DataSetId": "8c5047e4-43e8-41d0-a5a6-1d0029fc3986",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 32,
+            "Name": "IT Division Head Counts",
+            "DataSetId": "8f61e784-6ff3-4b5c-af83-5bc266f4da22",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 33,
+            "Name": "Web and Social Media Analytics",
+            "DataSetId": "9153ab1c-4cfa-4531-8501-8db3dc148b39",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 34,
+            "Name": "FE IT Change Request Dataset 2022 BOM Validation",
+            "DataSetId": "9a6cdad0-a4ee-4f63-b763-aff4cd3d8f23",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 35,
+            "Name": "IT FEC Confluence Pages Dataset",
+            "DataSetId": "9cf89941-d13c-4bde-aa0b-5ca90a817b8e",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 36,
+            "Name": "FE IT Approved CRs with Estimations Dataset BOMC",
+            "DataSetId": "9d303ae9-1412-411e-b22b-724045106ea8",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 37,
+            "Name": "IT-Correctively System_System Owners",
+            "DataSetId": "b06c3eff-5292-4cac-93fc-db282cd837c8",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 38,
+            "Name": "IT FEC - Change Request Capacity Planning Dataset",
+            "DataSetId": "b0daf963-24f5-48b2-a051-a833ff177264",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 39,
+            "Name": "IT FEC IT Capacity Planning for Admin Dataset",
+            "DataSetId": "c11ea7a0-dc1f-4786-9dfe-aa714e24585f",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 40,
+            "Name": "People Overview",
+            "DataSetId": "c345ee54-1f1d-475c-856c-85e41e10b772",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 41,
+            "Name": "IT FEC SDBO Task Tracking Dataset",
+            "DataSetId": "c4d0e117-e6fc-49d3-831c-11bfe63aced2",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 42,
+            "Name": "FE IT_Stages of BOMC Change Request Dataset",
+            "DataSetId": "cb3d7034-5667-44bf-8639-432ef79d5b4e",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 43,
+            "Name": "IT FEC IT Deployment KPI Tracking Dataset",
+            "DataSetId": "cdd5569a-461a-4718-94a4-9604af454dfe",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 44,
+            "Name": "Web and Social Media Analytics",
+            "DataSetId": "d924e8da-01ab-40af-84e5-c5bb9a37d923",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 45,
+            "Name": "IT FEC IT Division Capacity Planning Reconcilation Dataset",
+            "DataSetId": "d92fe35d-e444-47ad-ac43-1fd59fc1cc89",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 46,
+            "Name": "IT FEC SDBO IT CRM Dataset",
+            "DataSetId": "ec101c6a-e538-47d2-964e-691c6cda34ec",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 47,
+            "Name": "IT FEC In-progress Deployments Tracking Dataset",
+            "DataSetId": "ed702222-2782-486a-890d-96ca62a1c492",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 48,
+            "Name": "FE IT Change Request Dataset BOMC",
+            "DataSetId": "ee4ee01a-02ad-49a2-ad28-ede61b73af0d",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 49,
+            "Name": "IT FEC Release Notes Dataset",
+            "DataSetId": "f43768c9-c4d2-4704-9935-b3a1b7ba692a",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 50,
+            "Name": "FE IT Change Request Dataset 2022",
+            "DataSetId": "f4ea860f-d663-47bd-8a8d-acbdea7eb5b0",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 51,
+            "Name": "People Overview",
+            "DataSetId": "fc12c000-912a-4dc7-9a2e-1a158824840f",
+            "ImportMode": "SPICE"
+        },
+        {
+            "ID": 52,
+            "Name": "Business Review",
+            "DataSetId": "ff478716-b892-42e7-a131-79c56ab5fb94",
+            "ImportMode": "SPICE"
+        }
+    ]
+}

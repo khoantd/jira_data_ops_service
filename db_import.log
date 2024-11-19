@@ -1,0 +1,245 @@
+2024-11-08 17:20:36,953 - INFO - Processing file: data/jira_closed_tickets_batch_6.csv
+2024-11-08 17:20:37,042 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:21:13,530 - INFO - Processed 1,000 records...
+2024-11-08 17:21:13,530 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:21:13,531 - INFO - Successfully processed jira_closed_tickets_batch_6.csv: 1,000 records
+2024-11-08 17:21:13,695 - INFO - Processing file: data/jira_closed_tickets_batch_7.csv
+2024-11-08 17:21:13,767 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:21:50,156 - INFO - Processed 1,000 records...
+2024-11-08 17:21:50,156 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:21:50,157 - INFO - Successfully processed jira_closed_tickets_batch_7.csv: 1,000 records
+2024-11-08 17:21:50,326 - INFO - Processing file: data/jira_closed_tickets_batch_5.csv
+2024-11-08 17:21:50,412 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:22:27,404 - INFO - Processed 1,000 records...
+2024-11-08 17:22:27,404 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:22:27,406 - INFO - Successfully processed jira_closed_tickets_batch_5.csv: 1,000 records
+2024-11-08 17:22:27,576 - INFO - Processing file: data/jira_closed_tickets_batch_4.csv
+2024-11-08 17:22:27,646 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:23:04,683 - INFO - Processed 1,000 records...
+2024-11-08 17:23:04,684 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:23:04,685 - INFO - Successfully processed jira_closed_tickets_batch_4.csv: 1,000 records
+2024-11-08 17:23:05,051 - INFO - Processing file: data/jira_closed_tickets_batch_1.csv
+2024-11-08 17:23:05,141 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:23:41,317 - INFO - Processed 1,000 records...
+2024-11-08 17:23:41,318 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:23:41,319 - INFO - Successfully processed jira_closed_tickets_batch_1.csv: 1,000 records
+2024-11-08 17:23:41,495 - INFO - Processing file: data/jira_closed_tickets_batch_3.csv
+2024-11-08 17:23:41,573 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:24:17,923 - INFO - Processed 1,000 records...
+2024-11-08 17:24:17,925 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:24:17,926 - INFO - Successfully processed jira_closed_tickets_batch_3.csv: 1,000 records
+2024-11-08 17:24:18,084 - INFO - Processing file: data/jira_closed_tickets_batch_2.csv
+2024-11-08 17:24:18,159 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:24:54,999 - INFO - Processed 1,000 records...
+2024-11-08 17:24:55,002 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:24:55,002 - INFO - Successfully processed jira_closed_tickets_batch_2.csv: 1,000 records
+2024-11-08 17:24:55,191 - INFO - Processing file: data/jira_closed_tickets_batch_17.csv
+2024-11-08 17:24:55,255 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:25:04,802 - INFO - Successfully imported 260 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:25:04,802 - INFO - Successfully processed jira_closed_tickets_batch_17.csv: 260 records
+2024-11-08 17:25:04,975 - INFO - Processing file: data/jira_closed_tickets_batch_16.csv
+2024-11-08 17:25:05,078 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:25:43,035 - INFO - Processed 1,000 records...
+2024-11-08 17:25:43,035 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:25:43,036 - INFO - Successfully processed jira_closed_tickets_batch_16.csv: 1,000 records
+2024-11-08 17:25:43,191 - INFO - Processing file: data/jira_closed_tickets_batch_14.csv
+2024-11-08 17:25:43,269 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:26:19,701 - INFO - Processed 1,000 records...
+2024-11-08 17:26:19,702 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:26:19,703 - INFO - Successfully processed jira_closed_tickets_batch_14.csv: 1,000 records
+2024-11-08 17:26:19,861 - INFO - Processing file: data/jira_closed_tickets_batch_15.csv
+2024-11-08 17:26:19,937 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:26:57,281 - INFO - Processed 1,000 records...
+2024-11-08 17:26:57,282 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:26:57,282 - INFO - Successfully processed jira_closed_tickets_batch_15.csv: 1,000 records
+2024-11-08 17:26:57,516 - INFO - Processing file: data/jira_closed_tickets_batch_9.csv
+2024-11-08 17:26:57,598 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:27:35,676 - INFO - Processed 1,000 records...
+2024-11-08 17:27:35,680 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:27:35,682 - INFO - Successfully processed jira_closed_tickets_batch_9.csv: 1,000 records
+2024-11-08 17:27:35,839 - INFO - Processing file: data/jira_closed_tickets_batch_11.csv
+2024-11-08 17:27:35,928 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:28:14,526 - INFO - Processed 1,000 records...
+2024-11-08 17:28:14,527 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:28:14,527 - INFO - Successfully processed jira_closed_tickets_batch_11.csv: 1,000 records
+2024-11-08 17:28:14,843 - INFO - Processing file: data/jira_closed_tickets_batch_10.csv
+2024-11-08 17:28:14,928 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:28:53,233 - INFO - Processed 1,000 records...
+2024-11-08 17:28:53,233 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:28:53,233 - INFO - Successfully processed jira_closed_tickets_batch_10.csv: 1,000 records
+2024-11-08 17:28:53,383 - INFO - Processing file: data/jira_closed_tickets_batch_8.csv
+2024-11-08 17:28:53,454 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:29:31,067 - INFO - Processed 1,000 records...
+2024-11-08 17:29:31,068 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:29:31,069 - INFO - Successfully processed jira_closed_tickets_batch_8.csv: 1,000 records
+2024-11-08 17:29:31,232 - INFO - Processing file: data/jira_closed_tickets_batch_12.csv
+2024-11-08 17:29:31,311 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:30:08,986 - INFO - Processed 1,000 records...
+2024-11-08 17:30:08,987 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:30:08,988 - INFO - Successfully processed jira_closed_tickets_batch_12.csv: 1,000 records
+2024-11-08 17:30:09,275 - INFO - Processing file: data/jira_closed_tickets_batch_13.csv
+2024-11-08 17:30:09,343 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-08 17:30:46,831 - INFO - Processed 1,000 records...
+2024-11-08 17:30:46,832 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-08 17:30:46,833 - INFO - Successfully processed jira_closed_tickets_batch_13.csv: 1,000 records
+2024-11-08 17:30:46,833 - INFO - 
+Processing Summary:
+2024-11-08 17:30:46,833 - INFO - Total files processed: 17
+2024-11-08 17:30:46,833 - INFO - Total records imported: 16,260
+2024-11-08 17:30:46,833 - INFO - Processed files: jira_closed_tickets_batch_6.csv, jira_closed_tickets_batch_7.csv, jira_closed_tickets_batch_5.csv, jira_closed_tickets_batch_4.csv, jira_closed_tickets_batch_1.csv, jira_closed_tickets_batch_3.csv, jira_closed_tickets_batch_2.csv, jira_closed_tickets_batch_17.csv, jira_closed_tickets_batch_16.csv, jira_closed_tickets_batch_14.csv, jira_closed_tickets_batch_15.csv, jira_closed_tickets_batch_9.csv, jira_closed_tickets_batch_11.csv, jira_closed_tickets_batch_10.csv, jira_closed_tickets_batch_8.csv, jira_closed_tickets_batch_12.csv, jira_closed_tickets_batch_13.csv
+2024-11-09 17:32:02,716 - INFO - Processing file: data/jira_closed_tickets_batch_6.csv
+2024-11-09 17:32:02,737 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:10,008 - INFO - Processed 1,000 records...
+2024-11-09 17:32:10,008 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:10,009 - INFO - Successfully processed jira_closed_tickets_batch_6.csv: 1,000 records
+2024-11-09 17:32:10,048 - INFO - Processing file: data/jira_closed_tickets_batch_7.csv
+2024-11-09 17:32:10,078 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:17,568 - INFO - Processed 1,000 records...
+2024-11-09 17:32:17,568 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:17,568 - INFO - Successfully processed jira_closed_tickets_batch_7.csv: 1,000 records
+2024-11-09 17:32:17,606 - INFO - Processing file: data/jira_closed_tickets_batch_5.csv
+2024-11-09 17:32:17,629 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:26,332 - INFO - Processed 1,000 records...
+2024-11-09 17:32:26,332 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:26,332 - INFO - Successfully processed jira_closed_tickets_batch_5.csv: 1,000 records
+2024-11-09 17:32:26,368 - INFO - Processing file: data/jira_closed_tickets_batch_4.csv
+2024-11-09 17:32:26,390 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:33,470 - INFO - Processed 1,000 records...
+2024-11-09 17:32:33,470 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:33,470 - INFO - Successfully processed jira_closed_tickets_batch_4.csv: 1,000 records
+2024-11-09 17:32:33,509 - INFO - Processing file: data/jira_closed_tickets_batch_1.csv
+2024-11-09 17:32:33,531 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:40,939 - INFO - Processed 1,000 records...
+2024-11-09 17:32:40,939 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:40,939 - INFO - Successfully processed jira_closed_tickets_batch_1.csv: 1,000 records
+2024-11-09 17:32:40,978 - INFO - Processing file: data/jira_closed_tickets_batch_3.csv
+2024-11-09 17:32:41,007 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:48,965 - INFO - Processed 1,000 records...
+2024-11-09 17:32:48,965 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:48,966 - INFO - Successfully processed jira_closed_tickets_batch_3.csv: 1,000 records
+2024-11-09 17:32:49,002 - INFO - Processing file: data/jira_closed_tickets_batch_2.csv
+2024-11-09 17:32:49,021 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:56,225 - INFO - Processed 1,000 records...
+2024-11-09 17:32:56,225 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:56,231 - INFO - Successfully processed jira_closed_tickets_batch_2.csv: 1,000 records
+2024-11-09 17:32:56,387 - INFO - Processing file: data/jira_closed_tickets_batch_9.csv
+2024-11-09 17:32:56,407 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:59,194 - INFO - Successfully imported 425 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:32:59,194 - INFO - Successfully processed jira_closed_tickets_batch_9.csv: 425 records
+2024-11-09 17:32:59,232 - INFO - Processing file: data/jira_closed_tickets_batch_8.csv
+2024-11-09 17:32:59,250 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-09 17:33:06,383 - INFO - Processed 1,000 records...
+2024-11-09 17:33:06,384 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-09 17:33:06,384 - INFO - Successfully processed jira_closed_tickets_batch_8.csv: 1,000 records
+2024-11-09 17:33:06,384 - INFO - 
+Processing Summary:
+2024-11-09 17:33:06,384 - INFO - Total files processed: 9
+2024-11-09 17:33:06,384 - INFO - Total records imported: 8,425
+2024-11-09 17:33:06,384 - INFO - Processed files: jira_closed_tickets_batch_6.csv, jira_closed_tickets_batch_7.csv, jira_closed_tickets_batch_5.csv, jira_closed_tickets_batch_4.csv, jira_closed_tickets_batch_1.csv, jira_closed_tickets_batch_3.csv, jira_closed_tickets_batch_2.csv, jira_closed_tickets_batch_9.csv, jira_closed_tickets_batch_8.csv
+2024-11-14 16:11:42,025 - INFO - Processing file: data/jira_closed_tickets_batch_6.csv
+2024-11-14 16:11:42,098 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:12:16,890 - INFO - Processed 1,000 records...
+2024-11-14 16:12:16,891 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:12:16,892 - INFO - Successfully processed jira_closed_tickets_batch_6.csv: 1,000 records
+2024-11-14 16:12:17,058 - INFO - Processing file: data/jira_closed_tickets_batch_7.csv
+2024-11-14 16:12:17,144 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:12:51,254 - INFO - Processed 1,000 records...
+2024-11-14 16:12:51,254 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:12:51,254 - INFO - Successfully processed jira_closed_tickets_batch_7.csv: 1,000 records
+2024-11-14 16:12:51,423 - INFO - Processing file: data/jira_closed_tickets_batch_5.csv
+2024-11-14 16:12:51,504 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:13:25,235 - INFO - Processed 1,000 records...
+2024-11-14 16:13:25,236 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:13:25,236 - INFO - Successfully processed jira_closed_tickets_batch_5.csv: 1,000 records
+2024-11-14 16:13:25,408 - INFO - Processing file: data/jira_closed_tickets_batch_4.csv
+2024-11-14 16:13:25,502 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:13:58,790 - INFO - Processed 1,000 records...
+2024-11-14 16:13:58,792 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:13:58,793 - INFO - Successfully processed jira_closed_tickets_batch_4.csv: 1,000 records
+2024-11-14 16:13:58,956 - INFO - Processing file: data/jira_closed_tickets_batch_1.csv
+2024-11-14 16:13:59,048 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:14:31,449 - INFO - Processed 1,000 records...
+2024-11-14 16:14:31,450 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:14:31,451 - INFO - Successfully processed jira_closed_tickets_batch_1.csv: 1,000 records
+2024-11-14 16:14:31,626 - INFO - Processing file: data/jira_closed_tickets_batch_3.csv
+2024-11-14 16:14:31,707 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:15:04,683 - INFO - Processed 1,000 records...
+2024-11-14 16:15:04,684 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:15:04,685 - INFO - Successfully processed jira_closed_tickets_batch_3.csv: 1,000 records
+2024-11-14 16:15:04,836 - INFO - Processing file: data/jira_closed_tickets_batch_2.csv
+2024-11-14 16:15:04,905 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:15:38,075 - INFO - Processed 1,000 records...
+2024-11-14 16:15:38,076 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:15:38,077 - INFO - Successfully processed jira_closed_tickets_batch_2.csv: 1,000 records
+2024-11-14 16:15:38,235 - INFO - Processing file: data/jira_closed_tickets_batch_9.csv
+2024-11-14 16:15:38,301 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:16:08,239 - INFO - Successfully imported 870 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:16:08,240 - INFO - Successfully processed jira_closed_tickets_batch_9.csv: 870 records
+2024-11-14 16:16:08,393 - INFO - Processing file: data/jira_closed_tickets_batch_8.csv
+2024-11-14 16:16:08,461 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-14 16:16:41,655 - INFO - Processed 1,000 records...
+2024-11-14 16:16:41,656 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-14 16:16:41,656 - INFO - Successfully processed jira_closed_tickets_batch_8.csv: 1,000 records
+2024-11-14 16:16:41,657 - INFO - 
+Processing Summary:
+2024-11-14 16:16:41,657 - INFO - Total files processed: 9
+2024-11-14 16:16:41,657 - INFO - Total records imported: 8,870
+2024-11-14 16:16:41,657 - INFO - Processed files: jira_closed_tickets_batch_6.csv, jira_closed_tickets_batch_7.csv, jira_closed_tickets_batch_5.csv, jira_closed_tickets_batch_4.csv, jira_closed_tickets_batch_1.csv, jira_closed_tickets_batch_3.csv, jira_closed_tickets_batch_2.csv, jira_closed_tickets_batch_9.csv, jira_closed_tickets_batch_8.csv
+2024-11-19 10:14:27,306 - INFO - Processing file: data/jira_closed_tickets_batch_6.csv
+2024-11-19 10:14:27,422 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:15:31,103 - INFO - Processed 1,000 records...
+2024-11-19 10:15:31,103 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:15:31,104 - INFO - Successfully processed jira_closed_tickets_batch_6.csv: 1,000 records
+2024-11-19 10:15:31,412 - INFO - Processing file: data/jira_closed_tickets_batch_7.csv
+2024-11-19 10:15:31,553 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:16:37,925 - INFO - Processed 1,000 records...
+2024-11-19 10:16:37,925 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:16:37,926 - INFO - Successfully processed jira_closed_tickets_batch_7.csv: 1,000 records
+2024-11-19 10:16:38,194 - INFO - Processing file: data/jira_closed_tickets_batch_5.csv
+2024-11-19 10:16:38,339 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:17:36,851 - INFO - Processed 1,000 records...
+2024-11-19 10:17:36,851 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:17:36,852 - INFO - Successfully processed jira_closed_tickets_batch_5.csv: 1,000 records
+2024-11-19 10:17:37,119 - INFO - Processing file: data/jira_closed_tickets_batch_4.csv
+2024-11-19 10:17:37,236 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:18:37,299 - INFO - Processed 1,000 records...
+2024-11-19 10:18:37,301 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:18:37,307 - INFO - Successfully processed jira_closed_tickets_batch_4.csv: 1,000 records
+2024-11-19 10:18:37,562 - INFO - Processing file: data/jira_closed_tickets_batch_1.csv
+2024-11-19 10:18:37,672 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:19:44,135 - INFO - Processed 1,000 records...
+2024-11-19 10:19:44,135 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:19:44,136 - INFO - Successfully processed jira_closed_tickets_batch_1.csv: 1,000 records
+2024-11-19 10:19:44,431 - INFO - Processing file: data/jira_closed_tickets_batch_3.csv
+2024-11-19 10:19:44,559 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:20:47,792 - INFO - Processed 1,000 records...
+2024-11-19 10:20:47,793 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:20:47,794 - INFO - Successfully processed jira_closed_tickets_batch_3.csv: 1,000 records
+2024-11-19 10:20:48,091 - INFO - Processing file: data/jira_closed_tickets_batch_2.csv
+2024-11-19 10:20:48,213 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:21:49,187 - INFO - Processed 1,000 records...
+2024-11-19 10:21:49,187 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:21:49,188 - INFO - Successfully processed jira_closed_tickets_batch_2.csv: 1,000 records
+2024-11-19 10:21:49,471 - INFO - Processing file: data/jira_in_progress_tickets_batch_1.csv
+2024-11-19 10:21:49,597 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:21:55,012 - INFO - Successfully imported 83 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:21:55,012 - INFO - Successfully processed jira_in_progress_tickets_batch_1.csv: 83 records
+2024-11-19 10:21:55,282 - INFO - Processing file: data/jira_closed_tickets_batch_9.csv
+2024-11-19 10:21:55,388 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:22:56,881 - INFO - Processed 1,000 records...
+2024-11-19 10:22:56,882 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:22:56,882 - INFO - Successfully processed jira_closed_tickets_batch_9.csv: 1,000 records
+2024-11-19 10:22:57,175 - INFO - Processing file: data/jira_closed_tickets_batch_10.csv
+2024-11-19 10:22:57,283 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:23:13,084 - INFO - Successfully imported 246 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:23:13,087 - INFO - Successfully processed jira_closed_tickets_batch_10.csv: 246 records
+2024-11-19 10:23:13,332 - INFO - Processing file: data/jira_closed_tickets_batch_8.csv
+2024-11-19 10:23:13,484 - INFO - Table structure created/verified: fecops_jira_tickets_raised_from_bu
+2024-11-19 10:24:13,800 - INFO - Processed 1,000 records...
+2024-11-19 10:24:13,800 - INFO - Successfully imported 1,000 records into fecops_jira_tickets_raised_from_bu
+2024-11-19 10:24:13,801 - INFO - Successfully processed jira_closed_tickets_batch_8.csv: 1,000 records
+2024-11-19 10:24:13,801 - INFO - 
+Processing Summary:
+2024-11-19 10:24:13,801 - INFO - Total files processed: 11
+2024-11-19 10:24:13,801 - INFO - Total records imported: 9,329
+2024-11-19 10:24:13,801 - INFO - Processed files: jira_closed_tickets_batch_6.csv, jira_closed_tickets_batch_7.csv, jira_closed_tickets_batch_5.csv, jira_closed_tickets_batch_4.csv, jira_closed_tickets_batch_1.csv, jira_closed_tickets_batch_3.csv, jira_closed_tickets_batch_2.csv, jira_in_progress_tickets_batch_1.csv, jira_closed_tickets_batch_9.csv, jira_closed_tickets_batch_10.csv, jira_closed_tickets_batch_8.csv

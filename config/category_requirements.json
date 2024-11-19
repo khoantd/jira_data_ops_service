@@ -1,0 +1,22 @@
+{
+  "Loan Application Error": {
+    "required_patterns": ["crm_number", "phone_number", "personal_id"],
+    "priority": 100,
+    "description": "Issues related to loan application processing"
+  },
+  "Cannot do Loan Onboarding": {
+    "required_patterns": ["phone_number", "personal_id", "customer_name"],
+    "priority": 90,
+    "description": "Problems with loan onboarding process"
+  },
+  "Application Issue": {
+    "required_patterns": ["application_id", "customer_name"],
+    "priority": 80,
+    "description": "General application-related issues"
+  },
+  "General Support Request": {
+    "required_patterns": ["formal_request"],
+    "priority": 70,
+    "description": "General IT support requests"
+  }
+}

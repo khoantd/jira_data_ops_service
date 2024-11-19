@@ -1,0 +1,6 @@
+{
+  "v_bu_cat_des_2": "SELECT * FROM public.v_bu_cat_des_2",
+  "bu_category": "SELECT trim(description) as text,trim(business_unit) as label FROM public.v_bu_cat_des_2",
+  "bu_subcategory": "SELECT trim(description) as text,trim(sub_category) as label FROM public.v_bu_cat_des_2",
+  "cat_category": "SELECT trim(description) as text,trim(service_request) as label FROM public.v_bu_cat_des_2"
+}

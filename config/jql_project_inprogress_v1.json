@@ -1,0 +1,7 @@
+{
+  "jql_list": [
+    {
+      "IT Deployment": "project = \"IT01\" AND type IN (\"Deployment Request\") AND status in (\"In Review\") AND created >= {p_from} AND created <= {p_to} ORDER BY created DESC"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+curl -X POST "http://localhost:8000/api/query" \ -H "Content-Type: application/json" \  -d '{                              
+           "jql_query": "project in (BO,FI) AND type = \"Service Request\" and created >= \"2024-08-07\" and created <= \"2024-12-31\" AND status IN (\"Escalated Non-Approval\") AND \"it-feol[select list (cascading)]\" IS NOT EMPTY ORDER BY created DESC",                  
+           "fields": ["key", "summary", "created", "status", "assignee"],
+           "batch_size": 1000,
+           "filename":"jira_in_progress_tickets"
+         }'

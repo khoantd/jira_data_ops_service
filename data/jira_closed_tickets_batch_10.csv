@@ -1,0 +1,2098 @@
+Issue key,Issue id,Summary,Status,Assignee,Assignee Id,Reporter,Reporter Id,Created,Resolved,Issue Type,Updated,Description,Custom field (IT-FEOL),Custom field (IT-Division/Center/Department)
+BO-58121,1043817,HỖ TRỢ HS KÝ FEONLINE 2.0 LỖI KO CÓ CHỖ KÝ HỢP ĐỒNG ID:110328264,Closed,Luan Pham Minh,60470203bfef95006bb9db51,Chien Tran Quoc,6098dacd9da6d5007000ed8b,08/Aug/24 10:31 AM,08/Aug/24 5:29 PM,Service Request,13/Aug/24 8:06 PM,"Deat IT
+
+Hiện tại App ID : 110328264 này vẫn ko hiển thị ký trên Feonline 2 được do ko hiển thị chỗ để bấm ký (hs duyệt thẳng ko thẫm định)
+
+Thanks!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58120,1043816,"KHÔNG CÓ BĐKV ""Nhân"" 0808",Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Tai Pham Chi,712020:3d4a1074-6616-4b91-9253-3175ec9d7cdd,08/Aug/24 10:30 AM,14/Aug/24 12:06 PM,Service Request,14/Aug/24 1:05 PM,"Dear Anh IT,
+
+Nhờ Anh IT kiểm tra và hỗ trợ giúp Em t/hợp KHÔNG CÓ BĐKV 
+
+0386776822 - nguyễn văn an _ Crm : 1488360586 Cccd : 030096003038
+
+Em cám ơn",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58118,1043814,V.v lỗi ký,Closed,,,Hung Diep Quoc,712020:9b6d4755-fb5f-4738-be94-e78ed01d304a,08/Aug/24 10:29 AM,13/Aug/24 10:22 AM,Service Request,15/Aug/24 4:06 PM,"Dear IT
+
+Nhờ IT hỗ trợ hồ sơ lỗi ký esign
+
+# KH Lê Chu - AppID: 110378916
+# KH Nguyễn Minh Húc - AppID: 110382401
+
+",Tài Khoản FEOP/FEOL Account,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58112,1043808,HỖ TRỢ LỖI ĐĂNG KÝ KHOẢN VAY,Closed,Anh Nguyen Hoang 11,60470019ceccdd006a0e041f,Hau Nguyen Van 4,712020:1d101ae2-7be6-4edc-b4ad-fdaded0b2178,08/Aug/24 10:27 AM,12/Aug/24 8:33 AM,Service Request,16/Aug/24 2:06 AM,"Dear IT!
+
+Nhờ IT hỗ trợ check giúp, KH vô FEOL 2.0 đăng ký khoản vay thì tới bước nhập mã OTP thì hệ thống không gửi mã OTP,
+
+Sau đó hiện thông báo mã OTP không khả dụng ( như hình), KH đã đổi DT qua DT khác nhưng cũng không đăng ký được,
+
+Tên KH: NGUYỄN THANH SƠN - CCCD:     075095012275       - SDT:   84813098079 - crm 1488080528
+
+Nhờ IT hỗ trợ kiểm tra giúp,
+
+Thanks IT!",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58109,1043804,NHỜ IT HỔ TRỢ LỖI MÀN HÌNH TRẮNG ,Closed,Thien Nguyen Minh,60f6298a199a8400683a33f4,Nhi Huynh Khang 1,712020:6d2be155-2f8c-474d-9b15-a21a2a9be30b,08/Aug/24 10:25 AM,13/Aug/24 10:05 AM,Service Request,13/Aug/24 11:06 AM,Appid 110379214, Hồ sơ cá nhận/User profile,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58107,1043801,Không đăng ký được tài khoản Ubank-NGUYỄN THỊ LINH-064194005161,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Chi Pham Linh,637ad569a593cb822e939b7d,08/Aug/24 10:24 AM,15/Aug/24 3:53 PM,Service Request,21/Aug/24 12:06 AM,"|07/08/2024 15:32|S-64936392|#1: NGUYỄN THỊ LINH - cccd 064194005161 - sdt 0376303994 - sdt liên hệ 0376303994 - đt iphone X - ios15.6 - Khách hàng đăng ký tài khoản Ubank báo lỗi, đã ra VPbank cập nhật theo hướng dẫn hệ thống nhưng vẫn lỗi , KH đã thử lại theo BO-44428 vẫn lỗi|
+
+",Ubank - Không đăng kí được tài khoản Ubank/ Unable to register Ubank account,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-58105,1043799,LỖI FEOL V HIEU,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Bao Nguyen Hoai,60924dca000224006a9ad7b4,08/Aug/24 10:24 AM,15/Aug/24 3:48 PM,Service Request,21/Aug/24 12:06 AM,"|AppID|CRMID|Product|Created date|Ứng dụng thực hiện|Mô tả lỗi|
+| |1488218893|NTB|07/08/24|FEOL 2.0|Không có BDKV với Nhân viên|
+
+Dear IT, Nhờ IT hổ trợ KH trên vào FEOL2 Không có BĐKV. Cám ơn IT","Tính năng khoản vay/Loan feature -> Không thể tra cứu hợp đồng, hiển thị sai thông tin HD/Cannot see loan contracts,wrong loan contracts",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58104,1043796,LỖI FEOL2.0 Thái,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Bao Nguyen Hoai,60924dca000224006a9ad7b4,08/Aug/24 10:22 AM,09/Aug/24 2:34 PM,Service Request,16/Aug/24 2:06 AM,"KH bên dưới lên app id 110381857, sau đó bị Cancle- TSA hướng dẫn KH vào lại app thì không có BĐKV với nhân viên.
+
+Nhờ kiểm tra hổ trợ giúp. Thanks.
+
+ 
+
+|AppID|CRMID|Product|Created date|Ứng dụng thực hiện|Mô tả lỗi|
+|110381857|1488387876|NTB|08-08-2024|FEOL 2.0|App bị cancel vô lại ứng dụng không có bắt đầu khoản vay lại|
+
+",Tính năng khoản vay/Loan feature,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58102,1043793,Hỗ trợ kí trên fe online,Closed,,,Hoa Hoang Quoc,609c916c9fd9f30067379aef,08/Aug/24 10:21 AM,09/Aug/24 11:11 AM,Service Request,15/Aug/24 4:06 PM,"Dear IT
+
+Hỗ trợ giúp em 
+
+App id 110379565 , sdt : 0985364524
+
+khách vào kí giải ngân không có hợp đồng","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58101,1043792,LỖI ỨNG DỤNG TRẮNG MÀNG HÌNH,Closed,,,Son Tran Lam 1,712020:7c9c6e3f-c571-4992-9621-604179097c45,08/Aug/24 10:21 AM,13/Aug/24 12:07 PM,Service Request,13/Aug/24 1:06 PM,"Dear IT,
+
+Nhờ IT hỗ trợ giúp Em KH vào FE online 2.0 để đăng ký vay thì ứng dụng bị trắng.
+
+Em gửi ảnh đính kèm với thông tin KH : trần đức mạnh cccd 0333877357
+
+Em cảm ơn!",Tài Khoản FEOP/FEOL Account,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-58100,1043791,FEONL KHÔNG HIỂN THỊ KHOẢN VAY,Closed,Anh Nguyen Hoang 11,60470019ceccdd006a0e041f,Ngan Le Thi 3,712020:66d6ab5c-9c0b-4124-98f3-00f5fd43b991,08/Aug/24 10:20 AM,12/Aug/24 1:36 PM,Service Request,16/Aug/24 2:06 AM,"Dear Anh chị!
+
+Nhờ anh chị hỗ trợ khách đã giải ngân nhưng vào feonl 2.0 ko hiện khoản vay để ký giải ngân ạ.
+
+CCCD: 038090034562
+Id: 110380020
+
+Thankyou!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58097,1043788,lỗi k thấy hợp đồng,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Giang Dao Van 1,712020:ae2ab3e0-de7b-4c96-bec0-26fdf8fc0d38,08/Aug/24 10:19 AM,12/Aug/24 12:29 PM,Service Request,16/Aug/24 2:06 AM,"Dear IT
+
+nhờ hỗ trợ gấp giúp e app id sau : 110379585
+
+khách hàng được duyệt nhưng vào app k thấy hợp đồng ạ 
+
+em cảm ơn 
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58083,1043769,"LỖI Rất tiếc,Bạn không đủ điều kiện để đăng ký khoản vay TRÊN FEOL 2.0 (Ngân)",Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Huy Le Quang 6,609b5a4197f3d40070abefc1,08/Aug/24 10:04 AM,12/Aug/24 8:49 PM,Service Request,16/Aug/24 3:07 AM,"
+Dear IT
+
+Nhờ IT Team FEOL 2.0 hỗ trợ check giúp em KH bên dưới lỗi trên FEOL 2.0
+
+Tình trạng lỗi:Thời gian vào FEOL 2.0 9H30 AM 08/08/2024
+
+KH vào App FEOL 2.0 có mục BẮT ĐẦU KHOẢN VAY với nhân viên nhưng bấm ở chữ BẮT ĐẦU thì màn hình hiển thị lỗi “ Rất tiếc,Bạn không đủ điều kiện để đăng ký khoản vay"" ,sale đã hướng dẫn KH xóa App tải lại & kiểm tra kĩ thông tin nhưng vẫn không có BẮT ĐẦU KHOẢN VAY VỚI NHÂN VIÊN Ạ
+
+Thông tin KH:
+CRM: 1488340792
+NAME:HOÀNG VĂN THẬT
+CCCD: 070084005528
+
+Phone:[+0947***078+|tel:0947***078]
+
+Có hình ảnh đính kèm
+
+Thank IT!",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12451,1043767,Hỗ trợ ký HĐ - Id 110380389,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Diem Ton Thi Ngoc,712020:40d99670-deaf-4a75-963c-746180ea38cd,08/Aug/24 10:01 AM,09/Aug/24 8:58 AM,Service Request,13/Aug/24 6:07 PM,"Dear IT
+
+Nhờ IT hỗ trợ ký HĐ
+
+Id 110380389
+Cccd 082192010362
+Sdt 0974133981
+
+KH :Tên Võ Thị Son
+
+Lý Do : CC đăng nhập vào báo lỗi 
+
+Thanks ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58082,1043766,UW video call không được,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,thuyhnb,712020:b57e01d2-a191-4321-8ddf-10ccd423d892,08/Aug/24 9:59 AM,08/Aug/24 10:05 AM,Service Request,13/Aug/24 10:06 AM,"Dear it,
+
+Team em có case uw video call không được , nhờ it kiểm tra giúp em.",Video call -> Lỗi không thực hiện được cuộc gọi/Cannot make video call,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-58081,1043765,LỖI KHÔNG CÓ BẮT ĐẦU KHOẢN VAY  VỚI NHÂN VIÊN TRÊN FEOL 2.0 (Thủy),Closed,Anh Nguyen Hoang 11,60470019ceccdd006a0e041f,Huy Le Quang 6,609b5a4197f3d40070abefc1,08/Aug/24 9:57 AM,12/Aug/24 5:38 PM,Service Request,16/Aug/24 3:07 AM,"Dear IT
+
+Nhờ IT Team FEOL 2.0 hỗ trợ check giúp em KH bên dưới lỗi trên FEOL 2.0
+
+Tình trạng lỗi:Thời gian vào FEOL 2.0 9H28 AM 08/08/2024
+
+KH vào App FEOL 2.0 đã đăng ký thông tin đúng với trên Vtiger nhưng màn hình của FEOL 2.0 không hiển thị BẮT ĐẦU KHOẢN VAY VỚI NHÂN VIÊN,sale đã hướng dẫn KH xóa App tải lại & kiểm tra kĩ thông tin nhưng vẫn không có BẮT ĐẦU KHOẢN VAY VỚI NHÂN VIÊN Ạ
+
+Thông tin KH:
+
+Name:Nguyễn Thanh Thuỷ 
+
+CRMID:1488325018
+
+CCCD:070300006829
+
+PHONE:0866***806
+
+Có hình ảnh lỗi đính kèm
+
+Thank IT!",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58080,1043763,APP FEOL 2.0 LỖI,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,huong.dtt2@saigonbpo.vn,qm:fd095524-f567-44b3-b7f1-5d8b4419a54f:bd09994d-3cda-4825-985d-ec9ee69cd7b2,08/Aug/24 9:56 AM,09/Aug/24 8:59 AM,Service Request,13/Aug/24 8:06 PM,"Dear IT,
+
+App FEOL 2.0 lỗi, hình lỗi đính kèm, nhờ iT check giúp, thanks IT
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,Đối Tác FE/FEC Partner
+BO-58079,1043762,FEOL 2.0 lỗi màn hình trắng,Closed,,,Phu Le Hoang,712020:0aff92b3-edeb-4b80-9b52-0e9a3e0662e2,08/Aug/24 9:56 AM,13/Aug/24 12:07 PM,Service Request,13/Aug/24 1:05 PM,"Dear IT
+
+Nhờ IT kiểm tra app FEOL hiện tại đang bị lỗi màn hình trắng khi mở app lên. Chỉ xuất hiện khi tải mới, app đã tải trước đó rồi thì không bị
+
+Lỗi như hình đính kèm",Tài Khoản FEOP/FEOL Account -> Không thể đăng nhập/Cannot login,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58071,1043754,NHẬN TIỀN LỖI,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Nho Cao Van 1,712020:8f028757-0d77-4124-8418-ade02e2a3057,08/Aug/24 9:50 AM,09/Aug/24 1:53 PM,Service Request,16/Aug/24 3:07 AM,"Dear IT,
+
+Nhờ IT hổ trợ giúp em Kh ra nhận tiền 2 ngày nhưng nhập thông tin vô thì báo không tìm thấy thông tin hợp đồng.
+
+APP ID: *110326256*
+
+*Thank IT.*
+
+Do TSa không sử dụng DT nên không cung cấp hình ảnh cụ thể được.",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-58069,1043751,KHÔNG ĐĂNG KÝ ĐƯỢC USER,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Dao Tran Thi Bich 1,626920280f0cc0006f8f33f6,08/Aug/24 9:48 AM,12/Aug/24 4:48 PM,Service Request,16/Aug/24 3:06 AM,"Dear It, 
+
+Nhờ It hỗ trợ Th khách hàng có TK feol 1 số DT A
+
+Giờ KH dùng số DT B đăng ký FEOL 2 không được
+
+SỐ A kh không dùng nữa. KH cần vào app ký hợp đồng nhờ It hỗ trợ giúp Team nhé
+
+KH: VÕ PHI LONG
+
+APP ID: *110323292*
+
+CCCD: 079202016140
+
+SDT: 0766593440
+
+Thanks IT", Hồ sơ cá nhận/User profile,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12450,1043750,KHÔNG HIỆN THỊ HỢP ĐỒNG TRÊN FEONL,Closed,Anh Nguyen Hoang 11,60470019ceccdd006a0e041f,Phuc Nguyen Van 18,712020:fe7b4fee-2fa7-46ad-a7ef-61f62fb3d565,08/Aug/24 9:47 AM,12/Aug/24 5:37 PM,Service Request,16/Aug/24 7:07 PM,"DEAR A/C
+
+LỖI KHÔNG HIỆN THỊ HỢP ĐỒNG VAY , NHỜ A/C HỖ TRỢ
+
+Tên: KIM PHƯỢNG
+
+ID: 110378536","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58064,1043744,Nguyễn Thị Lan Anh không có BĐKV,Closed,Luan Pham Minh,60470203bfef95006bb9db51,Phung Mai Thi Thu,62302e30867a4e00709583a9,08/Aug/24 9:43 AM,08/Aug/24 2:47 PM,Service Request,13/Aug/24 3:06 PM,"Nguyễn Thị Lan Anh 
+CCCD: 070178006753
+SDT: 0967359728
+CRM: 1488183993
+
+không có BĐKV
+
+KHÁCH KHÔNG BỔ SUNG  DƯỢC HÌNH NHỜ IT HỖ TRỢ ",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58062,1043741,KHÁCH HÀNG KHÔNG ĐĂNG KÝ ĐƯỢC TÀI KHOẢN,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Nhat Lam Xuan 3,712020:bc0782d6-84b7-4021-b21b-97df58c11057,08/Aug/24 9:40 AM,08/Aug/24 11:08 AM,Service Request,13/Aug/24 11:06 AM,"Dear Anh/Chị!
+
+KH có tài khoản bên FEOL1 chuyển đổi sang FEOL2 để thực hiện tác ký hồ sơ nhưng hệ thống lại báo sai thông tin khi nhập liệu trong khi sdt và cccd đúng với thông tin trên FEOL 1.0.
+
+Nhờ IT kiểm tra và hỗ trợ giúp, em cám ơn ạ
+
+Em gửi thông tin ạ:  Sdt: 0787865097, cccd: 089197006458",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-58061,1043740,HỖ TRỢ MỞ KHÓA TÀI KHOẢN,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Dao Tran Thi Bich 1,626920280f0cc0006f8f33f6,08/Aug/24 9:40 AM,08/Aug/24 10:38 AM,Service Request,13/Aug/24 11:06 AM,"Dear It, 
+
+Nhờ It hỗ trợ mở khóa tài khoản giúp Kh
+
+Thanks IT
+
+APP ID: *110319431*
+
+KH: SƠN THỊ THÚY 
+
+CCCD: 094193002136
+
+SDT: 0384755122
+
+", Hồ sơ cá nhận/User profile,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12449,1043734,LỖI KHÔNG HIỂN THỊ HỒ SƠ KÍ ,Closed,Luan Pham Minh,60470203bfef95006bb9db51,Thuan Nguyen Huu 4,712020:f454cb95-b3a0-4914-8c39-02cbd3e01c87,08/Aug/24 9:36 AM,08/Aug/24 5:24 PM,Service Request,13/Aug/24 5:07 PM,"HI IT ! 
+
+Nhwof IT hổ trợ lỗi không hiển thị hồ sơ kí trên FEO2 
+
+App 110348055
+Cccd 091081006440
+Nguyễn Văn hùng 
+
+thanks IT ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12448,1043729,Lỗi k hiển thị khoản vay để ký,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Hoan Nguyen Tien,712020:7dd95a43-593c-4568-a87a-532381292d9e,08/Aug/24 9:34 AM,13/Aug/24 12:00 PM,Service Request,16/Aug/24 3:07 PM,"Khách hàng: la thị hằng
+
+Số cccd: 019179004795
+
+Khách hàng pl đã đậu hồ sơ nhưng trong ứng dụng FE online 2 k hiện hồ sơ để ký","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM PHÊ DUYỆT & XỬ LÝ TÍN DỤNG SỚM/ CREDIT ASSESSMENT & EARLY CREDIT RECOVERY CENTER
+BO-58057,1043728,LỖI KHÔNG CÓ BẮT ĐẦU KHOẢN VAY  VỚI NHÂN VIÊN TRÊN FEOL 2.0,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Huy Le Quang 6,609b5a4197f3d40070abefc1,08/Aug/24 9:34 AM,09/Aug/24 2:50 PM,Service Request,16/Aug/24 3:06 AM,"Dear IT
+
+Nhờ IT Team FEOL 2.0 hỗ trợ check giúp em KH bên dưới lỗi trên FEOL 2.0
+
+Tình trạng lỗi:Thời gian vào FEOL 2.0 9H30 AM 08/08/2024
+
+KH vào App FEOL 2.0 đã đưnag ký thông tin đúng với trên Vtiger nhưng màn hình của FEOL 2.0 không hiển thị BẮT ĐẦU KHOẢN VAY VỚI NHÂN VIÊN,sale đã hướng dẫn KH xóa App tải lại & kiểm tra kĩ thông tin nhưng vẫn không có BAWTSD DẦU KHOẢN VAY VỚI NHÂN VIÊN Ạ
+
+Thông tin KH:
+
+Name:VŨ VĂN THIỆN
+
+CRMID:1488146150
+
+CCCD:036091000172
+
+PHONE:[+0878***333+|tel:0878***333]
+
+Có hình ảnh lỗi đính kèm
+
+Thanks!",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12446,1043711,Gấp - KH k nhận được mã OTP ký hđ,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Hai Nguyen Van 28,712020:8e976862-3307-4f1f-872f-6df6e9364800,08/Aug/24 9:19 AM,12/Aug/24 12:59 PM,Service Request,15/Aug/24 12:06 PM,"It kiểm tra giúp mình hs bên dưới không gửi mã OTP,
+CC đã cho KH tải và ký trên FE 2.0. Cũng đã xóa đi tải lại nhiều lần không thành công.
+Hs treo từ ngày hôm qua 07/08
+
+Tên KH: Nguyễn Đức Vinh
+
+ID: 110357926
+
+Cám ơn
+",eSign -> Lỗi OTP/OTP issues,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58047,1043709,LỖI LIÊN QUAN ĐẾN APP FE ONLINE 1.0  - ĐĂNG HIẾU TẤN,Closed,Ha Nguyen,70121:ea19e7af-2d6d-4ffd-b5e9-bcb61cd74eb3,Chi Pham Linh,637ad569a593cb822e939b7d,08/Aug/24 9:16 AM,08/Aug/24 9:29 AM,Service Request,12/Aug/24 7:06 PM,"Dear team,
+
+Nhờ anh/chị hỗ trợ kiểm tra giúp em TH bên dưới ạ:
+
+Đặng Hiếu Tuấn - 312023881/082089017742 - 84383244251. KH phản ánh App FEOL 1.0 hiển thị thông tin thẻ KH khác (KH Tấn không có thẻ tại FEC) và yêu cầu kiểm tra
+
+Em cảm ơn
+
+",Thông tin thẻ/Card information -> Thông tin thẻ của người khác/See card information of other,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-58044,1043706,Data entry - Đã ký bước 1 - bước 2 bị ẩn dòng xác nhận và giải ngân như hình đính kèm,Closed,Luan Pham Minh,60470203bfef95006bb9db51,Tho Tran Van 5,712020:1a477797-dda0-427e-8961-d95ef97a9700,08/Aug/24 9:12 AM,10/Aug/24 3:42 PM,Service Request,16/Aug/24 3:06 AM,"Dear IT,
+
+Data entry - Đã ký bước 1 - bước 2 bị ẩn dòng xác nhận và giải ngân như hình đính kèm
+
+App ID: *110329765*
+
+CRMID: 1458196347
+
+thank IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-58041,1043703,K có hợp đồng ký,Closed,Phong Do Nhat,604702152b3f9a006a2ca983,Phung Mai Thi Thu,62302e30867a4e00709583a9,08/Aug/24 9:09 AM,08/Aug/24 9:16 AM,Service Request,12/Aug/24 7:06 PM,"Khách tới bước ký không có hđ
+
+LÔ VĂN KỶ
+
+ID 110263815
+
+CCCD 040096011162
+
+Sdt 
+
+0375371344","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58034,1043691,RA ĐIỂM CHI HỘ KHÔNG NHẬN ĐƯỢC MÃ GIAO DỊCH TRÊN FEO2.0,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,thuyhnb,712020:b57e01d2-a191-4321-8ddf-10ccd423d892,08/Aug/24 8:58 AM,09/Aug/24 10:10 AM,Service Request,16/Aug/24 3:06 AM,"Team em có case ra điểm chi hộ ngân hàng BIDV , nhưng app FEO2.0 không có trường xem mã giao dịch, Nhờ it hô trọ giúp em gấp, khách đang rất bực.
+KH: Trịnh Thị Xuân
+
+CRMID:1488168254
+
+APPID : 110358837
+Em cảm ơn",Luồng giải ngân/Disbursement -> Lỗi trong lúc làm xác thực gương mặt/Issue when perform face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-58033,1043690,Hỗ trợ khách hàng ký hợp đồng bước 1 trên FE2. không được,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Nhu Vo Thi Quynh 5,712020:da1cf176-c880-4922-9f85-9f70c1c2b9a5,08/Aug/24 8:57 AM,13/Aug/24 12:12 PM,Service Request,16/Aug/24 11:06 PM,"
+
+dear IT,.
+
+Hỗ trợ khách hàng ký hợp đồng bước 1 trên FE2. không được , báo OTP không khả dụng , qua 4h vô app FE2. vẫn không nhận được OTP đính kèm hình ạ
+
+Appid : 110319094
+
+crmid : 1487766890",eSign -> Lỗi OTP/OTP issues,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-58029,1043685,KHÔNG NHẬN ĐƯỢC MÃ GIAO DỊCH TRÊN FEO 2.0 TẠI ĐIỂM CHI HỘ,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,thuyhnb,712020:b57e01d2-a191-4321-8ddf-10ccd423d892,08/Aug/24 8:54 AM,12/Aug/24 11:29 AM,Service Request,16/Aug/24 3:06 AM,"Dear it,
+
+Team em có case ra điểm chi hộ ngân hàng BIDV , nhưng app FEO2.0 không có trường xem mã giao dịch, Nhờ it hô trọ giúp em gấp, khách đang rất bực.
+KH: Huỳnh Thanh Tuấn
+
+CRMID:1488152005
+
+APPID : 110348617
+Em cảm ơn",Luồng giải ngân/Disbursement -> Lỗi trong lúc làm xác thực gương mặt/Issue when perform face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12443,1043683,HỖ TRỢ LỖI KHÔNG CÓ THÔNG TIN KHOẢN VAY ĐƯỢC DUYỆT,Closed,Anh Nguyen Hoang 11,60470019ceccdd006a0e041f,Nhung Tran Thi Cam 6,712020:9ae6741c-81e2-4d11-89d2-a30fdd5313dc,08/Aug/24 8:51 AM,09/Aug/24 5:34 PM,Service Request,14/Aug/24 10:06 PM,"Dear IT
+Nhờ IT hỗ trợ KH đã được duyệt nhưng không có hợp đồng ký giải ngân
+Đã xoá app tải lại 3 lần vẫn không có
+Đăng Minh Kỳ, ID 110357823
+Thanks IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58027,1043682,FEOL 2.0 không có pop-up để xem mã bảo mật giải ngân ,Closed,Anh Nguyen Hoang 11,60470019ceccdd006a0e041f,Anh Bui Thi Ngoc,712020:ca4e5fa0-c985-4354-86db-767bc6ef8035,08/Aug/24 8:51 AM,12/Aug/24 11:35 AM,Service Request,16/Aug/24 3:06 AM,"Dear anh IT nhờ anh hỗ trợ giúp em case này ạ
+
+|AppID|CRMID|Product|Created date|Ứng dụng thực hiện|Mô tả lỗi|
+|110330661|68x1487651256|NTB|08/08/24|FEOL 2.0|FEOL 2.0 không có pop-up để xem mã bảo mật giải ngan|
+
+Em cám ơn anh IT ",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-58025,1043680,RA ĐIỂM CHI HỘ KHÔNG NHẬN ĐƯỢC MÃ GIAO DỊCH TRÊN FEO2.0,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,thuyhnb,712020:b57e01d2-a191-4321-8ddf-10ccd423d892,08/Aug/24 8:47 AM,08/Aug/24 5:26 PM,Service Request,13/Aug/24 8:06 PM,"Dear it,
+
+Team em có case ra điểm chi hộ ngân hàng BIDV , nhưng app FEO2.0 không có trường xem mã giao dịch, Nhờ it hô trọ giúp em gấp, khách đang rất bực.
+KH: Uông Quang Huy
+
+CRMID:1487069028
+
+APPID : 110219203
+Em cảm ơn ",Luồng giải ngân/Disbursement -> Lỗi trong lúc làm xác thực gương mặt/Issue when perform face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-58019,1043670,Lỗi không thấy hợp đồng trền FE0 2.0,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Minh Luu Hoang,712020:8252dbdb-4630-4a24-91d0-a4fd3bf54b3a,08/Aug/24 8:33 AM,12/Aug/24 12:26 PM,Service Request,16/Aug/24 3:06 AM,"ID App: 110362977
+Số ĐT: 0828841448
+So CCCD: 091083001607
+
+Hồ sơ PL đã được duyệt trên IÍale, nhưng vào app FEO 2.0 không thấy hợp đồng để ký
+
+Nhờ IT kiêm tra giúp
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58018,1043669,LỖI  OTP  ,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Hien Nguyen Van Phuong 1,712020:1c9c0e4d-ba6b-4db2-879c-4fb096e9b2fe,08/Aug/24 8:26 AM,14/Aug/24 5:40 PM,Service Request,19/Aug/24 11:06 PM,"Dear  It  !
+
+Nhờ  IT hỗ  trợ  kiểm tra  giúp em  khách  hàng  vào  ký  HD xác nhận giải  ngân bước  2  không  nhận được mã  OTP  
+
+ID : *110370352*
+
+Em Cám ơn It ",Ubank - Không nhận được OTP/ Unable to receive OTP,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-58011,1043639,KHÔNG CHO BẤM XÁC NHẬN GIẢI NGÂN,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Khoi Nguyen Van 1,61c418b8f3037f0069601694,07/Aug/24 9:19 PM,09/Aug/24 1:20 PM,Service Request,16/Aug/24 3:06 AM,"Dear IT,
+
+Nhờ IT kiểm tra giúp trường hợp này, không cho bấm xác nhận giải ngân để hoàn tất hợp đồng giải ngân : 
+
+Tên : Lê Thị Thuý Trinh, CMND số : 068302003048, App ID : 110363890
+
+Thanks !",Luồng giải ngân/Disbursement -> Lỗi trong lúc làm xác thực gương mặt/Issue when perform face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12436,1043638,Feonline 2.0 không hiển thị hợp đồng cho khách ký.,Closed,,,Lieu Bui,712020:357cf1bd-f6e7-4afb-8cd8-a8a7e8ff9484,07/Aug/24 8:57 PM,15/Aug/24 4:41 PM,Service Request,16/Aug/24 1:07 PM,"Dear phòng ban.
+
+Hồ sơ PL đã được duyệt nhưng Feonline 2.0 không hiển thị hợp đồng cho khách ký để giải ngân. Đã xoá app tải lại nhiều lần nhưng không được. Thông tin khách hàng như sau:
+
+Tên khách hàng: Nguyễn Thị Ngọc Bích.
+
+CCCD: 079181035824.
+
+Id hồ sơ: 110361203.","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-58009,1043635,Dear IT,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Hoa Hoang Quoc,609c916c9fd9f30067379aef,07/Aug/24 8:35 PM,08/Aug/24 11:35 AM,Service Request,13/Aug/24 11:06 AM,"Dear IT
+
+Kiểm tra giúp em 
+
+App ID : 110339850 Sđt : +0978050203+ CCCD : 052180003068
+
+vào kí không có hợp đồng","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12433,1043630,HỒ SƠ VAY LỖI KÍ FE ONLINE 2.0,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Phuc Bui Hong 2,712020:deb6e882-e4f9-4efa-89da-c6d63e3f3b93,07/Aug/24 7:49 PM,08/Aug/24 5:21 PM,Service Request,13/Aug/24 5:07 PM,"Dear team IT, 
+
+Nhờ anh fix lỗi kiểm tra thông tin trên FEOL 2.0 giúp em, KH đợi 1 lúc lâu rồi ạ:
+
+* Tên KH: Lò Thị Thương
+* App id: 110368636
+* Số đt: 0399341217
+* Số cccd: 014190001555
+
+Em cảm ơn
+
+",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12432,1043629,KHÔNG TÌM THẤY HỢP ĐỒNG TRÊN FEO 2.0,Closed,,,Ha Phan Thi Thi 1,712020:afae34d7-a24f-4217-ba62-c0496d9e8a3e,07/Aug/24 7:34 PM,15/Aug/24 4:41 PM,Service Request,16/Aug/24 1:07 PM,"Nhờ it hỗ trợ lỗi không tim thấy thông tin hợp đồng trên feonline
+
+Tên Bùi Hồng Thơ 
+Id: 110364921 
+Số đt: +0937741322+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58007,1043628,Nhờ IT hỗ trợ chuyển thông tin trên FE ONL 2.0 để kh ký hđ,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Hao Lo Tran Vinh,712020:cccc5a10-8477-49b7-ae6b-6cd6eded7fdc,07/Aug/24 7:34 PM,08/Aug/24 11:34 AM,Service Request,13/Aug/24 11:06 AM,"Dear IT,
+
+Nhờ IT hỗ trợ chuyển thông tin trên FE ONL 2.0 để kh ký hđ
+
+Kh : TRẦN QUỐC KHÁNH; App ID 110363099",Thông tin khoản vay/Loan information,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58002,1043619,Hỗ trợ hs đứng bước ký KYC,Closed,Dien Ho Quang,604700e0b020eb0068366730,Lan Quang Quy,5cd4e9354305dc0dc7a10095,07/Aug/24 7:12 PM,08/Aug/24 11:30 AM,Service Request,13/Aug/24 11:06 AM,"Dear it,
+
+Nhờ it hỗ trợ hs đứng bước KYC , sale hỗ trợ kh ký trên FEOL 2.0 mà bị đứng bước xoay như màn hình!
+
+Cảm ơn it!
+
+Kh tên: Phan Công Hùng
+
+App id: 110364693", Hồ sơ cá nhận/User profile,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12429,1043617,KHÔNG HIỂN THỊ THÔNG TIN KHOẢN VAY,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Phuc Bui Hong 2,712020:deb6e882-e4f9-4efa-89da-c6d63e3f3b93,07/Aug/24 7:10 PM,08/Aug/24 11:33 AM,Service Request,13/Aug/24 12:06 PM,"Dear team IT,
+
+Hồ sơ dưới đây đợi kí giải ngân nhưng trên FEOL 2.0 không hiện thông tin khoản vay, nhờ team hỗ trợ giúp em:
+
+* Tên KH: Vì Thị Hiên
+AppID: 110354333
+CCCD: 014301008566
+SDT: 0389731068
+
+Em cảm ơn
+
+",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-58001,1043615,"KHÓA OTP QUÁ 3 LẦN, QUÁ 2",Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,nguyenthithanhthuy52@fecredit.com.vn,qm:fd095524-f567-44b3-b7f1-5d8b4419a54f:06b5b723-7b71-4537-9519-37d5c35d54f5,07/Aug/24 7:02 PM,10/Aug/24 1:54 PM,Service Request,16/Aug/24 3:06 AM,"DEAR IT,
+
+NHỜ IT KIỂM TRA HỒ SƠ BỊ KHÓA OTP QUÁ 3 LẦN TK FEONLINE 2.0
+
+KH VÀO ĐĂNG NHẬP LẠI SAU 2 TIẾNG VẪN KO VÀO ĐƯỢC, BÁO CHỨC NĂNG OTP KO KHẢ DỤNG.
+
+CRM 1488114355
+
+APP 110355346
+
+CCCD  038084051608
+
+SDT 0966754327
+
+",eSign -> Lỗi OTP/OTP issues,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57997,1043606,Trên FE ONL không hiện thông tin hợp đồng để ký,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Hung Lieu Quoc,712020:b084b540-63ff-4d26-944e-14ba62c55883,07/Aug/24 6:44 PM,08/Aug/24 5:45 PM,Service Request,13/Aug/24 8:06 PM,"Dear IT!
+
+kh TẠ NGỌC HẢI
+ID APP: 110357924
+Sđt kh : 0796297684","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57995,1043603,HỖ TRỢ KÝ HỢP ĐỒNG KHÔNG THÔNG TIN HỢP ĐỒNG OFFER ĐÃ LÊN,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Linh Ngo Thi Thuy 5,712020:aaa579cc-6c9e-485d-90f2-b672d937a395,07/Aug/24 6:39 PM,08/Aug/24 5:46 PM,Service Request,13/Aug/24 8:06 PM,"Dear IT
+
+NHỜ IT KIỂM TRA GIÚP HỒ SƠ TSA LÊN 
+
+TSA LÊN OFFER KHOẢN VAY: 
+
+APP: 110364072
+
+CCCD: 046303000236
+
+SDT: 0369669673
+
+CRM: 1488162253",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57994,1043601,HỒ SƠ KHÔNG CÓ HỢP ĐỒNG,Closed,Dien Ho Quang,604700e0b020eb0068366730,Nhi Mai Thi Tuyet 4,712020:033356c7-d650-4c3c-bf58-0214b9305d26,07/Aug/24 6:35 PM,08/Aug/24 1:14 PM,Service Request,13/Aug/24 3:06 PM,"Dear IT,
+
+Nhờ kiểm tra giúp em trường hợp bên dưới, hồ sơ Pending-Customer-Decision nhưng KH vào app không có hợp đồng
+
+APP ID : *110363070*
+
+SĐT : 0901251585
+
+CCCD : 077093002670
+
+Tks !","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI CÔNG NGHỆ THÔNG TIN/ IT DIVISION
+FI-12427,1043594,KHÔNG CÓ HỢP ĐỒNG TRÊN FE.ONL,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Phuc Nguyen Van 18,712020:fe7b4fee-2fa7-46ad-a7ef-61f62fb3d565,07/Aug/24 6:28 PM,08/Aug/24 5:47 PM,Service Request,13/Aug/24 5:07 PM,"Dear A/C
+
+Nhờ A/C kiểm tra giúp em, không có hợp đồng trên FEONL
+
+Tên: PHẠM CÔNG DANH
+
+ID: 110358424
+
+Thanks",Luồng giải ngân/Disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57991,1043593,HỖ TRỢ KH KHÔNG HIỆN THỊ KHOẢN VAY ID :110328264,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Chien Tran Quoc,6098dacd9da6d5007000ed8b,07/Aug/24 6:20 PM,08/Aug/24 8:42 PM,Service Request,13/Aug/24 8:05 PM,"Dear IT 
+
+Nhờ IT hỗ trợ KH giải ngân nhưng ko hiện thị HĐ ký trên FeOnline 2.0 App ID:110328264
+
+Thanks!
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57990,1043592,Không chụp được mặt sau CCCD,Closed,Dien Ho Quang,604700e0b020eb0068366730,Truc Tran Thi Thuy,712020:266cb5cc-85e6-44fe-b25e-4e8b193d0a0a,07/Aug/24 6:19 PM,12/Aug/24 7:57 AM,Service Request,16/Aug/24 3:06 AM,"Dear IT,
+
+Khách hàng tiến hành KYC chỉ chụp được mặt trước CCCD, đến bước chụp mặt sau thì không chụp được nữa.
+
+Đã đổi nhiều điện thoại khác nhưng vẫn bị lỗi trên.
+
+
+
+Thông tin khách hàng 
+
+Lê Thị Phượng
+
+Appid 110284459
+
+Pega case ID PL-8279357",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57987,1043587,KIỂM TRA THÔNG TIN SỐ TIỀN VAY BỊ SAI,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Linh Ngo Thi Thuy 5,712020:aaa579cc-6c9e-485d-90f2-b672d937a395,07/Aug/24 6:10 PM,12/Aug/24 4:01 PM,Service Request,16/Aug/24 3:06 AM,"Dear IT
+
+nhờ it kiểm  tra thông tin hợp đồng của khách hàng sai số tiền vay
+
+*Sale lên meeting khoản vay 40tr nhưng vào kiểm tra hợp đồng 100 triệu. ( đính kèm hình ảnh lỗi)*
+
+CRM: 1458913891 
+CCCD: 080177001645 
+APP ID: 110359505
+
+tên khách hàng: PHẠM THỊ ÁNH",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57985,1043585,HỒ SƠ CANCEL DO UW _ VÀO LẠI FE 2.0 ĐỂ BĐKV  LẠI NHƯNG KHÔNG CÓ TAB,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Sang Tran Xuan 1,712020:d0fb7baf-e487-4c5c-8322-a93757286f13,07/Aug/24 6:09 PM,12/Aug/24 2:52 PM,Service Request,16/Aug/24 3:06 AM,"Dear IT
+
+nhờ IT hỗ trợ kh vào app kí nhưng không hiện tab BĐKV _ HS bị UW cancel vào FE 2.0 BĐKV lại nhưng không có tab
+
+|TÊN KH|CMND/CCCD|SDT|
+|TRẦN THỊ THANH|038187027045|0395820463|
+
+",Đăng ký khoản vay/Loan application,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57980,1043577,Kh tới bước giải ngân không hiện mã bảo mật đi nhận tiền lần 1 không được nhờ IT check giúp ,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Tram Tran Thi Hoang,60952115f6c0960069fc011e,07/Aug/24 5:58 PM,08/Aug/24 11:47 AM,Service Request,13/Aug/24 2:07 PM,"Dear IT, 
+Nhờ IT hỗ trợ giúp case bên dưới 
+
+huỳnh thị xuân giang 
+056193004135
+app id 110316411",Luồng giải ngân/Disbursement -> Lỗi trong lúc làm xác thực gương mặt/Issue when perform face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12423,1043574,KHÁCH HÀNG VÀO KHÔNG TÌM THẤY HỢP ĐỒNG ĐỂ KÝ,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Huong Nguyen Thi Ly 1,712020:49cf6651-9706-4760-92fc-a86d2e732d9b,07/Aug/24 5:51 PM,08/Aug/24 8:40 PM,Service Request,13/Aug/24 5:07 PM,"Dear IT,
+
+Nhờ anh chị hỗ trợ giúp em với ạ kh đc duyệt rồi nhưng vào feol 2.0 không tìm thấy hợp đồng để ký ạ
+
+Họ và tên: Nguyễn Văn Thuận
+
+CCCD: 008083005201
+
+ID: 110356386
+
+SDT; 0378779183
+
+Em cảm ơn",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57973,1043562,APP KHÔNG HIỆN TAB BĐKV ,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Sang Tran Xuan 1,712020:d0fb7baf-e487-4c5c-8322-a93757286f13,07/Aug/24 5:43 PM,07/Aug/24 5:56 PM,Service Request,12/Aug/24 5:06 PM,"Dear IT 
+
+nhờ IT hỗ trợ kh vào app kí nhưng không hiện tab BĐKV
+
+|TÊN KH|APP ID|CMND/CCCD|SDT|
+|TRẦN THỊ THANH|110354879|038187027045|0395820463|
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57969,1043555,KHÁCH XÁC THỰC KHÔNG ĐƯỢC,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Thy Nguyen Ngoc Nha,712020:26191fa5-3348-41f1-b3e2-e857cbfc90c0,07/Aug/24 5:39 PM,08/Aug/24 11:48 AM,Service Request,13/Aug/24 2:07 PM,"DEAR IT , KH NGUYỄN THỊ MẠM - CCCD 092172014313 - SDT 0386069902  - APP ID 110357701 - KHÁCH XÁC THỰC XONG NHƯNG KHÔNG CÓ TÀI KHOẢN ĐĂNG NHẬP ĐỂ KÝ - NHỜ IT CHECK GIÚP EM LỖI GÌ
+
+TKS IT ",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12420,1043552,KH không nhận được mã OTP khi giải ngân hồ sơ PL,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Huong Nguyen Thi Mai 16,712020:18f2aed2-bed7-4edd-b2c0-d7fa3f1b43de,07/Aug/24 5:36 PM,08/Aug/24 5:28 PM,Service Request,13/Aug/24 5:06 PM,"Dear IT!!
+
+Hồ sơ PL đã duyệt khách đi nhận tiền giải ngân nhưng không nhận được mã nhận tiền. Nhờ anh chị hỗ trợ.
+
+Nguyễn thị tuyên
+Sđt: 0919475626
+Số cc: 044179010051
+Id: 110357430
+
+Em cảm ơn ạ.",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57967,1043551,HỖ TRỢ CẬP NHẬT SDT KH TRÊN APP FEONLINE,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Anh Bui Thi Ngoc,712020:ca4e5fa0-c985-4354-86db-767bc6ef8035,07/Aug/24 5:36 PM,08/Aug/24 11:50 AM,Service Request,08/Aug/24 6:07 PM,"DEAR ANH IT,
+
+|Tên Khách hàng|CCCD KH|SĐT KH TRÊN VTIGER|SĐT KH TẠO TK FOL|LỖI|
+|HOÀNG VĂN SƠN|004203003253|039298023|0886235518|cần hỗ trợ update lại đúng sdt của kh cho đúng với vtiger nhưng feol không có cây bút để update sdt mới|
+
+", Hồ sơ cá nhận/User profile,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-57965,1043549,không tìm thấy EKYC ,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Thanh Trinh Thanh 1,712020:c3ce2988-d855-42b2-9654-ac5e8452e96d,07/Aug/24 5:35 PM,08/Aug/24 10:37 AM,Service Request,13/Aug/24 11:06 AM,"Dear IT ! 
+
+Nhờ anh check giúp em KH Nguyễn Thị Thanh Thúy số APP ID 110345068 lỗi cancle không tìm thấy EKYC 
+
+Em cảm ơn ",eSign -> Kiểm tra lý do Reject hồ sơ/Check rejection reason for application,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+FI-12418,1043545,Nhờ ity hổ trợ kh Đoàn Hoàng Tiến,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Trung Nguyen Thi 1,712020:f4a85776-a1c2-4d95-8a5a-1f4378cb3758,07/Aug/24 5:28 PM,12/Aug/24 8:37 AM,Service Request,14/Aug/24 10:06 PM,"Nhờ ity hổ trợ kh Đoàn Hoàng Tiến
+
+App id: 110338830
+
+Ko có hợp đồng để kí hồ sơ duyệt
+
+Em cám ơn ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57962,1043541,Feo không tìm thấy hợp đồng,Closed,Dien Ho Quang,604700e0b020eb0068366730,Loc Phung Van,712020:ca0a3be0-beac-4920-91c3-937f1db09c61,07/Aug/24 5:25 PM,08/Aug/24 1:15 PM,Service Request,13/Aug/24 2:07 PM,"Dear It
+
+Nhờ it hổ trợ giúp FEO không tìm thấy hợp đồng để ký
+
+Id 110359157
+
+Tks","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57959,1043535,Hồ sơ duyệt nhưng không thấy khoản vay để ký giải ngân,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Thanh Tran Quang 2,609b48bc47ba02006f9e723d,07/Aug/24 5:21 PM,12/Aug/24 12:24 PM,Service Request,16/Aug/24 4:07 AM,"AppID: 110355452
+
+CCCD: 040087030090
+
+Số đt:0987248086
+
+Họ và tên: Cao Xuân Mão
+
+Hồ sơ được duyệt, nhưng vào feonline ký giải ngân không thấy khoản vay để ký, nhờ anh/chị kiểm tra hỗ trợ ạ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12417,1043529,KÝ HĐ TRÊN FE 2.0 KHÔNG HIỂN THỊ HĐ,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Tuyen Trinh Cu 1,712020:db0d991a-857a-4f5d-8d39-10b155440b3c,07/Aug/24 5:11 PM,07/Aug/24 5:51 PM,Service Request,12/Aug/24 11:06 PM,"Dear IT !
+
+Hổ trợ xử lý lỗi ký hđ trên FE .2.0 không có hđ để ký
+
+APP ID. 110357175 ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12415,1043524,KÝ HỢP ĐỒNG,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Ngoc Lu Thi My,619e02f5744c4d0069b4b0da,07/Aug/24 5:05 PM,12/Aug/24 1:35 PM,Service Request,15/Aug/24 12:06 PM,"DEAR IT HỒ SƠ PL ĐƯỢC DUYỆT NHƯNG KHÔNG HIỆN HỒ SƠ KÝ Ạ
+
+Kh:nguyễn anh duy
+
+Id:110355468","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57954,1043523,Lỗi hệ thống,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Phung Mai Thi Thu,62302e30867a4e00709583a9,07/Aug/24 5:03 PM,08/Aug/24 9:16 AM,Service Request,12/Aug/24 7:06 PM,"Khách  vào ký giải ngân  bị báo lỗi hình đính kèm
+
+Bùi bảo việt
+
+Cccd 056083007166
+
+Sdt 0982274787
+
+Id 110350420","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57950,1043518,Hỗ trợ HĐ NTB được duyệt nhưng không hiển thị trên FE ONL 2.0,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Manh Le Duy,628a0ba7c65b720069601bf1,07/Aug/24 4:58 PM,08/Aug/24 8:39 AM,Service Request,14/Aug/24 12:06 AM,"Dear IT ! 
+
+Hồ sơ CC nhập duyệt cho khách hàng nhưng khi vào ứng dụng FE online 2.0 không hiện khoản vay để kí cho khách lấy tiền. 
+
+Thông tin khách: Trương Văn Hoà
+
+ID: 10355564
+
+Thanks Team !!!
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57949,1043517,LỖI OTP FEOL 2.0,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Qui Dang Thi Bich 2,712020:3063921a-64bf-4ef8-ad69-b165e30a7b21,07/Aug/24 4:57 PM,08/Aug/24 11:37 AM,Service Request,13/Aug/24 2:07 PM,"Dear IT
+
+Nhờ IT hỗ trợ khách HỒ LÀNH _ CRM 1487933292
+
+Sđt lên hồ sơ: 0918115859
+
+Sđt đăng ký FEOL : 0934948994 
+
+CCCD: 048075000798
+
+Ban đầu khách đăng lý đúng sđt trên vtiger tuy nhiên phát sinh lỗi mã OTP( ĐÍNH KÈM ẢNH )
+
+Khách đổii qua sđt 0934948994 đăng ký thử đợi update lại thì không được, nhưng vẫn có hợp đồng .
+
+Nhờ IT hỗ trợ giúp .
+
+Thanks IT.",eSign -> Lỗi OTP/OTP issues,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57942,1043509,APP FE ONLINE LỖI,Closed,Thien Nguyen Minh,60f6298a199a8400683a33f4,huong.dtt2@saigonbpo.vn,qm:fd095524-f567-44b3-b7f1-5d8b4419a54f:bd09994d-3cda-4825-985d-ec9ee69cd7b2,07/Aug/24 4:48 PM,07/Aug/24 5:09 PM,Service Request,12/Aug/24 5:06 PM,"Dear IT,
+
+App FEOL 2.0 lỗi, ko vào ký xác nhận giải ngân được, nhờ IT check giúp, thanks IT
+
+CRMID  1488076448
+ID 110336873",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,Đối Tác FE/FEC Partner
+BO-57934,1043490,KO CÓ DỮ LIỆU ĐỂ KÝ HĐ,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Thuy Nguyen Thi Ngoc,6387475e9341d1f13608650a,07/Aug/24 4:39 PM,14/Aug/24 8:57 AM,Service Request,16/Aug/24 11:06 PM,"Dear Anh/chị 
+
+Nhờ anh/chị hỗ trơ giúp ID: 110351381 vào FE online ko có dữ liệu để ký HD vay
+
+cảm ơn anh/chị
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12412,1043488,KH không nhận được mã OTP khi giải ngân hồ sơ PL,Closed,Hai Nguyen Xuan 5,61af2ec5b43d5b006aba6a0b,Huong Nguyen Thi Mai 16,712020:18f2aed2-bed7-4edd-b2c0-d7fa3f1b43de,07/Aug/24 4:36 PM,09/Aug/24 1:17 PM,Service Request,14/Aug/24 12:06 PM,"Dear IT!!
+
+Hồ sơ PL đã duyệt khách đi nhận tiền giải ngân nhưng không nhận được mã trên FEonline 2.0. Nhờ anh chị hỗ trợ.
+
+Dương Thị Ngọc Sương
+Id: 110351306
+
+Cccd: 044303001114
+
+Em cảm ơn.",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57932,1043487,KHÔNG CÓ BẮT ĐẦU KHOẢN VAY FEO2.0,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,thuyhnb,712020:b57e01d2-a191-4321-8ddf-10ccd423d892,07/Aug/24 4:35 PM,13/Aug/24 4:06 PM,Service Request,13/Aug/24 5:06 PM,"Dear it,
+Team em có case app FEO2.0 không hiện bắt đầu khoản vay, 
+CRMID: 1488168254","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57929,1043482,Không có hợp đồng để ký trên FEOL 2.0,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Phu Le Hoang,712020:0aff92b3-edeb-4b80-9b52-0e9a3e0662e2,07/Aug/24 4:30 PM,07/Aug/24 4:46 PM,Service Request,12/Aug/24 5:06 PM,"Dear IT
+
+Nhờ IT hỗ trợ kiểm tra app id 110352625, hồ sơ đã được duyệt nhưng không có hợp đồng trên FEOL 2.0
+
+Lỗi như hình đính kèm","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57926,1043476,hỗ trợ ký hồ Sơ FE ONLINE,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Dong Pham Thanh 1,61eb77e0f0ed040068af135a,07/Aug/24 4:26 PM,12/Aug/24 4:05 PM,Service Request,12/Aug/24 5:06 PM,"Dear ANh Chị
+
+Nhờ anh chị hỗ trợ giúp em. hồ sơ khách hàng đến bước ký không thể hiện hợp đồng vay để ký trên FE 2.0 ạ.
+
+Id: 110331491
+Họ và tên:  Nguyễn văn thưởng
+Số cccd:  038080030762
+Sđt: 038 7864535
+
+Em cảm ơn","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57922,1043471,LỖI KÍ EIGSN LẦN 2,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Bao Nguyen Hoai,60924dca000224006a9ad7b4,07/Aug/24 4:21 PM,08/Aug/24 4:49 PM,Service Request,13/Aug/24 9:07 PM,"Dear IT. Nhờ IT hổ trợ KH ĐÀM VĂN THUẬN-CRM-1488141377-APP ID-110349128- hồ sơ đến bước Decision , KH vào kí duyệt khoảng vay báo lỗi như hình. Cám ơn IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57921,1043469,HỖ TRỢ KH HUỲNH NGỌC THÁI KHÔNG HIỆN MỤC BẮT ĐẦU ( HỖ TRỢ TỪ TƯ VẤN VIÊN ),Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Anh Bui Thi Ngoc,712020:ca4e5fa0-c985-4354-86db-767bc6ef8035,07/Aug/24 4:20 PM,14/Aug/24 8:06 PM,Service Request,19/Aug/24 11:06 PM,"DEAR ANH IT,
+
+NHỜ ANH HỖ TRỢ GIÚP EM KH BÊN DƯỚI VAO APP FEONLINE KHÔNG HIỂN THỊ  MỤC BẮT ĐẦU ( HỖ TRỢ TỪ TƯ VẤN VIÊN )
+
+|Tên Khách hàng|CCCD KH|SĐT KH|Thời gian thử ký lại trên FEOL2.0|
+|HUỲNH NGỌC THÁI|052086002930|0909519342|4.17|
+
+",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-57918,1043464,KHÔNG CÓ HỢP ĐỒNG ESIGN LẦN 1,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Dao Tran Thi Bich 1,626920280f0cc0006f8f33f6,07/Aug/24 4:10 PM,08/Aug/24 9:31 AM,Service Request,13/Aug/24 9:05 AM,"Dear It, 
+
+Nhờ IT hỗ trợ Th kh vào app FEOL 2 k có hợp đồng để ký
+
+Lỗi như hình.
+
+Thông tin Kh:
+
+ĐẶNG THỊ LƯƠNG 
+
+CCCD:019187015052
+
+SDT: 0357617028
+
+ APp ID: *110324695*
+
+Thanks IT
+
+ ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57916,1043461,hỗ trợ khách ko có ký hợp đồng trên fe2- 1487292439 tiên,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Dat Nguyen Tan 7,712020:f0de2d36-8bcf-4cf1-9239-dd0fa45d0fa8,07/Aug/24 4:05 PM,08/Aug/24 4:47 PM,Service Request,13/Aug/24 9:07 PM,"dear it
+
+nhờ a.c hỗ trợ giúp sale, khách vào fe 2 nhưng ko có chữ ký hđ
+
+sdt: 0939377003  cccd 082186009898
+
+crm id: 1487292439
+
+app id: 110325549
+
+em cảm ơn","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57915,1043459,Hồ sơ PL được duyệt nhưng vào fe online2.0 không hiện khoản vay,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Manh Le Duy,628a0ba7c65b720069601bf1,07/Aug/24 4:02 PM,07/Aug/24 7:40 PM,Service Request,12/Aug/24 6:06 PM,"Dear it!
+
+Hồ sơ PL CC lên được duyệt rồi nhưng khi vào ứng dụng Fe online 2.0 không hiện khoản vay để ký cho khách lấy tiền
+
+Mình gửi thông tin 
+
+Kh: Lê Thị Hà
+
+Id: 110324052
+
+Tks all", Hồ sơ cá nhận/User profile,KHỐI CÔNG NGHỆ THÔNG TIN/ IT DIVISION
+FI-12410,1043451,Nhờ anh chị hỗ trợ dùm em fe2.0 không hiện số tiền vay của khách,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,My Nguyen Thi To,712020:e892c8b7-559e-4b92-8a44-43a684287399,07/Aug/24 3:59 PM,08/Aug/24 8:55 AM,Service Request,12/Aug/24 11:06 PM,"Dear anh chị
+
+Nhờ a chị hỗ trợ dùm em  fe2.0 không hiện số tiền vay của khách
+
+Id: 110345391
+
+Khách :trương văn mall
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI TÀI CHÍNH/ FINANCE DIVISION
+BO-57910,1043450,Không có hồ sơ ký xác nhận khoản vay trên FEONLINE 2.0,Closed,,,Hung Luong Van,6055f40d90f288007021a804,07/Aug/24 3:58 PM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 4:06 PM,"Dear anh chị IT
+
+Nhờ anh chị hỗ trợ đẩy hồ sơ về trên FEONLINE 2.0 cho 2 khách bên dưới, trên iSale đang chờ khách hàng quyết định vay, nhưng khách vào FEONLINE2.0 thì không hiện hợp đồng nào
+
+
+
+1.
+
+KH: Vũ Thị Hiền
+
+AppID: 110320770
+
+
+
+# 
+
+KH: Nguyễn Trường Tuệ
+
+AppID: 110346481",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57901,1043436,LỖI KÝ LẦN 2 KHÔNG HIỂN THỊ HĐ ,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Sang Tran Xuan 1,712020:d0fb7baf-e487-4c5c-8322-a93757286f13,07/Aug/24 3:52 PM,07/Aug/24 4:28 PM,Service Request,12/Aug/24 4:06 PM,"DEAR IT 
+
+NHỜ IT HỖ TRỢ GẤP KÝ LẦN 2 KHÔNG HIÊN THỊ HĐ 
+
+|AppID|CRMID|Product|Created date|Ứng dụng thực hiện|Mô tả lỗi|
+|110341214|1488079290|Xsell|07/08/2024|FEOL 2.0|Không có Hợp đồng ký Offer|
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12406,1043426,Không hiển thị hồ sơ để khách ký,Closed,,,Thuy Le Thi Thanh 20,712020:f7853670-20c6-4b15-9326-91c07033d73c,07/Aug/24 3:47 PM,13/Aug/24 5:39 PM,Service Request,16/Aug/24 1:07 PM,"Tên kh : Nguyễn thị kim thuỷ
+CCCD:    060196013405
+ID : 110332163
+
+ĐT :  0382352316
+
+Lỗi không có hợp đồng trên feonline để ký",Thông tin sản phẩm/Product information -> Không thấy sản phẩm/No product information display,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12404,1043422,KÝ HĐ TRÊN FE 2.0 KHÔNG HIỂN THỊ HĐ,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Tuyen Trinh Cu 1,712020:db0d991a-857a-4f5d-8d39-10b155440b3c,07/Aug/24 3:43 PM,12/Aug/24 6:47 PM,Service Request,16/Aug/24 1:07 PM,"Dear IT !
+
+Hổ trợ xử lý lỗi ký hđ trên FE .2.0 không có hđ để ký 
+
+APP ID. 110330527 
+
+APP ID. 110334525
+
+APP ID. 110325154","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57892,1043417,Hỗ trợ hồ sơ lỗi video call,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Viet Tran Hoang 1,61ee8530aeaacb0072e65004,07/Aug/24 3:40 PM,07/Aug/24 5:23 PM,Service Request,12/Aug/24 6:06 PM,"iD : 110349605 Vi Văn Khánh               
+
+Cccd: 024079007322                                         sdt: 0988313330       
+
+Nhờ team hỗ trợ hồ sơ lỗi video call",Video call -> lỗi không tạo link video call/ cannot re-generate video link,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57891,1043416,KH VÀO FEOL KHÔNG CÓ HỢP ĐỒNG ĐỂ KÝ ,Closed,,,Trang Truong Thi Thuy,712020:83565fb3-16ba-4941-90b6-89e71490c0b6,07/Aug/24 3:40 PM,09/Aug/24 10:47 AM,Service Request,15/Aug/24 4:06 PM,"Dear It,
+
+Kh này vào FEOL không có hợp đồng để ký. KH thử trên FEOL 1.0 và FEOL 2.0 đều không được.
+
+KH Hồ Thi Thu Thủy - App Id  *110319744* - CRIMD  1487917211 -CCCD 052180018680 - SDT  [0983***640|tel:0983***640]","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12402,1043412,NHỜ HỖ TRỢ CASE KHÁCH HÀNG LỖI KHÔNG THẤY CÓ HỢP ĐỒNG GIẢI NGÂN ĐỂ KÝ,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Nhung Do Thi 6,62a4205c451c00006967fd1d,07/Aug/24 3:36 PM,09/Aug/24 3:52 PM,Service Request,14/Aug/24 4:06 PM,"Dear anh chị
+
+nhờ anh chị xme giúp em khách hàng sau lỗi không có hợp đồng để ký trên feonline 2.0
+
+App ID : 110347636.
+Số căn cước: 017182005502
+Sđt: 0376260809
+
+cảm ơn anh chị","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12401,1043411,KHÁCH HÀNG VÀO KHÔNG TÌM THẤY HỢP ĐỒNG ĐỂ KÝ,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Huong Nguyen Thi Ly 1,712020:49cf6651-9706-4760-92fc-a86d2e732d9b,07/Aug/24 3:36 PM,09/Aug/24 10:29 AM,Service Request,14/Aug/24 10:06 AM,"Dear IT,
+
+Nhờ anh chị hỗ trợ giúp em trường hợp sau ạ kh k tìm thấy hợp đồng để vào ký hồ sơ ạ
+
+Họ và tên: Đặng Viết Định
+
+CCCD: 026083001477
+
+SDT: 0379820998
+
+Em cảm ơn!",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57886,1043405,hỗ trợ khách không có hợp đồng trên FE online 2.0,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Thuong Le Thanh,60a3330975e875006f09c897,07/Aug/24 3:27 PM,08/Aug/24 11:30 AM,Service Request,13/Aug/24 11:06 AM,"Dear it 
+
+Nhờ it hỗ trợ giúp , hiện khách hàng đã được phê duyệt , nhưng khách vào Fe online 2.0 thì không thấy có thông tin hợp đồng , nhờ it hỗ trợ giúp 
+
+Appid : 110305561 
+
+cảm ơn It ",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57880,1043397,Hỗ trợ FEonline 2.0 không có hợp đồng đề ký,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Phuong Pham Thi Lan 2,61ca6ac4e67ea2006b679239,07/Aug/24 3:23 PM,07/Aug/24 5:25 PM,Service Request,12/Aug/24 6:06 PM,"Dear IT
+
+Hợp đồng của khách hàng dưới đây đã thẩm định xong
+
+Tuy nhiên FEonline 2.0 không có hợp đồng được duyệt để ký giải ngân
+
+Nhờ IT hỗ trợ kiểm tra giúp em
+
+App ID: 110346740",Thông tin khoản vay/Loan information -> Thông tin khoản vay của người khác/See loan information of other,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57874,1043384,KIỂM TRA TRẠNG THÁI FEOL,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Hieu Ta Minh,6124659fdb2b4e006a0608a2,07/Aug/24 3:15 PM,08/Aug/24 11:56 AM,Service Request,13/Aug/24 2:07 PM,"Dear Anh
+Nhờ anh hỗ trợ lại giúp em lần 2 hồ sơ kí thành công rồi mà k chuyển bước yêu cầu kt trạng thái feol
+Khách hàng: Thái Lộc
+Id: 110338184
+CCCD: 093080000382
+Ticker: SDFI-12389
+Nhờ IT kiểm tra và hổ trợ giúp sale",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57871,1043379,KHÔNG TÌM THẤY KẾT QUẢ EKYC,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Sang Ho Minh 4,712020:dedea4c6-2424-45cb-9cef-2f354e92b92a,07/Aug/24 3:09 PM,07/Aug/24 3:18 PM,Service Request,12/Aug/24 4:06 PM,"DEAR IT,
+
+Nhờ IT kiểm tra giúp sale, không tim thấy kết quả ekyc
+
+ID: 110338565
+
+CCCD: 074079006827","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57869,1043372,HỖ TRỢ KHÁCH GIẢI NGÂN FE2 - 1487408390 ,Closed,,,Dat Nguyen Tan 7,712020:f0de2d36-8bcf-4cf1-9239-dd0fa45d0fa8,07/Aug/24 3:02 PM,14/Aug/24 8:54 AM,Service Request,15/Aug/24 4:06 PM,"DEAR IT
+
+NHỜ A.C HỖ TRỢ GIÚP SALE HIỆN KHÁCH GIẢI NGÂN NHƯNG VÀO FE2 THÌ KO CÓ THÔNG TIN 
+
+SDT: 0345378401
+
+CCCD: 060200012367
+
+APP ID: 110308783
+
+EM CẢM ƠN",Luồng giải ngân/Disbursement,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57856,1043358,HỖ TRỢ LỖI KHÔNG ĐĂNG KÝ KHOẢN VAY,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Nguyễn Thành Công,712020:960cec2b-3772-4850-91eb-da93613ed7f0,07/Aug/24 2:49 PM,16/Aug/24 6:58 PM,Service Request,22/Aug/24 2:38 PM,"Dear IT,
+IT hỗ trợ check lỗi trên App FEO 2.0 không hiển thị mục đăng ký khoản vay.
+
+Name: NGUYỄN THỊ NHẠN
+CCCD: 040166024376 
+Phone: 0973504151
+Thanks IT,",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,Đối Tác FE/FEC Partner
+BO-57847,1043337,khách nhận tiền không nhận được link chụp hình nhận mã otp  nhờ IT hỗ trợ,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Phung Mai Thi Thu,62302e30867a4e00709583a9,07/Aug/24 2:37 PM,15/Aug/24 5:56 PM,Service Request,21/Aug/24 12:06 AM,"khách nhận tiền không nhận được link chụp hình nhận mã otp  nhờ IT hỗ trợ 
+
+nguyễn ngọc kiều
+
+025088001770
+
+0965373000
+
+app id 110307270",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57846,1043335,không hiện hợp đồng ký lần 1,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Ngoan Ngo Van,5d08becb3e70a70bcff1141f,07/Aug/24 2:36 PM,08/Aug/24 4:44 PM,Service Request,13/Aug/24 9:07 PM,"Dear IT,
+
+nhờ kiểm tra lỗi không hiện hợp đồng ký lần 1
+
+TRẦN NGUYỄN QUỐC HƯNG	
+App ID: 110344835
+
+id: 083202011550
+
+sdt: 0902812234","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57844,1043333,LỖI NHẬN TIỀN KHÔNG NHẬN OTP,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Linh Ngo Thi Thuy 5,712020:aaa579cc-6c9e-485d-90f2-b672d937a395,07/Aug/24 2:36 PM,12/Aug/24 2:05 PM,Service Request,12/Aug/24 3:07 PM,"Dear IT
+
+kiểm tra hồ sơ lỗi bước nhận tiền không gửi otp
+
+Tên khách hàng: Nguyễn Hữu Quảng
+
+app: 110298637
+cccd: 044093013988
+
+sdt: 0932560580",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57838,1043324,KHÁCH KHÔNG THẤY HỢP ĐỒNG,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,tanguyenngoctruyen1@fecredit.com.vn,qm:fd095524-f567-44b3-b7f1-5d8b4419a54f:ccd524f4-8993-43c5-b308-e0d5efa47b8b,07/Aug/24 2:31 PM,08/Aug/24 4:41 PM,Service Request,13/Aug/24 9:06 PM,"TRẦN THỊ TUYẾT MAI 
+
+APP ID: 110332716","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57834,1043314,Không hiện mã giao dịch để nhận tiền,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Phung Mai Thi Thu,62302e30867a4e00709583a9,07/Aug/24 2:26 PM,08/Aug/24 4:38 PM,Service Request,13/Aug/24 9:06 PM,"Không hiện mã giao dịch để nhận tiền
+
+Nguyễn tiến hoàng- cccd : 030201013822-sdt : 0339424 114-id: 110331275
+
+nguyễn xuân thắng- sdt 0961646582- cccd : 036082001529 -id: 110337936",Rút tiền mặt/Get Cash,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57833,1043313,Lỗi liên quan đến FEOL 2.0 S-64926852,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:25 PM,12/Aug/24 2:33 PM,Service Request,16/Aug/24 4:06 AM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 6:57 PM|S-64926852|TRẦN THỊ KIM TRÚC|20240329-0924906|#1: TRẦN THỊ KIM TRÚC - 083303004271 - 20240329-0924906 - 0948870597, thời gian lỗi ngày 06/08/2024 - KH thực hiện thao tác đăng ký tài khoản, đã thao tác xác minh nhiều lần nhưng vẫn báo thất bại như hình [_trucquang2706@icloud.com|mailto:_trucquang2706@icloud.com]|loi_dang_ky_tai_khoan|Định danh eKYC không thành công (Đăng ký mở tài khoản FEOL)|Định danh eKYC không thành công (Đăng ký mở tài khoản FEOL) - có button thử lại|
+
+",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57831,1043311,Lỗi liên quan đến FEOL 2.0 S-64925521,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:24 PM,15/Aug/24 4:13 PM,Service Request,21/Aug/24 12:06 AM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 5:57 PM|S-64925521|[hatrang173198@gmail.com|mailto:hatrang173198@gmail.com]| |#1: Nguyễn Hà Trang-001198023293-0352754343-iphone 11 promax-ios-iOS 16.1-từ tối 5/8 đến nay vẫn bị lỗi-Lỗi: Khách hàng đăng ký tài khoản nhưng báo lỗi mặc dù đã điền đúng thông tin|loi_dang_ky_tai_khoan|Định danh eKYC không thành công (Đăng ký mở tài khoản FEOL)|Lỗi điền thông tin cá nhân|
+
+",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+FI-12388,1043309,KHÔNG HIỆN KHOẢN VAY,Closed,Dien Ho Quang,604700e0b020eb0068366730,Mai Phan Thi Ngoc 7,712020:805e737c-8980-41d7-9cb8-a8cb21fe9c6e,07/Aug/24 2:24 PM,08/Aug/24 11:33 AM,Service Request,13/Aug/24 12:06 PM,"Dear IT !!!
+
+Nhờ IT hỗ trợ cho sale hiện tại bạn tới bước ký điện tử nhưng không hiện họp đồng ký,
+
+ID: 110343154 kh NGUYỄN THỊ THANH KIỀU","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57829,1043308,Lỗi liên quan đến FEOL 2.0 S-64921430,Closed,Phuc Truong Hoang 1,60052e236aa09b006f8d09dd,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:23 PM,13/Aug/24 3:50 PM,Service Request,16/Aug/24 11:06 PM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 4:28 PM|S-64921430|ĐẶNG KIÊM CHI|0001500020000038069|#1: ĐẶNG KIÊM CHI - 031078004236 - 0001500020000038069 - 84903954891 - Khách hàng báo lỗi không tra cứu được thông tin hợp đồng thẻ trên ứng dụng FE Online 2.0 - [dangkiemchi@gmail.com|mailto:dangkiemchi@gmail.com] + hình|loi_tra_cuu_thong_tin|Không hiển thị thông tin khoản vay/ thẻ tín dụng|Không hiển thị thông tin thẻ tín dụng|
+
+",Thông tin thẻ/Card information -> Thông tin thẻ của người khác/See card information of other,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57828,1043307,Lỗi liên quan đến FEOL 2.0 S-64921321,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:23 PM,12/Aug/24 2:31 PM,Service Request,16/Aug/24 4:06 AM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 3:58 PM|S-64921321|TRẦN THANH TUẤN|20180630-0006110|#1: TRẦN THANH TUẤN-031080008037-0969711637-thời gian xay ra lỗi 15g40 ngày 6/8/2024-KH đăng ký tài khoản FE Online 2.0 báo lỗi xác minh thất bại, KH đã thử lại nhưng vẫn ko [dc-tuantran2568@gmail.com|mailto:dc-tuantran2568@gmail.com]|loi_dang_ky_tai_khoan|Định danh eKYC không thành công (Đăng ký mở tài khoản FEOL)|Định danh eKYC không thành công (Đăng ký mở tài khoản FEOL) - có button thử lại|
+
+",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57827,1043306,Lỗi liên quan đến FEOL 2.0 S-64924678,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:22 PM,15/Aug/24 1:20 PM,Service Request,21/Aug/24 12:06 AM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 3:21 PM|S-64924678|LÊ THỊ MỸ SƯƠNG|0001500100009629966|#1: LÊ THỊ MỸ SƯƠNG - 045199004010 - 0843079357 - 0001500100009629966 - Samsung A12 - Android 13 - lỗi lúc 15:16 ngày 06/08/2024 - Khách hàng đăng ký tài khoản nhưng ứng dụng không gửi mã OTP về số điện thoại, đã xóa ứng dụng và thử lại nhiều lần - không mail|loi_dang_ky_tai_khoan|Không nhận được OTP (Đăng ký mở tài khoản FEOL)|Không nhận được OTP (Đăng ký mở tài khoản FEOL)|
+
+",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57825,1043303,Lỗi liên quan đến FEOL 2.0 S-64919374,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:21 PM,13/Aug/24 4:06 PM,Service Request,13/Aug/24 5:05 PM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 2:37 PM|S-64919374|LÊ VĂN ĐẠT|0001500040018829597|#1: Thông tin CMND/CCCD cũ: 351829130 – 07/02/2014 – Tỉnh An Giang
+ Thông tin CCCD mới: 089087003027 – 06/04/2023 – CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI
+Đã hường dẫn thử lại nhưng vẫn không thành công
+KH không cung cấp email/ Email CMS [mtuyen94@gmail.com|mailto:mtuyen94@gmail.com]|Loi_khong_dong_bo_CCCD|Cập nhật không thành công (CCCD)|Cập nhật không thành công (CCCD) trên app 2.0|
+
+", Hồ sơ cá nhận/User profile,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57823,1043300,Lỗi liên quan đến FEOL 2.0 S-64919374,Closed,Ha Nguyen,70121:ea19e7af-2d6d-4ffd-b5e9-bcb61cd74eb3,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 2:20 PM,09/Aug/24 9:20 AM,Service Request,13/Aug/24 9:06 PM,"|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Định dạng lỗi|Chi tiết|
+|6/8/2024 2:37 PM|S-64919374|LÊ VĂN ĐẠT|0001500040018829597|#1: Thông tin CMND/CCCD cũ: 351829130 – 07/02/2014 – Tỉnh An Giang
+ Thông tin CCCD mới: 089087003027 – 06/04/2023 – CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI
+Đã hường dẫn thử lại nhưng vẫn không thành công
+KH không cung cấp email/ Email CMS [mtuyen94@gmail.com|mailto:mtuyen94@gmail.com]|Loi_khong_dong_bo_CCCD|Cập nhật không thành công (CCCD)|Cập nhật không thành công (CCCD) trên app 2.0|
+
+", Hồ sơ cá nhận/User profile,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57821,1043295,Hỗ trợ check KH đã ký esgin thành công mà vẫn chưa chuyển bước,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Hon Nguyen Thanh,5d09a86c1044e40c4176965a,07/Aug/24 2:19 PM,07/Aug/24 3:38 PM,Service Request,12/Aug/24 6:06 PM,"Dear It !
+
+Nhờ IT hỗ trợ xử lý giúp sale có app id không chuyển bước. Ký esgin xong đã lâu
+
+ID: 110338065
+
+Tks !",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57816,1043289,HỖ TRỢ ĐĂNG KÍ ESIGN- 1487919082,Closed,,,Dat Nguyen Tan 7,712020:f0de2d36-8bcf-4cf1-9239-dd0fa45d0fa8,07/Aug/24 2:13 PM,13/Aug/24 5:41 PM,Service Request,15/Aug/24 4:06 PM,"DEAR IT
+
+NHỜ AC XEM GIÚP SALE KHÁCH VÀO FE2 KÍ NHƯNG KO KÍ ESIGN ĐƯỢC Ạ
+
+APP ID: 110326624
+
+CRM ID: 1487919082
+
+EM CẢM ƠN
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57814,1043286,FE ONLINE 2.0 Ở TRANG CHỦ KHÔNG CÓ  BẮT ĐẦU KHOẢN VAY VỚI TƯ VẤN VIÊN,Closed,,,thuyhnb,712020:b57e01d2-a191-4321-8ddf-10ccd423d892,07/Aug/24 2:11 PM,20/Aug/24 1:49 PM,Service Request,20/Aug/24 2:06 PM,"Dear IT team em có  2 case FEO 2.0 không có bắt đầu khoản vay.
+
+CRMID : 1487527319
+CRMID: 1462866131
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57813,1043285,HỖ TRỢ KO CÓ KÍ ESIGN TRÊN FE 2- V ANH 1487854908,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Dat Nguyen Tan 7,712020:f0de2d36-8bcf-4cf1-9239-dd0fa45d0fa8,07/Aug/24 2:11 PM,11/Aug/24 11:11 AM,Service Request,16/Aug/24 4:06 AM,"DEAR IT 
+
+nhờ a.c xem giúp sale hiện khách vào fe 2 nhưng ko kí esign được ạ
+
+crm id 1487854908
+
+app id 110314615
+
+em cảm ơn",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57811,1043282,hỗ trợ không kí esign trên fe2,Closed,Phong Do Nhat,604702152b3f9a006a2ca983,Dat Nguyen Tan 7,712020:f0de2d36-8bcf-4cf1-9239-dd0fa45d0fa8,07/Aug/24 2:08 PM,08/Aug/24 10:26 AM,Service Request,13/Aug/24 10:06 AM,"dear it
+
+nhờ a.c xem giúp sale hiện khách vào fe 2 nhưng ko kí esign được ạ
+
+crm id 1456163582
+
+app id 110311541
+
+em cảm ơn",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57810,1043281,HỖ TRỢ KÝ ESIGN KHÔNG CÓ HỢP ĐỒNG KÝ TRONG APP FEOL 1.0,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Anh Bui Thi Ngoc,712020:ca4e5fa0-c985-4354-86db-767bc6ef8035,07/Aug/24 2:06 PM,07/Aug/24 3:39 PM,Service Request,12/Aug/24 6:06 PM,"DEAR ANH IT,
+
+HỖ TRỢ KÝ ESIGN KHÔNG CÓ HỢP ĐỒNG KÝ TRONG APP FEOL 1.0.
+
+EM CÁM ƠN
+
+{adf:display=block}
+{""type"":""table"",""attrs"":{""isNumberColumnEnabled"":false,""layout"":""default"",""localId"":""134637bb-9496-4aca-8bcf-2c7789a34be8""},""content"":[{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""AppID""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""CRMID""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Product""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Created date""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Ứng dụng thực hiện""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Mô tả lỗi""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""110322535""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""1487960493""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""NTB""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""07-Aug""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""FEOL 1.0""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Không có Hợp đồng ký Esign/Offer""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""110319394""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""1487493729""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""NTB""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""07-Aug""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""FEOL 1.0""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Không có Hợp đồng ký Esign/Offer""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":"" ""}]}]},{""type"":""tableCell"",""attrs"":{""rowspan"":2},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""1487956259""}]}]},{""type"":""tableCell"",""attrs"":{""rowspan"":2},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""NTB""}]}]},{""type"":""tableCell"",""attrs"":{""rowspan"":2},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""07-Aug""}]}]},{""type"":""tableCell"",""attrs"":{""rowspan"":2},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""FEOL 1.0""}]}]},{""type"":""tableCell"",""attrs"":{""rowspan"":2},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Không có Hợp đồng ký Esign/Offer""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""110326888""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""110329570""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""1487999992""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""NTB""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""07-Aug""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""FEOL 1.0""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Không có Hợp đồng ký Esign/Offer""}]}]}]},{""type"":""tableRow"",""content"":[{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""110325860""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""1487773928""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""NTB""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""07-Aug""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""FEOL 1.0""}]}]},{""type"":""tableCell"",""attrs"":{},""content"":[{""type"":""paragraph"",""content"":[{""type"":""text"",""text"":""Không có Hợp đồng ký Esign/Offer""}]}]}]}]}
+{adf}
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+BO-57807,1043277,HỖ TRỢ CÁC LEAD KHÔNG HIỆN MỤC BẮT ĐẦU ( HỖ TRỢ TỪ TƯ VẤN VIÊN ),Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Anh Bui Thi Ngoc,712020:ca4e5fa0-c985-4354-86db-767bc6ef8035,07/Aug/24 2:04 PM,07/Aug/24 4:00 PM,Service Request,12/Aug/24 6:06 PM,"DEAR ANH IT,
+
+NHỜ ANH HỖ TRỢ GIÚP EM CÁC CASE NÀY DO, TSA VÀO APP FEONLINE KÝ NHƯNG LẠI KHÔNG HIỆN BẮT ĐẦU ( HỖ TRỢ TỪ TƯ VẤN VIÊN )
+
+|AppID|CRMID|Product|Created date|Ứng dụng thực hiện|Mô tả lỗi|
+|XXX|1455038651|NTB|07-Aug|FEOL 2.0|Không có BDKV với Nhân viên|
+|XXX|1487791251|NTB|07-Aug|FEOL 2.0|Không có BDKV với Nhân viên|
+|XXX|1457912019|NTB|07-Aug|FEOL 2.0|Không có BDKV với Nhân viên|
+|XXX|1487919282|NTB|07-Aug|FEOL 2.0|Không có BDKV với Nhân viên|
+|XXX|1487753544|NTB|07-Aug|FEOL 2.0|Không có BDKV với Nhân viên|
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+FI-12386,1043276,Ký điện tử báo không nhận dạng được căn cước,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Phi Nguyen Ngoc 3,712020:94332377-6bb9-4625-a521-f22b6f6aae65,07/Aug/24 2:02 PM,08/Aug/24 4:58 PM,Service Request,13/Aug/24 5:06 PM,"Dear IT
+
+Nhờ It kiểm tra giúp app ký điện tử báo không nhận dạng được căn cước
+
+CC thử 3 lần nên bị khoá
+
+Id: 110342645
+
+KH: Ya Đức Zũng
+
+Sdt khách: 0339202913
+
+Cccd: 068083006479
+
+Thanks IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57801,1043268,Không hiện thông tin Bắt đầu với nhân viên tư vấn,Closed,,,Vy Kieu Thi Thuy,60af910855c9b2006ff3ae84,07/Aug/24 1:55 PM,20/Aug/24 1:49 PM,Service Request,20/Aug/24 2:06 PM,"Dear IT,
+
+Nhờ IT hỗ trợ kiểm tra giúp Em app FEOL 2. Sau khi KH bấm vào “Bắt đầu”, bước tiếp theo không hiện ra “Bắt đầu với nhân viên tư vấn” mà vào thẳng mục Thông tin trả góp
+
+KH Nguyễn Văn Nhành
+
+SĐT 0949929500
+
+CCCD 08608601
+
+Em cảm ơn!
+
+", Hồ sơ cá nhận/User profile,Đối Tác FE/FEC Partner
+FI-12384,1043240,HỖ TRỢ  KHÔNG HIỂN THỊ HS TRÊN FE ONLINE 2.0 ĐỂ KÝ,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Pha Luu Thanh 1,60ca2724a1746300701b7ac0,07/Aug/24 1:47 PM,09/Aug/24 10:40 AM,Service Request,14/Aug/24 11:06 AM,"DEAR A/C 
+
+Nhờ anh chị hỗ trợ ID: 110271279
+
+lỗi không hiển thị hs trên fe online đề ký
+
+
+
+Cảm ơn","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57799,1043239,Hổ trợ giúp,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Thao Pham Thi Thu,62fcae232e3849d137774fb5,07/Aug/24 1:47 PM,08/Aug/24 4:17 PM,Service Request,13/Aug/24 9:06 PM,"Dear AC 
+
+Nhờ Anh/Chị hỗ trợ giúp case dưới: 
+
+* Tên KH: A Lang
+* ID Hồ Sơ: 110329696
+* CCCD: 062076003627
+* Mô tả lỗi chi tiết: Không tìm thấy dữ liệu FE2.0 như hình. Bấm đăng nhập thì không tìm thấy dữ liệu
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12383,1043237,HỒ SƠ PL ĐẬU NHƯNG FE 2.0 KHÔNG HIỂN THỊ KHOẢN VAY ĐỂ KÝ,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Mai Hoang Thi Ngoc 2,712020:8f8a0bb6-df1a-4f3f-992c-232fd9de5703,07/Aug/24 1:47 PM,08/Aug/24 8:40 PM,Service Request,13/Aug/24 5:06 PM,"KH : LÂM THANH
+
+ID : 110323250
+
+SĐT : 0376679808","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12382,1043234,HỒ SƠ LỖI KHÔNG HIỆN HỢP ĐỒNG ,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Thuan Nguyen Huu 4,712020:f454cb95-b3a0-4914-8c39-02cbd3e01c87,07/Aug/24 1:44 PM,08/Aug/24 8:41 AM,Service Request,14/Aug/24 10:06 PM,"Nhờ IT hổ trợ xử lý lỗi kí ko hiện hợp đồng tại case sau đã đến bước chờ duyệt giải ngân nhưng vào kí ko có hợp đồng
+
+APP ID :110319477
+
+CCCD : 068096010384
+
+THANKS ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57796,1043233,NHỜ HỖ TRỢ KIỂM TRA HỒ SƠ KHÁCH.,Closed,,,Tu Tran Minh 1,712020:986ba22d-59cd-422b-b770-c2e29360865c,07/Aug/24 1:41 PM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 4:06 PM,"Dear Anh/Chị!
+
+Nhờ Anh/Chị kiểm tra hồ sơ khách hàng.
+
+Lý do: khách vô fe online ko có hồ sơ để ký.
+
+Tên: Nguyễn Thị Yến
+
+App id: 110340827
+
+Sđt: 0333226266.","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57789,1043223,LỖI KHÔNG NHẬN ĐƯỢC OTP,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Le Quoc Dien,712020:1ae7fffe-6088-4bc4-b15c-6c26f1d6c75b,07/Aug/24 1:23 PM,12/Aug/24 2:27 PM,Service Request,16/Aug/24 4:06 AM,"Nhờ IT check lỗi không nhận được OTP ký hợp đồng .
+
+
+
+1/ 0902738079- LÊ THỊ THU THỦY
+App id: 110338349",eSign -> Lỗi OTP/OTP issues,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12378,1043212,HỖ TRỢ KÝ ESIGN TRÊN FE OLNIE 2.0 APPID 110336627,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Quoc Tran Dinh 1,712020:9a615261-9b16-41e9-a90e-c1becdb2019e,07/Aug/24 12:54 PM,07/Aug/24 4:16 PM,Service Request,12/Aug/24 10:06 PM,"Dear IT
+
+Nhờ IT hỗ trợ xử lý hồ sơ không hiện HĐ để ký xác nhận khoản vay (không có hợp đồng để ký lần 2 xác nhận số tiền vay)
+
+Appid:110336627
+Tên Kh: Sơn Thị Mết
+Cccd:094199010842
+Sdt: 0968490403
+
+Trân Trọng","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57780,1043207,Nhờ hỗ trợ giúp,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Hau Le Thi Thu,712020:ed039584-01ab-469a-8f66-7a0e4a285487,07/Aug/24 12:44 PM,08/Aug/24 4:12 PM,Service Request,13/Aug/24 9:06 PM,"Đặng thị thu thuỷ
+Id: 110331909
+
+Ko có hd để kí","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12376,1043205,Hợp đồng không hiện thông tin,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Phi Nguyen Ngoc 3,712020:94332377-6bb9-4625-a521-f22b6f6aae65,07/Aug/24 12:38 PM,08/Aug/24 10:20 AM,Service Request,13/Aug/24 10:07 AM,"Dear IT
+
+Nhờ It kiểm tra giúp hợp đồng không hiện thông tin
+
+Id: 110338296
+
+KH: Lê Trung Nghĩa
+
+Thanks IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12373,1043201,KHÔNG TÌM THẤY HỢP ĐỒNG TRÊN FEO 2.0,Closed,Dien Ho Quang,604700e0b020eb0068366730,Ha Phan Thi Thi 1,712020:afae34d7-a24f-4217-ba62-c0496d9e8a3e,07/Aug/24 12:28 PM,07/Aug/24 12:59 PM,Service Request,12/Aug/24 10:06 PM,"Dear IT,
+Nhờ IT hỗ trợ khách hàng không tìm thấy hợp đồng trên feo.
+SDT: +0966477802+
+
+ CCCD: 075097007548
+
+ID: 110332885","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57773,1043191,NHỜ HỖ TRỢ KIỂM TRA HỢP ĐỒNG KHÁCH,Closed,Dien Ho Quang,604700e0b020eb0068366730,Tu Tran Minh 1,712020:986ba22d-59cd-422b-b770-c2e29360865c,07/Aug/24 12:18 PM,08/Aug/24 11:27 AM,Service Request,13/Aug/24 2:06 PM,"Dear Anh/Chị!
+
+Trợ giúp Anh/Chị hỗ trợ kiểm tra hợp đồng của khách
+
+Lý do: Khách đăng nhập FE Online nhưng ko có hợp đồng để ký
+
+Tên khách hàng: Nguyễn Xuân Đao
+
+ID ứng dụng: 110335277
+
+Số điện thoại: 0815135333
+
+Tú cảm ơn Anh/Chị nhiều!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12370,1043190,Không hiển thị hợp đồng để ký,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Linh Tran Thi Ngoc 3,712020:0deac4e2-72bf-4e2a-927c-233b4a148146,07/Aug/24 12:16 PM,07/Aug/24 1:29 PM,Service Request,12/Aug/24 6:07 PM,"Không hiển thị hợp đồng để ký
+
+Id: 110328607
+
+Cccd: 072182006293
+
+Khách: nguyễn thị thuỳ vân
+
+Đt: 0345785852","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12369,1043185,Nhờ hỗ trợ lỗi ký FE 2.0 App ID 110336027 - Thạch Sâm,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Bien Luong Van 1,712020:80dc09c2-77b1-48fb-9ce2-6299d01eade4,07/Aug/24 12:12 PM,12/Aug/24 11:05 AM,Service Request,12/Aug/24 6:07 PM,"Dear Anh/Chị,
+
+Nhờ hỗ trợ lỗi ký FE 2.0 App ID 110336027 - Thạch Sâm
+
+Thanks","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57766,1043179,Hỗ trợ giải ngân app id 110296321,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Thao Nguyen Thi Thu 41,6268b219a32183006f2443e8,07/Aug/24 12:05 PM,09/Aug/24 10:30 AM,Service Request,16/Aug/24 4:06 AM,"Dear IT, 
+Hiện KH này hôm qua làm trên FE 1 các bước nhưng nay nhận giải ngân không trả về nhận mã giao dịch nhờ IT kiểm tra gấp giúp 
+
+nguyễn trung kiên, cccd 024087025089 , ap id 110296321 ,
+
+",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12366,1043170,Hđ không hiện thông tin,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Phi Nguyen Ngoc 3,712020:94332377-6bb9-4625-a521-f22b6f6aae65,07/Aug/24 11:56 AM,07/Aug/24 3:38 PM,Service Request,12/Aug/24 6:06 PM,"Dear IT
+
+Nhờ It kiểm tra giúp hợp đồng không hiện mã giao dịch
+
+Id: 110330374
+
+KH: Quách Văn Chiến
+
+Thanks IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12365,1043160,HỆ THỐNG KHÔNG HIỂN THỊ MÃ OTP GIẢI NGÂN,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Tan Pham Ngoc,712020:5503c170-9e06-4ac1-8b93-70e87a663cf3,07/Aug/24 11:45 AM,09/Aug/24 10:38 AM,Service Request,14/Aug/24 11:06 AM,"dear ac It.
+
+hs đã duyệt nhưng không hiển thị bước cuối để lấy mã giải ngân nhận tiền. và bị khoá dó thực hiện 3 lần nhờ ac mở lại giúp ạ.
+
+id:110317862
+
+kh: NGUYỄN THỊ GÁI
+
+CCCD: 049177013361
+
+sđt: 0918812794
+
+thanks ac.",eSign -> Lỗi OTP/OTP issues,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57752,1043155,KÍ BƯỚC CUỐI ( XÁC NHẬN ƯU ĐÃI KHOẢN VAY ) NHẬP OTP BÁO LỖI HỆ THỐNG,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Chien Huynh Minh,712020:86e6fd87-6c61-498d-8adb-aef8547d6b63,07/Aug/24 11:42 AM,08/Aug/24 6:14 PM,Service Request,13/Aug/24 9:06 PM,"Dear Anh
+
+Nhờ Anh check giúp em case Nguyễn Thị Hồng Gấm, App ID 110105629
+
+KH đang ở bước Lending decion, kí bước cuối giải ngân nhưng nhập otp báo lỗi hệ thống
+
+Em cảm ơn Anh",eSign -> Lỗi OTP/OTP issues,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12363,1043153,Cc vào hướng dẫn kh ký tên trên fe online 2.0 nhưng không hiện ra hợp đồng để ký hồ sơ pl ,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Giao Tran Huynh Thuy,712020:5231116e-5701-45fe-9f0b-2a710b912d0b,07/Aug/24 11:38 AM,07/Aug/24 11:59 AM,Service Request,12/Aug/24 5:07 PM,"Kh : trần thanh phong
+
+Cccd : 086079002295
+
+Đt : 0934143082
+
+Id app: 110333219","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57745,1043140,Hỗ  trợ ký FE Online 2.0 ,Closed,Bao Tran Quoc 22,6361cbfefe5ff375235b9cce,Minh Nguyen Van 7,712020:9b42a71c-8db9-4310-b175-48d6e671daab,07/Aug/24 11:24 AM,08/Aug/24 8:48 PM,Service Request,13/Aug/24 9:06 PM,"Nhờ IT hỗ trợ sử lý lỗi ký điện tử FE online giúp hiện tại case sau đã đến bước chờ duyệt giải ngân nhưng vào ký ko có hợp đồng ( có video kèm theo). Tks IT.
+
+Ap id 110331434
+
+Số căn cước 022082005905","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57744,1043139,Ho tro ko ki duoc FE OL2,Closed,Dien Ho Quang,604700e0b020eb0068366730,Phong Nguyen Truong Duy,712020:4b459c7f-c137-4119-9f4f-575b3c6afb47,07/Aug/24 11:22 AM,07/Aug/24 11:38 AM,Service Request,12/Aug/24 12:06 PM,"Id 110331414
+NGUYỄN THANH NGỌC
+
+Tks all","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57742,1043136,HỖ TRỢ KHÁCH HÀNG VÔ FEOL KHÔNG CÓ HD ĐỂ KÝ,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Hau Nguyen Van 4,712020:1d101ae2-7be6-4edc-b4ad-fdaded0b2178,07/Aug/24 11:21 AM,13/Aug/24 7:41 PM,Service Request,16/Aug/24 11:06 PM,"Dear IT!
+
+Nhờ IT hỗ trợ kiểm tra giúp ngày 6/8 KH ĐÃ ĐƯỢC DUYỆT khoản vay nhưng vô FEOL 1.0 thì hệ thống không có HD để ký, mà vẫn đứng tại bước *Lending Decision*
+
+Tên KH: NGUYỄN THỊ VẠN - APP ID: 110215335 - Pega case ID: PL-8265255 - CRM ID: 1461060730
+
+Nhờ IT hỗ trợ kiểm tra giúp,
+
+Thanks IT!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57740,1043134,hỗ trợ k thấy hợp đồng vay lần 1,Closed,,,Gia Nguyen Long 1,712020:e5b59029-6fd7-41b8-b23e-058c0dd04e58,07/Aug/24 11:20 AM,13/Aug/24 5:56 PM,Service Request,15/Aug/24 4:06 PM,"dear It , nhờ It ktra hồ sơ k thấy hợp đồng lần 1 : 
+
+App Id 110325940
+
+CCCD 080202002565
+
+SDT 0359422526
+
+Tên kh : phạm phùng duy khang
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+BO-57738,1043132,LỖI KHÁCH HÀNG KÝ LẦN 2 THÀNH CÔNG NHƯNG KHÔNG CHUYỂN EXTERNAL,Closed,Ha Nguyen,70121:ea19e7af-2d6d-4ffd-b5e9-bcb61cd74eb3,Hau Nguyen Van 4,712020:1d101ae2-7be6-4edc-b4ad-fdaded0b2178,07/Aug/24 11:18 AM,07/Aug/24 11:50 AM,Service Request,12/Aug/24 12:06 PM,"Dear IT!
+
+Nhờ IT hỗ trợ kiểm tra giúp ngày 6/8 KH ký xác nhận giải ngân xong thì hệ thống không chuyển external để KH nhận tiền giải ngân, mà vẫn đứng tại bước *Pending-Customer-Withdrawal*
+
+Tên KH: Pham Thi Hoa - APP ID: 110215335 - Pega case ID: PL-8282676 - CRM ID: 1487651343
+
+Nhờ IT hỗ trợ kiểm tra giúp,
+
+Thanks IT!",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57736,1043129, KHÔNG NHẬN ĐƯỢC MÃ NHẬN TIỀN,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Phuong Dao Kim 1,712020:5caad15e-d123-4430-9233-c146f30e37c2,07/Aug/24 11:16 AM,07/Aug/24 6:20 PM,Service Request,12/Aug/24 7:06 PM,"Dear IT,
+
+Nhờ ít hỗ trợ appID bên dưới không nhận được mã nhận tiền
+
+1/ Tên KH: Huỳnh Lâm Trúc Ngân
+
+App ID: 110320685
+
+2/ Tên KH: Nguyễn Văn Nhanh
+
+App ID: 110323409
+
+Thanks,",Rút tiền mặt/Get Cash,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57735,1043128,Lỗi liên quan đến FEOL 2.0 S-64919928,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Chi Pham Linh,637ad569a593cb822e939b7d,07/Aug/24 11:15 AM,20/Aug/24 8:05 AM,Service Request,23/Aug/24 10:40 AM,"Dear team,
+
+Theo ticket [https://fecredit.atlassian.net/browse/BO-56064|https://fecredit.atlassian.net/browse/BO-56064|smart-link], CS có báo KH truy cập FEOL 1.0 để kiểm tra thông tin giải ngân,
+
+Tuy nhiên 1.0 không có thông tin
+
+Nhờ anh/chị hỗ trợ kiểm tra thêm giúp em nha
+
+|CreatedOn|TicketNumber|CustomerName|ContractAccount Number|Remarks|Loại Lỗi|Chi tiết|
+|31/7/2024 1:45 PM|S-64845981|HOÀNG THÔNG NGUYỄN| |#1: Nguyễn Hoàng Thông-083086000129-0908956712-thongnhstb@gmail.com-Khách hàng đăng ký vay trên feo2.0, khi bấm vào mục xác nhận ưu đãi thì nút xác nhận và giải ngân trên app fe online 2.0 vẫn bị mờ nên Khách hàng không bấm được/ appID: *109955414*|loi_ky_hop_dong_tin_dung|Lỗi xác nhận giải ngân|
+
+",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI VẬN HÀNH/ OPERATIONS DIVISION
+BO-57733,1043126,Lỗi không hiển thị hợp đồng ký esign CRC - FEOL 2 production,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Sa Ly Chieu,63219b824395a525a7110c7b,07/Aug/24 11:13 AM,08/Aug/24 4:04 PM,Service Request,13/Aug/24 9:06 PM,"Dear IT,
+
+Please help us fix this issue:
+
+|Thông tin khách hàng:| |
+|•Tên KH:|Lê Thị Hồng Phương|
+|•CCCD:|042194016661|
+|•SĐT:|84336789985|
+|Thông tin thiết bị:| |
+|•Tên thiết vị:|Redmi|
+|•Phiên bản OS|OS: 1.0.9.0 UMTMIXM AND|
+|•Hệ điều hành:|Android 14|
+|Thời gian xảy ra lỗi:|từ lúc app chuyển sang bước E-sign 10:00 07/08/2024|
+|Hình ảnh lỗi:|<Đính kèm hình ảnh lỗi>|
+
+Best regards,
+
+Sa","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI SẢN PHẨM & PHÁT TRIỂN KINH DOANH/ PRODUCTS & BUSINESS DEVELOPMENT DIVISION
+FI-12359,1043122,DEAR IT  FE ONLINE 2.0 KHÔNG CHỤP HÌNH KHÁCH KÝ HÔ SƠ ĐƯỢC  ID: 110330092  KH: LÂM THỊ NGỌC YẾN  CCCD: 095190014078  THANKS IT,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Hang Le Thi Thuy 7,6093d76c000224006ab467d2,07/Aug/24 11:11 AM,12/Aug/24 8:36 AM,Service Request,14/Aug/24 10:06 PM,"DEAR IT
+
+FE ONLINE 2.0 KHÔNG CHỤP HÌNH KHÁCH KÝ HÔ SƠ ĐƯỢC
+
+ID: 110330092
+
+KH: LÂM THỊ NGỌC YẾN
+
+CCCD: 095190014078
+
+THANKS IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57728,1043115,FE online 2.0 lỗi ko gửi mã giao dịch,Closed,,,Bien Tran Xuan,61109ccd8c15ca006fbb210e,07/Aug/24 11:08 AM,13/Aug/24 5:57 PM,Service Request,13/Aug/24 9:06 PM,"Dear anh chị
+
+Hỗ trợ CC fe online 2.0 treo ko gửi mã giao dịch chi tiền vay qua thẻ Dcard cho kh.
+
+Kh: Cà Thị Phương
+
+Id: 110299020
+
+Sdt: 0703296431
+
+Trân trọng!",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12357,1043114,Không thấy hồ sơ,Closed,,,Hang Pham Thi 15,712020:06d2c5f3-f185-4230-aba1-b4ee9f0e98fb,07/Aug/24 11:07 AM,15/Aug/24 4:41 PM,Service Request,16/Aug/24 1:06 PM,"Dear IT!
+
+Nhờ ac xử lý gấp giúp e hồ sơ duyệt k tìm thấy hợp đồng ký
+
+Nguyễn quốc tuấn 
+
+Id: 110327566
+
+Ths!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57727,1043110,Lỗi ký Esign - Trần Thế Vinh (Thuỳ Trang),Closed,,,Thai Do Quoc 1,712020:84498525-105b-475a-993d-a321091a9258,07/Aug/24 11:04 AM,09/Aug/24 10:36 AM,Service Request,15/Aug/24 4:06 PM,"Dear IT,
+
+Nhờ IT kiểm tra giúp App bên dưới, App ký Esign Fe Online 2.0 lỗi chụp ảnh như ảnh đính kèm
+
+* AppID : 110327045
+* CCCD : 080080004068
+* SĐT : 0902716807
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57726,1043109,HD  KHÔNG GIẢI  NGÂN  ,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Hien Nguyen Van Phuong 1,712020:1c9c0e4d-ba6b-4db2-879c-4fb096e9b2fe,07/Aug/24 11:04 AM,12/Aug/24 8:57 AM,Service Request,16/Aug/24 4:06 AM,"Dear  It  !
+
+Nhờ  It kiểm tra  giúp em Khách  hàng  vào ký HD 3 ngày  đã  chuyển trạng thái  trên hệ  thống giải  ngân  nhưng  khách  hàng vẫn chưa  nhận  tiền qua  tài khoản  Ubank  
+Khách  hàng  đang  sợ  lừa  đảo  nên nhờ  IT hỗ trợ  kiểm  tra  giúp em 
+
+ID  *110213226*
+
+Em Cám ơn ",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12354,1043106,Hỗ trợ lỗi Fe 2.0 không hiện mã bảo mật,Closed,Phong Do Nhat,604702152b3f9a006a2ca983,Ha Phan Thi,6209d4eead010000695f61bf,07/Aug/24 11:02 AM,08/Aug/24 1:59 PM,Service Request,13/Aug/24 4:07 PM,"Dear It
+
+Nhờ It hỗ trợ lỗi Fe 2.0 không hiện mã bảo mật để khách rút tiền
+
+Id 110296059 - Bùi Thanh Phong
+Số cccd 093073006318
+Dt: 0908097485
+
+Thanks It",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57721,1043103,Kh ký điện tử không đăng nhập được,Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Nhi Nguyen Thi Mai Nu Thanh,712020:2a00253f-aaf4-49d2-afbd-7ad1f705d522,07/Aug/24 11:00 AM,08/Aug/24 11:41 AM,Service Request,13/Aug/24 2:06 PM,"Dear it
+
+Nhờ it hỗ trợ giúp e kh vào feonline 2.0 khônh được để ký điện tử
+
+Ban đầu vô được ko coa hợp đồng 
+
+Xoá tải lại vô đăng nhập không được 
+
+App id : 110327851
+
+Sđt: 0986807212","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57720,1043102,Khách hàng không nhận đc mã xác nhận khi giải ngân tại quầy - App id 110322624,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Duc Bui Minh 1,712020:a18c9373-6afb-402b-8007-92b995452c16,07/Aug/24 10:59 AM,09/Aug/24 1:29 PM,Service Request,16/Aug/24 4:06 AM,"Gửi IT
+
+Khách hàng không nhận đc mã xác nhận khi giải ngân tại quầy
+
+CCCD 056093001708
+
+SĐT 0358350354
+
+App id 110322624
+
+Nhờ IT hỗ trợ",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12353,1043099,Dead anh chị,Closed,Hai Nguyen Xuan 5,61af2ec5b43d5b006aba6a0b,Phu Nguyen Thanh 3,712020:5c03344d-64fc-462d-a439-defad2804621,07/Aug/24 10:55 AM,09/Aug/24 1:18 PM,Service Request,14/Aug/24 12:06 PM,"Không kyc được trên fe online 2.0 chụp hình rồi bi out ra 
+
+Số cccd: 038090024431
+
+Id: 110329249
+
+Phạm văn mỹ
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57719,1043097,Hỗ trợ ký hồ sơ bị lỗi hệ thống,Closed,Phong Do Nhat,604702152b3f9a006a2ca983,Quyen Nguyen Thi,6268f611bae0c1006fac8079,07/Aug/24 10:53 AM,07/Aug/24 11:04 AM,Service Request,12/Aug/24 12:06 PM,"Dear it!
+
+Id: 110319777
+
+Nguyễn thị cẩm nhung
+
+Id:110324016
+
+Cảm ơn !","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57715,1043088,lỗi ký,Closed,,,Huyen Bui Thanh 2,712020:3570d496-1f7f-4dd7-b19b-419bd0d57310,07/Aug/24 10:49 AM,09/Aug/24 10:22 AM,Service Request,15/Aug/24 4:06 PM,Id 110326238 Bùi thị hải Sđt +0332974061+,"eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57711,1043084,lỗi ký,Closed,Phong Do Nhat,604702152b3f9a006a2ca983,Huyen Bui Thanh 2,712020:3570d496-1f7f-4dd7-b19b-419bd0d57310,07/Aug/24 10:47 AM,07/Aug/24 10:56 AM,Service Request,12/Aug/24 12:06 PM,Id 110326238 Bùi thị hải Sđt +0332974061+,"eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12351,1043083,Hỗ trợ lỗi xác thực OTP,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Doan Hoang Thi 1,712020:72ca5391-4e65-43d1-847f-ad21dec57707,07/Aug/24 10:46 AM,07/Aug/24 12:01 PM,Service Request,12/Aug/24 5:06 PM,"Nhờ anh chị hỗ trợ lỗi không nhận được OTP
+
+APPID: 110328493",eSign -> Lỗi OTP/OTP issues,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12350,1043082,Lỗi không nhận được mã giao dịch nhận tiền kênh chi hộ,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Linh Tran Thi Ngoc 3,712020:0deac4e2-72bf-4e2a-927c-233b4a148146,07/Aug/24 10:46 AM,13/Aug/24 4:05 PM,Service Request,13/Aug/24 5:06 PM,"Id: 110306875
+
+Khách: cao trung tài",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57710,1043081,"Hồ sơ ký điện tử, FE OL 2 KHÔNG THỂ HIỆN HĐ ",Closed,,,Hon Nguyen Thanh,5d09a86c1044e40c4176965a,07/Aug/24 10:46 AM,12/Aug/24 7:13 PM,Service Request,15/Aug/24 4:06 PM,"Dear IT !
+
+Hiện tại sale có các ID bên dưới tới bước ký HD điện tử, mà vào FE OL 2 thì không có thể hiện HĐ để ký nhờ IT hỗ trợ giúp.
+
+ID: 110327866
+
+ID: 110323599
+
+ID: 110290807
+
+Tks !","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57709,1043079,HỖ TRỢ KHÔNG TÌM THẤY THÔNG TIN HỢP ĐỒNG,Closed,,,Nguyen Thi Thuy Kieu,609b99898cbda700682fc5af,07/Aug/24 10:44 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 4:06 PM,"Dear IT,
+
+Khách ký hđ Fe 2.0 nhưng báo lỗi
+
+Nhờ IT hỗ trợ giúp
+
+# App id: 110323163 Sđt: +0972608417+ Cccd: 089204011560
+# app id: 110323126, sđt: 0373823567, cccd: 03420300702 Thanks
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12348,1043078,Nhận tiền kênh chi hộ không nhận được mã giao dịch,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Linh Tran Thi Ngoc 3,712020:0deac4e2-72bf-4e2a-927c-233b4a148146,07/Aug/24 10:44 AM,12/Aug/24 2:04 PM,Service Request,15/Aug/24 1:07 PM,"Id: 110321301
+
+Khách: trần văn dũng",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57708,1043076,Hỗ trợ ký FE.MA,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Minh Nguyen Van 7,712020:9b42a71c-8db9-4310-b175-48d6e671daab,07/Aug/24 10:44 AM,08/Aug/24 1:12 PM,Service Request,16/Aug/24 4:06 AM,"Nhờ IT hỗ trợ sử lý lỗi ký FE online giúp khách vào ký toàn lỗi không hiện hợp đồng để ký như video đính kèm. Tks IT
+
+AP ID 110323902
+
+Số căn cước 030191017679","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57707,1043075,LỖI KHI KÝ ESGIN,Closed,Thien Nguyen Minh,60f6298a199a8400683a33f4,Nhi Huynh Khang 1,712020:6d2be155-2f8c-474d-9b15-a21a2a9be30b,07/Aug/24 10:43 AM,07/Aug/24 11:07 AM,Service Request,12/Aug/24 11:07 AM,"Nhờ anh chị hổ trợ lỗi
+
+Mô tả: có hiện hợp đồng để ký. Nhưng ký xong thì có dòng chữ đỏ, ối lỗi thử lại sau
+
+Isale không chuyển bước
+
+Nhờ IT hổ trợ KH ",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12346,1043074,Feonline 2.0 quay giật lag không ký hợp đồng cho khách hàng được.,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Lieu Bui,712020:357cf1bd-f6e7-4afb-8cd8-a8a7e8ff9484,07/Aug/24 10:43 AM,12/Aug/24 7:20 PM,Service Request,16/Aug/24 12:07 PM,"Dear phòng ban.
+
+FEONLINE 2.0 quay giật lag không ký được hợp đồng cho khách hàng. Đã thử lại RẤT RẤT RẤT nhiều lần.  Thông tin như sau:
+
+Tên khách hàng: Nguyễn Châu Phúc.
+
+CCCD: 086203004813.
+
+Id hồ sơ: 110325172",eSign -> Lỗi OTP/OTP issues,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57702,1043064,Hỗ trợ ký FE.MA,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Minh Nguyen Van 7,712020:9b42a71c-8db9-4310-b175-48d6e671daab,07/Aug/24 10:38 AM,13/Aug/24 8:27 AM,Service Request,16/Aug/24 4:06 AM,"Nhờ IT hỗ trợ sử lý lỗi ký FE online giúp khách vào ký toàn lỗi như video đính kèm. Tks IT
+
+AP ID 110328298
+
+Số căn cước 022204000115","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57700,1043061,"FEOL 2.0 báo lỗi ""Thắng"" 0708",Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Tai Pham Chi,712020:3d4a1074-6616-4b91-9253-3175ec9d7cdd,07/Aug/24 10:38 AM,12/Aug/24 10:05 AM,Service Request,12/Aug/24 11:07 AM,"Dear Anh IT,
+
+Nhờ Anh IT kiểm tra và hỗ trợ giúp Em t/ợp 2 case FEOL 2.0 lỗi như hình
+
+Kh: Đào Xuân Sơn Sđt: 0961271095 CCCD: 001095038452 
+
+Em cám ơn",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57699,1043060,KH KHÔNG NHẬN MÃ GIAO DỊCH GIẢI NGÂN,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Khai Le Hoang 2,712020:90feb3c3-d3c5-4c0b-adb2-5758a54791c3,07/Aug/24 10:38 AM,07/Aug/24 2:12 PM,Service Request,12/Aug/24 1:06 PM,"Dear IT !
+
+Nhờ IT check giúp KH nhận tiền giải ngân tại NH, FEONL 2.0 không gởi mã giao dịch
+
+KH: KATƠR THỊ OÁNH 
+
+ID: *110308772*
+
+CRM: 1487877105
+
+SĐT:  0866570471
+
+CCCD: 058194001370",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH QUA ĐIỆN THOẠI/ TELESALES DIVISION
+FI-12338,1043050,KHÔNG TÌM THẤY HĐ ĐỂ KTS ESIGN TRONG FEOL 2.0 APPID- 110325619/110326323,Closed,,,Quoc Tran Dinh 1,712020:9a615261-9b16-41e9-a90e-c1becdb2019e,07/Aug/24 10:33 AM,15/Aug/24 4:41 PM,Service Request,16/Aug/24 12:06 PM,"Dear IT
+
+Nhờ IT hỗ trợ xử lý hồ sơ không tìm thấy khoản vay để ký trong FEOL 2.0
+
+# Appid:110325619
+Tên Kh: Phạm văn trúc
+Cccd:082084027106
+Sdt:0964344121
+# Appid:110326323
+Tên Kh:Lê Thị linh
+Cccd:094191002820
+Sdt: 0357022693
+
+Trân Trọng!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57694,1043047,V.v lỗi ký,Closed,,,Hung Diep Quoc,712020:9b6d4755-fb5f-4738-be94-e78ed01d304a,07/Aug/24 10:32 AM,09/Aug/24 10:26 AM,Service Request,15/Aug/24 4:06 PM,"Dear IT
+
+Nhờ IT hỗ trợ hồ sơ bị lỗi ký
+
+# KH Trần Văn Đang -  AppID: 110325089
+# KH A Lăng Thị Tha - AppID: 110319740
+
+",eSign -> Lỗi OTP/OTP issues,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12335,1043042,Hồ sơ PL k kí được hợp đồng trên fe online 2.0,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Hoang Tran Thi,712020:2c37b124-f577-43d7-b1a2-8ce5917f4f5c,07/Aug/24 10:30 AM,08/Aug/24 1:11 PM,Service Request,16/Aug/24 12:06 PM,"Nhờ ac It hỗ trợ e hồ sơ pl k chụp được ảnh khách hàng khi kí hợp đồng  lần 2 trên fe online 2.0 ạ.( cứ chụp xong out ra báo lỗi hệ thống ạ)
+
+Mã hồ sơ: 110323351
+
+Số đt khách hàng : 0868971154
+
+họ và tên: Đặng Thị Hương
+
+Số cccd: 014302000270
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57691,1043040,Hỗ trợ hs đứng bước ký hợp đồng điện tử ,Closed,,,Lan Quang Quy,5cd4e9354305dc0dc7a10095,07/Aug/24 10:29 AM,12/Aug/24 7:14 PM,Service Request,15/Aug/24 3:07 PM,"Dear it,
+
+Nhờ it hỗ trợ hs đứng bước ký hợp đồng điện tử.
+
+Cảm ơn it!
+
+1/ KH tên: Huỳnh Văn Nớp
+
+App id: 110326001
+
+", Hồ sơ cá nhận/User profile,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57690,1043039,Hỗ trợ nhận giải ngân,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Tuan Le Kim,712020:3ab0b79f-60ce-44ca-bed6-50dc5db83118,07/Aug/24 10:28 AM,15/Aug/24 12:06 PM,Service Request,15/Aug/24 1:06 PM,"Kh: Lê Sơn
+Cccd: 054076008633
+ID: 110319425
+
+Ko nhận dc mã otp để giải ngân ",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12332,1043036,Lỗi hệ thống ký hồ sơ fe online 2.0 _ 110323081,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Thien Nguyen Thi Xuan,712020:52b68ba2-dca2-4b44-8363-d1c08bbb7fc2,07/Aug/24 10:28 AM,09/Aug/24 10:27 AM,Service Request,14/Aug/24 10:06 AM,Lỗi hệ thống ký hồ sơ fe online 2.0 _ 110323081,"eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12331,1043035,Khách hàng không ký đc trên FEOL 2.0,Closed,Hai Nguyen Xuan 5,61af2ec5b43d5b006aba6a0b,Thuy Tran Thi Thanh 34,712020:b08755d7-ed94-47ff-a920-aa569f59b7e3,07/Aug/24 10:27 AM,09/Aug/24 1:20 PM,Service Request,14/Aug/24 12:06 PM,"Dear anh, chị!
+
+Họ tên khách: Lê Văn Thà
+
+CCCD 095080005309
+
+Sdt: 0962696815
+
+ID 110326855
+
+Hồ sơ khách không ký được trên FEOL 2.0, nhờ anh, chị hỗ trợ giúp!
+
+Thanks",Luồng giải ngân/Disbursement,KHỐI CÔNG NGHỆ THÔNG TIN/ IT DIVISION
+FI-12330,1043033,Lỗi ký FE 2.0,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Toan Nguyen Duy,6097f19575e875006f5dd2a8,07/Aug/24 10:27 AM,08/Aug/24 1:10 PM,Service Request,16/Aug/24 9:07 AM,"App id: 110324514
+
+KH: Trần huỳnh diệp trúc
+
+Cccd: 064302006883
+
+Mô tả lỗi chi tiết: không hiên hợp đồng để ký trên FE online 2.0",Đăng ký khoản vay/Loan application,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57687,1043031,"FEOL 2.0 báo lỗi ""Phụng"" 0708",Closed,,,Tai Pham Chi,712020:3d4a1074-6616-4b91-9253-3175ec9d7cdd,07/Aug/24 10:27 AM,12/Aug/24 7:15 PM,Service Request,15/Aug/24 3:07 PM,"Dear Anh IT,
+
+Nhờ Anh IT kiểm tra và hỗ trợ giúp Em t/ợp 2 case FEOL 2.0 lỗi như hình
+
+# Phạm thị kha ly
+Sdt: 0386180927
+Cccd: 084300001642
+Appud: 110324948
+# Nguyễn thị huyền trang
+Sdt 0949990558
+Cccd 058190010087
+ID 109749486
+
+Em cám ơn",Tài Khoản FEOP/FEOL Account -> Kiểm tra trạng thái Tài khoản đăng ký/Check user registration status,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57686,1043030,"HỖ TRỢ KH VÀO FE 2.0 KHÔNG HIỆN CHỮ BẮT ĐẦU, VÀ KHÔNG CÓ HỖ TRỢ TỪ TƯ VẤN VIÊN",Closed,,,Huong Huynh Thanh 1,712020:fe4f34a2-5942-4081-be58-e76d4efdc64b,07/Aug/24 10:26 AM,16/Aug/24 8:31 AM,Service Request,20/Aug/24 2:06 PM,"Dear AC iT,
+
+hiện kh vào FE2.0 không thấy chữ bắt đầu đẻ đăng ký khoản vay mới
+
+nhờ Ac kiểm tra hệ thống lại giúp sale, giờ kh vào báo lỗi hệ thống
+
+kh : trịnh trung sơn
+
+cccd: 001078015939
+
+sdt: 0983787336
+
+cám ơn ac",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12329,1043029,Hồ Sơ không kí được FEOL 2.0 ,Closed,,,du.bach,712020:6bdd1a51-7c05-49b5-a66b-f28f6cb6d2c3,07/Aug/24 10:26 AM,15/Aug/24 4:40 PM,Service Request,16/Aug/24 9:07 AM,"Dear Anh Chị,
+Kính nhờ A/C IT hỗ trợ hồ sơ không kí được FEOL 2.0
+
+* Tên KH : hồ kỳ thanh
+* CCCD : 077090003200
+* ID : 110324639
+* SDT : 0906551622
+* Stiker : 
+* Lý do hủy :  Feol 2.0 ko kí hợp đồng điện tử được
+
+Cám ơn anh chị ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12328,1043028,KHÁCH HÀNG VÀO KHÔNG TÌM THẤY HỢP ĐỒNG ĐỂ KÝ,Closed,,,Huong Nguyen Thi Ly 1,712020:49cf6651-9706-4760-92fc-a86d2e732d9b,07/Aug/24 10:26 AM,14/Aug/24 8:51 AM,Service Request,16/Aug/24 9:07 AM,"DEAR IT,
+
+NHỜ ANH CHỊ HỖ TRỢ XỬ LÝ GIÚP TRƯỜNG HỢP KH CỦA EM VỚI Ạ KH VÀO FE ONLINE 2.0 ĐỂ KÝ HỢP ĐỒNG NHƯNG HIỆN TẠI KHÔNG TÌM THẤY HỢP ĐỒNG NÀO CẢ Ạ
+
+Nguyễn Thị Huyền Ap id: 110324706 Cccd 026303004660
+
+Em cảm ơn!
+
+IT-FEOL",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12327,1043027,Hỗ trợ ký hợp đồng CDL - ID: 110326252,Closed,Hai Nguyen Xuan 5,61af2ec5b43d5b006aba6a0b,Diem Ton Thi Ngoc,712020:40d99670-deaf-4a75-963c-746180ea38cd,07/Aug/24 10:25 AM,09/Aug/24 1:22 PM,Service Request,14/Aug/24 12:06 PM,"Dear IT
+
+N​hờ IT hỗ trợ ký hợp đồng trên FE online 2.0
+
+KH: Hồ Hữu Cảnh
+CCCD: 082093017373
+SĐT: 0981111332
+ID: 110326252
+
+CC không tìm thấy hợp đồng để ký 
+
+Thanks ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12326,1043024,Hỗ trợ không có hồ sơ ,Closed,,,Thien Ngo Thi Hong,63e60bb0fb75f8568f64e31d,07/Aug/24 10:25 AM,13/Aug/24 5:59 PM,Service Request,16/Aug/24 9:07 AM,"Dear anh chị
+
+Nhờ anh chị hỗ trợ kiểm tra khách đã được duyệt hồ sơ nhưng trong ứng dụng feol 2.0 
+
+Không hiện hồ sơ khách hàng ạ
+
+Thông tin kh : 
+
+Tên kh :trần thị kiều linh
+
+Id :110319454
+
+Em cảm ơn ạ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12325,1043023,KHÁCH HÀNG VÀO KHÔNG TÌM THẤY HỢP ĐỒNG ĐỂ KÝ,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Huong Nguyen Thi Ly 1,712020:49cf6651-9706-4760-92fc-a86d2e732d9b,07/Aug/24 10:24 AM,12/Aug/24 7:20 PM,Service Request,16/Aug/24 9:07 AM,"DEAR IT,
+
+NHỜ ANH CHỊ HỖ TRỢ XỬ LÝ GIÚP TRƯỜNG HỢP KH CỦA EM VỚI Ạ KH VÀO FE ONLINE 2.0 ĐỂ KÝ HỢP ĐỒNG NHƯNG HIỆN TẠI KHÔNG TÌM THẤY HỢP ĐỒNG NÀO CẢ Ạ",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12324,1043017,không có hợp đồng ký,Closed,,,Huong Trinh Thi 8,712020:e6155f76-eb4f-49a5-bd09-7a1c1860335e,07/Aug/24 10:22 AM,13/Aug/24 11:18 AM,Service Request,16/Aug/24 9:06 AM,"Dear anh chị!
+
+Nhờ anh chị hỗ trợ giúp cc hồ sơ đã được duyệt nhưng vào ứng dụng fe online 2.0 lại không hiện hợp đồng [ký.id|http://ký.id] là 110322026 khách tên Kơpa Hinh . số cccd là 064097000197. chân tHÀNH CASOM ƠN ANH CHỊ!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57681,1043016,K CÓ HĐ KÍ ESIGN,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Bao Nguyen Hoai,60924dca000224006a9ad7b4,07/Aug/24 10:22 AM,08/Aug/24 1:16 PM,Service Request,16/Aug/24 4:06 AM,"Dear IT, Nhờ IT kiểm tra giúp các app id bên dưới vào FEOL.2 kí Esign thì báo lỗi như hình, k có HĐ kí. 
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12322,1043014,KHÔNG HIỂN THỊ HỒ SƠ TRÊN APP FEONLINE 2.0,Closed,,,My Le Thi Tuyet,712020:f5492619-e61c-4cb6-8f00-08f6d7f2a89e,07/Aug/24 10:22 AM,13/Aug/24 6:01 PM,Service Request,16/Aug/24 9:06 AM,"Dear Anh
+
+Anh hổ trợ giúp em hồ sơ đã chuyễn bước kí tên nhưng khi tải feonline 2.0 thì không có hồ sơ trên hệ thống
+
+kh: huỳnh thanh tuyến
+
+id: 110325085
+
+cccd: 077082000099
+
+pega: twl-3126134
+
+thank anh","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12321,1043013,Lỗi không hiện hồ sơ kí,Closed,Hao Nguyen Thanh,5d1b0c772d025d0c24b0eed2,Hien Do Thi Ngoc 3,712020:bde621ce-9ca2-43d9-abea-ea9ab23c1ad4,07/Aug/24 10:22 AM,12/Aug/24 7:20 PM,Service Request,16/Aug/24 9:06 AM,"Dear anh/ chị!
+
+Em làm đậu hồ sơ nhưng bên fe online 2.0 không hiện hồ sơ cho khách kí.
+
+Tên khách:Nguyễn Thị Hiền
+
+Shđ: 20240807-4925711
+
+Id-110327793", Hồ sơ cá nhận/User profile,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12320,1043012,KÝ HĐ TRÊN FE 2.0 KHÔNG HIỂN THỊ HĐ,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Tuyen Trinh Cu 1,712020:db0d991a-857a-4f5d-8d39-10b155440b3c,07/Aug/24 10:21 AM,12/Aug/24 5:11 PM,Service Request,16/Aug/24 9:06 AM,"Dear IT !
+Nhờ IT hổ trợ ký hđ trên FE 2.0 không hiển thị hợp đồng để ký
+
+APP ID. 110325154 ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12319,1043011,HỖ TRỢ LỖI KÝ HỒ SƠ TRÊN FE ONLINE 2.0 VÀ FE ONLINE,Closed,,,Lam Nguyen Van 18,712020:0a1d5e98-b58e-4736-94fa-d836c6c78b7b,07/Aug/24 10:21 AM,15/Aug/24 4:40 PM,Service Request,16/Aug/24 9:06 AM,"Dear AC 
+
+Nhờ Anh/Chị hỗ trợ giúp case dưới: 
+
++ Tên KH: dương thị hoa 
+
++ ID Hồ Sơ: 110324208 
+
++ CCCD: 019183011299 
+
++ Mô tả lỗi chi tiết: không hiện hợp đồng để ký trên fe online 2.0","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57680,1043009,Fe online 2.0 không tìm thấy hồ sơ,Closed,,,Loc Phung Van,712020:ca0a3be0-beac-4920-91c3-937f1db09c61,07/Aug/24 10:21 AM,12/Aug/24 2:07 PM,Service Request,15/Aug/24 3:07 PM,"Dear it
+
+Fo 2.0 không tìm thấy hợp đồng nhờ it hổ trợ giúp
+
+Id: 110322656
+
+Tks","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12317,1043008,KHÔNG HIÊN HD ĐỂ KÍ,Closed,,,Thuong Bui Trong,712020:ba534030-3be3-40e3-83af-5cc74d9e9eff,07/Aug/24 10:21 AM,13/Aug/24 11:18 AM,Service Request,16/Aug/24 9:06 AM,"Dear team,
+Hỗ trợ FEOL 2.O lỗi không tìm thấy HD để kí
+app id: 110326386
+tên: Hồ Thị Luận
+Cccd 054192007803","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57679,1043007,Hỗ trợ ko tìm thấy hđ,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Hoa Dang Thi,62c3d472159944bf76883b02,07/Aug/24 10:21 AM,13/Aug/24 8:27 AM,Service Request,16/Aug/24 5:07 AM,"Phan văn nhật
+Id : 110324152
+Cccd: 033201005546
+Sdt: 0384828602
+
+Hồ sơ kí hđ không tìm thấy hđ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57678,1043004,NHỜ HỖ TRỢ HƠP ĐỒNG,Closed,,,Dung Huynh Thi Be,6135a9a5c425a20068e55c02,07/Aug/24 10:20 AM,13/Aug/24 6:00 PM,Service Request,15/Aug/24 3:07 PM,"Dear IT
+
+Nhờ IT hỗ trợ khác hàng vào FE ONLINE ký hợp đồng thì màng hình trắng không có hợp đồng ý, mà vào FE ONLINE 1.0 thì không có mã nhận tiền, Nhờ anh chị kiểm tra hỗ trợ KH vì ký không được Khách hàng phàn nàn quá
+
+_ Trần Phương Thuý 
+
+- ID: 110318592 
+
+- Sdt: +0944600754+
+
+Thank",Rút tiền mặt/Get Cash,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57677,1043002,Không có hợp đồng để ký,Closed,,,Phu Le Hoang,712020:0aff92b3-edeb-4b80-9b52-0e9a3e0662e2,07/Aug/24 10:20 AM,12/Aug/24 5:14 PM,Service Request,15/Aug/24 3:07 PM,"Dear IT
+
+Nhờ IT kiểm tra giúp sale app id 110325475
+
+Hồ sơ trên isale đã đến bước ký hợp đồng điện tử nhưng khi lên FEOL 2.0 thì không có hợp đồng để ký
+
+Lỗi như hình đính kèm","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57675,1043000,"FEOL 2.0 không có HĐ để ký ""Thông"" 0708",Closed,,,Tai Pham Chi,712020:3d4a1074-6616-4b91-9253-3175ec9d7cdd,07/Aug/24 10:20 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 3:06 PM,"Dear Anh IT,
+
+Nhờ Anh IT kiểm tra và hỗ trợ giúp Em t/hợp FEOL 2.0 không có HĐ để ký 
+
+Trần Thị Hồng Crm: 1469008716 Appid: 110319342 Sđt: 0374419427 Cccd: 036303000749
+
+Em cám ơn","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12314,1042996,HỖ TRỢ LỖI KÝ HỒ SƠ TRÊN FE ONLINE 2.0 VÀ FE ONLINE,Closed,,,Lam Nguyen Van 18,712020:0a1d5e98-b58e-4736-94fa-d836c6c78b7b,07/Aug/24 10:19 AM,13/Aug/24 11:19 AM,Service Request,16/Aug/24 9:06 AM,"Dear AC 
+
+Nhờ Anh/Chị hỗ trợ giúp case dưới: 
+
++ Tên KH: Vũ Hoài Nam 
+
++ ID Hồ Sơ: 110324884 
+
++ CCCD: 019095012581 
+
++ Mô tả lỗi chi tiết: không hiện hợp đồng để ký trên fe online 2.0","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12312,1042993,Nhờ hỗ trợ yêu cầu,Closed,,,Thu Phan Thi 5,712020:2f48c613-a1a8-4cbc-b224-4f282034d064,07/Aug/24 10:18 AM,13/Aug/24 5:32 PM,Service Request,16/Aug/24 9:06 AM,"Dear team
+
+Nhờ hỗ trợ
+
+Sale vào không có thông tin ký
+
+Đặng Thị Lý
+
+App id: 110326246
+
+Em cảm ơb","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12311,1042992,KÝ HĐ TRÊN FE 2.0 KHÔNG HIỂN THỊ HĐ,Closed,,,Tuyen Trinh Cu 1,712020:db0d991a-857a-4f5d-8d39-10b155440b3c,07/Aug/24 10:18 AM,12/Aug/24 7:35 PM,Service Request,16/Aug/24 9:06 AM,"Dear IT !
+Nhờ IT hổ trợ ký hđ trên FE 2.0 không hiển thị hợp đồng để ký 
+
+APP ID. 110324777",eSign,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57672,1042990,Không có hợp đồng để ký,Closed,,,Tuyet Tran Thanh,61dd541c567cb70070307451,07/Aug/24 10:18 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 3:06 PM,"Dear it
+
+Hồ sơ đang ở hước ký nhưng vào FEO 2.0 không có hợp đồng
+
+Nhờ it hổ trợ giùm sale
+
+Id App id: 110324790
+
+Thank",eSign,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57670,1042984,Lỗi ko có hđ để ký,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Thu Nguyen Thi,64190c539d2bc6c90a8ad3c6,07/Aug/24 10:17 AM,07/Aug/24 11:13 AM,Service Request,12/Aug/24 11:06 AM,"Dear it
+
+Nhờ it hỗ trợ lỗi ko ký đc esign giúp sale ạ
+
+Appid: 110324654","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57669,1042983,LỖI KHÁCH HÀNG KÝ LẦN 2 THÀNH CÔNG NHƯNG KHÔNG CHUYỂN EXTERNAL,Closed,Thien Nguyen Minh,60f6298a199a8400683a33f4,Hau Nguyen Van 4,712020:1d101ae2-7be6-4edc-b4ad-fdaded0b2178,07/Aug/24 10:17 AM,12/Aug/24 10:05 AM,Service Request,12/Aug/24 11:06 AM,"Dear IT!
+
+Nhờ IT hỗ trợ kiểm tra giúp ngày 6/8 KH ký  xác nhận giải ngân xong thì hệ thống không chuyển external để KH nhận tiền giải ngân, mà vẫn đứng tại bước *Lending Decision*
+
+Tên KH: NGUYỄN THỊ VẠN - APP ID: 110215335 - Pega case ID: PL-8265255 - CRM ID: 1461060730
+
+Nhờ IT hỗ trợ kiểm tra  giúp,
+
+Thanks IT!
+
+",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57668,1042979,Hỗ trợ không có hđ kí,Closed,,,Hoa Hoang Quoc,609c916c9fd9f30067379aef,07/Aug/24 10:15 AM,12/Aug/24 5:14 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT
+
+Hỗ trợ giúp
+
+App id: 110323654
+
+ Sđt: +0927948007+ 
+
+Cccd: 058199008583
+
+Không có hợp đồng để kí","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12306,1042978,Không tìm thấy hồ sơ ký,Closed,,,Phi Nguyen Ngoc 3,712020:94332377-6bb9-4625-a521-f22b6f6aae65,07/Aug/24 10:15 AM,15/Aug/24 4:40 PM,Service Request,16/Aug/24 9:06 AM,"Dear IT
+
+Nhờ IT hỗ trợ
+
+Lỗi không hiện hợp đồng để ký
+
+ID: 110325605
+
+KH: Đàng Thị Mỹ Hương
+
+Thanks IT",eSign,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12305,1042977,KHÔNG HIỆN HĐ ĐỂ KÝ ESIGN - APPID 110322817,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Quoc Tran Dinh 1,712020:9a615261-9b16-41e9-a90e-c1becdb2019e,07/Aug/24 10:15 AM,09/Aug/24 10:30 AM,Service Request,14/Aug/24 10:06 AM,"Dear IT 
+
+Nhờ IT hỗ trợ xử lý hồ sơ không tìm thấy khoản vay để ký trong FEOL 2.0
+
+APPID: 110322817
+TÊN KH:NGUYỄN THỊ THUỶ
+CCCD:082169013595
+SĐT: 0367473557
+
+Trân Trọng","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57666,1042974,HỖ TRỢ FIX LỖI KÝ FEOL 2.0 ( TRUNG 07),Closed,,,Quan Nguyen Xuan,712020:1ff081bf-1a63-422d-a04b-ec8f007f63e9,07/Aug/24 10:14 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT
+
+Nhờ IT hỗ trợ fix lỗi KH vào FEOL 2.0 nhưng không có chỗ HỖ TRỢ TỪ TƯ VẤN VIÊN,
+Khách hàng: Thạch Thone
+CRMID: 1487920292 / Sdt: 0375279551
+
+Thank IT","Tài Khoản FEOP/FEOL Account -> Lỗi OTP đăng nhập, đăng ký/OTP issues",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12303,1042972,Không hiện hợp đồng Pl để ký,Closed,,,Tu Phan Van 4,712020:b9270920-247f-4c00-bb18-3009066d2dab,07/Aug/24 10:14 AM,13/Aug/24 5:31 PM,Service Request,16/Aug/24 9:06 AM,"Nhờ anh chị hỗ trợ kiểm tra thông tin app feol 2.0. Hồ sơ Pl không hiện thông tin để ký
+
+Id: 110324744
+
+Sđt: 0789453618
+
+Tên KH: phan viết nhật hiếu
+
+Cccd: 046203009052
+
+Cmnd: 192074031","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI CÔNG NGHỆ THÔNG TIN/ IT DIVISION
+BO-57664,1042971,Hỗ trợ hồ sơ lỗi ký,Closed,,,Viet Tran Hoang 1,61ee8530aeaacb0072e65004,07/Aug/24 10:14 AM,12/Aug/24 7:15 PM,Service Request,15/Aug/24 3:06 PM,"Hỗ trợ hồ sơ lỗi ký
+
+Id: 110325561
+sdt: 0394406393
+CCCd: 024193018982","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12302,1042969,không thấy hợp đồng trên Feonline 2.0,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Chung Pham Van 3,712020:ef20485a-e262-40e6-b298-ae5dea4ef1db,07/Aug/24 10:13 AM,09/Aug/24 10:30 AM,Service Request,14/Aug/24 10:06 AM,"KH: Võ Chí Hùng
+
+CCCD: 095202009241
+
+App id: 110324597
+
+ĐT: 0395292770",Thông tin khoản vay/Loan information -> Thông tin khoản vay của người khác/See loan information of other,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12301,1042968,em không thaya hợp đồng tren FE 2.0,Closed,Hai Nguyen Xuan 5,61af2ec5b43d5b006aba6a0b,Huyen Huynh Kim,712020:9b7e855c-3441-4dc2-98d9-6a61eb2184af,07/Aug/24 10:13 AM,09/Aug/24 1:34 PM,Service Request,14/Aug/24 12:06 PM,"Dear Anh Chị ! 
+
+id: 110323424
+
+Tên : Đặng Thảo Nguyên 
+
+số :0947593912
+
+cccd:096302007746
+
+không tìm thấy hồ sơ trên Fe online 2.0",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12299,1042966,Hỗ trợ ký hợp đồng  CDL - ID : 110323540,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Diem Ton Thi Ngoc,712020:40d99670-deaf-4a75-963c-746180ea38cd,07/Aug/24 10:13 AM,07/Aug/24 11:10 AM,Service Request,12/Aug/24 4:06 PM,"Dear IT ! 
+
+Nhờ IT hỗ trợ ký hợp đồng trên FE Online 2.0 
+
+Tên khách hàng : lê thị thái thanh
+Id : 110323540
+Cccd : 082179016850
+Lý do : fe online 2.0 lỗi hệ thống không  hiện phần ký ","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57662,1042965,LỖI KHÔNG CÓ HỢP ĐỒNG ĐỂ KÝ,Closed,,,Tu Le Trung 1,6098ffb375e875006f6d5d5e,07/Aug/24 10:13 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 3:06 PM,"DEAR IT 
+
+Khách hàng bên dưới thực hiện khoản vay bên mình đến bước esign nhưng trên FEOL 2.0 không có hợp đồng để ký 
+
+app id : 110321962
+
+ Võ Thị Hồng
+
+SDT : +0966558004+
+
+CCCD: 038192044460
+
+Nhờ IT hỗ trợ giúp mình 
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57661,1042964,Nhờ IT hỗ trợ,Closed,,,Hao Lo Tran Vinh,712020:cccc5a10-8477-49b7-ae6b-6cd6eded7fdc,07/Aug/24 10:12 AM,12/Aug/24 7:15 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT, 
+
+Nhờ IT hỗ trợ kiểm tra app id 110325628
+
+Tải FEOL 2.0 không có hiện hợp đồng để ký
+
+Đt kh : 0363083095
+
+đt nhân viên làm hs : 0932028967",Đăng ký khoản vay/Loan application -> Tra cứu tình trạng hồ sơ đăng ký khoản vay/Check application status,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12298,1042963,KHÔNG HIỆN HỢP ĐỒNG BÁO LỖI HỆ THỐNG,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Ho Vuong Nguyen Tay 1,712020:2205165b-019e-43b2-803a-36164d0195ab,07/Aug/24 10:12 AM,12/Aug/24 5:09 PM,Service Request,16/Aug/24 9:06 AM,"Không kí được hợp đồng, báo mất kết nối, không hiện hợp đồng để kí
+
+SỐ HĐ: 20240807-1926230
+
+TÊN: Nguyễn Thị Ái
+
+ID Pega: CDL-17674108
+
+CCCD: 089189012889","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12297,1042962,KHÔNG TÌM THẤY HĐ KÝ ESIGN TRONG FEOL 2.0 -APPID: 110304725,Closed,,,Quoc Tran Dinh 1,712020:9a615261-9b16-41e9-a90e-c1becdb2019e,07/Aug/24 10:12 AM,15/Aug/24 4:40 PM,Service Request,16/Aug/24 9:06 AM,"Dear IT
+
+Nhờ IT hỗ trợ xử lý hồ sơ không tìm thấy khoản vay để ký trong FEOL 2.0
+
+APPID: 110304725
+TÊN KH: Trịnh Thị Huệ
+CCCD: 038166010698
+SĐT: 0367039463
+
+Trân Trọng!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12296,1042961,Lỗi không hiện hợp đồng để ký,Closed,Duy Nguyen Khac,5e0982777a22c90da0c560b0,Phi Nguyen Ngoc 3,712020:94332377-6bb9-4625-a521-f22b6f6aae65,07/Aug/24 10:12 AM,09/Aug/24 10:31 AM,Service Request,14/Aug/24 10:06 AM,"Dear IT
+
+Nhờ IT hỗ trợ
+
+Lỗi không hiện hợp đồng để ký
+
+ID: 110324482
+
+KH: Trần Thị Thu Trang
+
+Thanks IT","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12295,1042960,Không thấy hợp đồng để ký,Closed,Hai Nguyen Xuan 5,61af2ec5b43d5b006aba6a0b,Luan Pham Minh 4,712020:4fc3776c-52c2-4974-b414-09367f17eb5f,07/Aug/24 10:11 AM,09/Aug/24 1:44 PM,Service Request,14/Aug/24 1:07 PM,"Khách Lê Minh Huyên
+
+Cccd 054090007013
+
+Appid 110326222 
+
+Sdt 0345895093
+
+Đăng ký tài khoản Fe2.0 không hiện hợp đồng để ký","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57660,1042959,HỖ TRỢ LỖI KHÔNG NHẬN ĐƯỢC MÃ RÚT TIỀN,Closed,Han Duong Khanh 1,712020:a8743202-89a2-4bdf-928a-f345b47bde09,Phuong Nguyen Van 15,6428e35e551f476a046848fc,07/Aug/24 10:11 AM,08/Aug/24 3:59 PM,Service Request,13/Aug/24 9:06 PM,"dear IT,
+
+nhờ IT hỗ trợ kiểm tra xử lí giúp em lỗi này trên Feonline 2.0 ạ. KH ra chi nhánh viettinbank rút tiền nhưng khi kí xác nhận rút tiền thì không hiện  mã rút tiền trên feonline 2.0 để cung cấp cho GDV nên không nhận được tiền [ạ. KH|http://ạ.KH] đang ở chi hộ Nhờ IT xử lý gấp giúp em ạ
+
+CCCD: 060091002570
+SDT: 0392628313
+app ID: 110319292
+tên KH: Lữ Bá Vàng
+
+cảm ơn IT","Tài Khoản FEOP/FEOL Account -> Lỗi OTP đăng nhập, đăng ký/OTP issues",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12294,1042958,hỗ trợ giúp em,Closed,,,Hoa Huynh Huy 1,712020:cc5e444a-f22d-4063-88e4-1aaab3a0fbdd,07/Aug/24 10:11 AM,13/Aug/24 5:03 PM,Service Request,16/Aug/24 9:06 AM,"nhờ anh hỗ trợ giúp e nhé
+
+hs đã được duyệt rồi nhưng trên Feonline 2.0 không có hồ sơ để kí điện tử
+
+Thị trưa
+ID 110321642
+Cccd 070167000800
+0389745585","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12293,1042957,KHÔNG HIỆN HỢP ĐỒNG TRÊN FEOL 2.0,Closed,,,Thuy Nguyen Thi,712020:ba31bbcd-e99d-4073-a295-66818b6031ca,07/Aug/24 10:11 AM,12/Aug/24 7:20 PM,Service Request,16/Aug/24 9:06 AM,"Dear anh chị IT!
+
+Hiện sale bên em tải app FEOL 2.0 để ký hợp đồng bước đầu cho khách mà vào không hiện hợp đồng để ký, nhờ anh chị hỗ trợ giùm em ạ!
+
+APP ID: 110319600
+
+Sdt: 0966482177
+
+Cccd: 038092029350
+
+Trân trọng cám ơn!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12292,1042955,NHỜ HỖ TRỢ FE 2.0 KHÔNG HIỆN HỢP ĐỒNG ĐỂ KÝ,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Son Nguyen Phong 2,712020:ede7ba10-0282-49ff-8d51-da77224ebea3,07/Aug/24 10:10 AM,12/Aug/24 5:10 PM,Service Request,16/Aug/24 9:06 AM,"DEAR ALL !
+
+NHỜ CÁC A HỖ TRỢ 
+
+KH: Lê Thị Thêm Case id: 110324130 Số cccd: 038179010911
+
+FE 2.0 KHÔNG HIỆN HỢP ĐỒNG ĐỂ KÝ. THANKS ALL","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57658,1042954,Kh đã nộp hồ sơ BĐKV Nhưng nhân viên không nhận được hồ sơ,Closed,,,Anh Phung Thi Hoang,6098adf48cbda70068001154,07/Aug/24 10:10 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 3:06 PM,"Dear Anh Chị
+
+Kh đã nộp hồ sơ BĐKV Nhưng nhân viên không nhận được hồ sơ, nhờ ANh Chị hỗ trợ kiểm tra giúp Em ạ
+
+số cccd : 094181011530, số đt: 0567757034
+
+cảm ơn Anh Chị
+
+","Tính năng khoản vay/Loan feature -> Không thể tra cứu hợp đồng, hiển thị sai thông tin HD/Cannot see loan contracts,wrong loan contracts",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+FI-12290,1042952,Nhờ hỗ trợ yêu cầu,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Thu Phan Thi 5,712020:2f48c613-a1a8-4cbc-b224-4f282034d064,07/Aug/24 10:09 AM,09/Aug/24 10:59 AM,Service Request,14/Aug/24 11:06 AM,"Dear team
+
+Nhờ hỗ trợ. Hồ sơ lỗi kg có hợp đồng để ký.thông tin
+
+Lê Ngô Quốc Tâm
+
+048089004162
+
+ID. 110324522","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12289,1042951,Hs ký bị lỗi ko hiện hợp đồng ký,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Quang Thai Van 2,624e68b9f3824d006a5ce6c9,07/Aug/24 10:09 AM,13/Aug/24 8:21 AM,Service Request,16/Aug/24 8:07 AM,"Dear it.
+
+Hợp đồng kh đậu rồi nhưng feonline 2.0 bị lỗi ko hiện hs cho kh ký.
+
+Tên kh:  Ninh Thế Cương
+App : 110325518","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12287,1042949,HỖ TRỢ LỖI KÝ HỒ SƠ PL TRÊN FE ONLINE 2.0 VÀ FE ONLINE,Closed,Thien Nguyen Minh,60878c0a83b8c6006bd44203,Lam Nguyen Van 18,712020:0a1d5e98-b58e-4736-94fa-d836c6c78b7b,07/Aug/24 10:08 AM,07/Aug/24 11:11 AM,Service Request,12/Aug/24 4:06 PM,"Dear AC 
+
+Nhờ Anh/Chị hỗ trợ giúp case dưới: 
+
++ Tên KH: LÝ NGỌC HẢI 
+
++ ID Hồ Sơ: 110319019 
+
++ CCCD: 019200005215
+
++ Mô tả lỗi chi tiết: không hiện hợp đồng để ký trên fe online 2.0","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57657,1042947,Lỗi không có hợp đồng ký Esign - Quách Minh Tài (Phúc),Closed,,,Thai Do Quoc 1,712020:84498525-105b-475a-993d-a321091a9258,07/Aug/24 10:08 AM,12/Aug/24 7:14 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT,
+
+Nhờ IT kiểm tra giúp App bên dưới, Ký Esign FE Online 2.0 không có hợp đồng để ký
+
+* AppID : 110325630
+* CCCD : 094088019411
+* SĐT : 0374282710
+
+ ",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57655,1042944,Lỗi không tìm thấy hợp đồng để ký ,Closed,,,Hoa Ho Thi Thanh 2,712020:12483f09-bc28-443a-bdad-43e34517aebb,07/Aug/24 10:07 AM,09/Aug/24 10:22 AM,Service Request,15/Aug/24 3:06 PM,"Nhờ IT hỗ trợ app id 110324847
+
+Lỗi không tìm thấy hợp đồng trên feonline 2.0 ký esign","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57654,1042942,Hồ sơ không có Hợp Đồng Kí lần 1,Closed,,,Giang Le 4,712020:7c66c48d-4523-464a-912f-ff356b669105,07/Aug/24 10:07 AM,12/Aug/24 5:13 PM,Service Request,15/Aug/24 3:06 PM,"Dear It
+
+Nhờ IT kiểm tra hồ sơ k có hợp đồng kí lần 1
+
+App : 110319095
+
+Nguyễn Thị Bé ơn
+
+CCCD : 091188007960
+
+SĐT : 0902038746
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12285,1042941,Lỗi không có hồ sơ ký,Closed,,,Tuyet Nguyen Thi 13,712020:0345a37e-5834-4f8a-8f0d-94bd6452d75e,07/Aug/24 10:06 AM,13/Aug/24 11:19 AM,Service Request,16/Aug/24 8:07 AM,"Dear anh
+
+Nhờ anh hỗ trợ app fe online 2.0 của kh nguyễn thị hương ID 110324244 do không thấy hso vay để ký, e đã đang nhập nhiều lần rồi ạ",eSign -> Lỗi Ký thành công nhưng không chuyển bước/Esign completed but application do not move to next stage,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57653,1042939,Hỗ trợ FE OL 2 KHÔNG THỂ HIỆN HĐ ĐỂ KÝ ,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Hon Nguyen Thanh,5d09a86c1044e40c4176965a,07/Aug/24 10:06 AM,13/Aug/24 8:25 AM,Service Request,16/Aug/24 5:07 AM,"Dear IT ! 
+
+Hiện tại sale có các ID bên dưới tới bước ký HD điện tử, mà vào FE OL 2 thì không có thể hiện HĐ để ký nhờ IT hỗ trợ giúp. 
+
+ID : 110324750
+
+ID: 110320261
+
+ID: 110321858
+
+ID: 110322801
+
+ID: 110325429
+
+Tks !","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57652,1042937,App đã được phê duyêt -  không có hợp đồng để ký giải ngân,Closed,,,Phuong Pham Thi Lan 2,61ca6ac4e67ea2006b679239,07/Aug/24 10:06 AM,13/Aug/24 5:07 PM,Service Request,15/Aug/24 3:06 PM,"Mình có trường hợp khách hàng lên app, Đã ký hợp đồng lần 1 trên FE Online 2.0 đẩy hồ sơ lên hệ thống thành công
+
+Hồ sơ đã được phê duyệt tuy nhiên DSA hỗ trợ khách ký thì không có thông tin hợp đồng đã giải ngân
+
+Nhờ IT hỗ trợ kiểm tra giúp em
+
+App ID: 110323087
+
+Tên khách: Lê Kim Ngân
+
+SĐT: 0987801927
+
+CCCD: 046096015185
+
+",Thông tin khoản vay/Loan information -> Thông tin khoản vay của người khác/See loan information of other,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57651,1042936,Lỗi không có hợp đồng ký Esign - Lâm Bá Chinh (Xuân),Closed,,,Thai Do Quoc 1,712020:84498525-105b-475a-993d-a321091a9258,07/Aug/24 10:06 AM,07/Aug/24 11:17 AM,Service Request,15/Aug/24 3:06 PM,"Dear IT,
+
+Nhờ IT kiểm tra giúp App bên dưới, Ký Esign FE Online 2.0 không có hợp đồng để ký
+
+* AppID : 110324301
+* CCCD : 094093004232
+* SĐT : 0977366532
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57650,1042935,Lỗi không tìm thấy hợp đồng để ký ,Closed,,,Hoa Ho Thi Thanh 2,712020:12483f09-bc28-443a-bdad-43e34517aebb,07/Aug/24 10:06 AM,12/Aug/24 7:14 PM,Service Request,15/Aug/24 3:06 PM,"Nhờ IT hỗ trợ giúp app id 110324778
+
+Không tìm thấy hợp đồng trên FEOL 2.0 để ký esign",eSign,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12284,1042934,Khách hàng không nhận thông tin hợp đồng ký giải ngân trên FE2.0,Closed,Nhut Luong Minh,6047003b03ceda006991ca08,Quan Ngo Van,712020:38334aec-828a-4c9b-a579-077850af3cee,07/Aug/24 10:05 AM,12/Aug/24 5:07 PM,Service Request,16/Aug/24 8:07 AM,"Dear team
+
+Team vui lòng hỗ trợ xử lý lỗi không nhận thông tin hợp đồng để ký trên FE2.0 app ID bên dưới giúp Quân nhé! Thanks
+
+App ID 110320051","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57649,1042931,HỖ TRỢ KHÔNG CÓ HỢP ĐỒNG,Closed,Phong Do Nhat,604702152b3f9a006a2ca983,Linh Ngo Thi Thuy 5,712020:aaa579cc-6c9e-485d-90f2-b672d937a395,07/Aug/24 10:04 AM,07/Aug/24 10:22 AM,Service Request,12/Aug/24 10:07 AM,"Dear IT,
+
+Nhờ it hỗ trợ kiểm tra hồ sơ không có Hợp đồng khách hàng thao tác feonline 1 và 2.0 KHÔNG CÓ HỢP ĐỒNG
+
+CCCD: 019086005290
+
+tên: Mai Quốc Toàn
+
+app: 1487960443
+
+sdt: 0978666065","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA ĐIỆN THOẠI X-SELL/ TELESALES X-SELL CENTER
+FI-12281,1042930,Nhờ hỗ trợ yêu cầu,Closed,An Bui Khanh 1,63153a369794410874c6acd7,Thu Phan Thi 5,712020:2f48c613-a1a8-4cbc-b224-4f282034d064,07/Aug/24 10:03 AM,08/Aug/24 1:06 PM,Service Request,16/Aug/24 8:06 AM,"Dear team
+
+Nhờ hỗ trợ yêu cầu
+
+Hồ sơ không có thông tin để ký
+
+Thông tin 110325300
+
+lại phúc nguyên
+
+Em cảm ơn", Hồ sơ cá nhận/User profile,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57648,1042929,lỗi hệ thống Fe 2.0,Closed,,,Tam Nguyen Trong,6093496a000224006aab03fe,07/Aug/24 10:03 AM,13/Aug/24 5:10 PM,Service Request,15/Aug/24 3:06 PM,ID 110324517 CCCD: 054073008326 Tên: Nguyễn tấn rơi ĐT: +0389284311+,"eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57644,1042925,Lỗi không có hợp đồng ký Esign - Nguyễn Nhựt Thanh (Chi),Closed,,,Thai Do Quoc 1,712020:84498525-105b-475a-993d-a321091a9258,07/Aug/24 10:02 AM,12/Aug/24 7:15 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT,
+
+Nhờ IT kiểm tra giúp App bên dưới, Ký Esign FE Online 2.0 không có hợp đồng để ký
+
+* AppID : 110319293
+* CCCD : 094094007263
+* SĐT : 0862448224
+
+",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57638,1042916,KHÔNG KÝ ESIGN ĐƯỢC,Closed,,,huong.dtt2@saigonbpo.vn,qm:fd095524-f567-44b3-b7f1-5d8b4419a54f:bd09994d-3cda-4825-985d-ec9ee69cd7b2,07/Aug/24 9:59 AM,12/Aug/24 7:15 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT,
+
+Hiện tại App FEOL 2.0 không có thông tin để ký esign, nhờ IT check giúp
+
+App ID 110323939 - crmid 1487959006
+
+App ID 110271453 - crmid 1487093924",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,Đối Tác FE/FEC Partner
+BO-57630,1042906,Không hiện HĐ để ký,Closed,,,Quoc Nguyen Manh,6056b1190a9b69007172faf3,07/Aug/24 9:56 AM,12/Aug/24 7:15 PM,Service Request,15/Aug/24 3:06 PM,"IT hỗ trợ giúp cas này
+
+ID: 110324743 
+
+KH: nguyễn văn chung 
+
+Phone: +0988812731+ 
+
+CCCD: 052079020542
+
+Không hiện HĐ để ký, KH đang đợi dắt xe, IT hỗ trợ gấp giúp. tks","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+FI-12278,1042903,NHỜ HỖ TRỢ APP KHÔNG KÝ ĐƯỢC,Closed,,,Son Nguyen Phong 2,712020:ede7ba10-0282-49ff-8d51-da77224ebea3,07/Aug/24 9:53 AM,13/Aug/24 11:23 AM,Service Request,16/Aug/24 8:06 AM,"NHỜ CÁC ANH HỖ TRỢ KHÁCH HÀNG
+
+LÊ THỊ HOÀN, id : 110323988 cccd : 038169032359 số đt: +0989281471+
+
+NHỜ CÁC A HỖ TRỢ SỚM GIÚP KHÁCH HÀNG. THANKS ALL !",eSign,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57621,1042890,HỖ TRỢ CHECK KHÔNG CÓ H/D,Closed,Thien Nguyen Minh,60f6298a199a8400683a33f4,Quyen Le Thi,6098d04d47ba02006f766705,07/Aug/24 9:46 AM,12/Aug/24 9:05 AM,Service Request,12/Aug/24 10:06 AM,"Dear IT!
+
+Nhờ Anh CHị hỗ trợ kiểm tra giúp hồ sơ khách hàng bên dưới. Hiện Khách hàng tới bước KYC1 không có h/d ký. Nhờ hỗ trợ.
+
+Phạm Hương Giang, sdt +0819723686+, cccd 044302001102, appid 110321283, crm 1487949006
+
+Thanks IT!","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",Đối Tác FE/FEC Partner
+BO-57619,1042885,Không có hđ ký,Closed,,,Phung Mai Thi Thu,62302e30867a4e00709583a9,07/Aug/24 9:44 AM,12/Aug/24 7:16 PM,Service Request,15/Aug/24 3:06 PM,"Dear IT,
+
+Nguyễn Thị Thuỳ Dương
+Cccd: 080194009044
+
+Sdt 0364400945
+
+AppID: 110322191
+
+","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57583,1042839,khách đang esign vào không có hđ ký,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Phung Mai Thi Thu,62302e30867a4e00709583a9,07/Aug/24 9:06 AM,07/Aug/24 1:59 PM,Service Request,12/Aug/24 1:06 PM,"khách đang esign vào không có hđ ký 
+
+
+
+NGUYỄN QUANG MINH
+
+cccd: 086202002810
+
+SĐT: 0786394959
+
+APP ID: 110310252
+
+ 
+
+ ",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57577,1042830,"Vào app không có mục "" bắt đầu với nhân vien tư vấn "" ",Closed,Tan Nguyen Quang Thien,604701173ab18c0068c236fe,Tram Tran Thi Hoang,60952115f6c0960069fc011e,07/Aug/24 9:00 AM,07/Aug/24 5:00 PM,Service Request,12/Aug/24 7:06 PM,"Dear It, 
+Nhờ IT Kiểm tra gấp hiện lỗi này đang gặp hàng loạt KH em có lấy cụ thể mô tả lỗi của 1 KH để IT kiểm tra ạ 
+
+Nguyễn Thị Thanh QUyên 
+SĐT “ 0964668140
+CCCD : 060194003631",Đăng ký khoản vay/Loan application -> Lỗi đăng ký khoản vay/Application error,TRUNG TÂM BÁN HÀNG QUA NGUỒN KHÁCH HÀNG TIỀM NĂNG/ LEAD GENERATION CENTER
+BO-57575,1042825,Không nhận được OTP bước giải ngân,Closed,Vuong Tran Dinh 1,712020:cefaa01c-2020-4c7f-a1f6-bc2048927dde,Nhi Nguyen Thi Mai Nu Thanh,712020:2a00253f-aaf4-49d2-afbd-7ad1f705d522,07/Aug/24 8:57 AM,08/Aug/24 9:12 AM,Service Request,12/Aug/24 7:06 PM,"Dear IT 
+
+Nhờ it hỗ trợ giúp em hs bên dứoi giải ngân nhưng ko nhận được mã otp trên feonline 2.0
+
+App id: 110309643
+
+Sdt: 0338859781
+
+Tks it ",Luồng giải ngân/Disbursement -> Không thấy pop-up để làm xác thực gương mặt/No see pop-up to do face auth for disbursement,KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
+BO-57570,1042815,Id app đã đậu nhưng fe 2.0 ko có thông tin để kya hồ sơ,Closed,,,Tam Nguyen Trong,6093496a000224006aab03fe,07/Aug/24 8:54 AM,15/Aug/24 2:26 PM,Service Request,15/Aug/24 3:06 PM,"Họ Tên: Nguyễn Thị Hồng
+id : 110303991
+Sdt: 0348905236
+
+Cccd: 054182008106","eSign -> Không hiển thị Hợp đồng để ký (eSign, offer)/Do not display  eSign & Offer pop up",KHỐI KINH DOANH THỊ TRƯỜNG/ FIELD SALES DIVISION
