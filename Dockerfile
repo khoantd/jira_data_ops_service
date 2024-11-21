@@ -8,6 +8,8 @@ RUN apt-get update && \
     gcc \
     && rm -rf /var/lib/apt/lists/*
 
+RUN apt-get install -y nano
+
 # Install dependencies in order of stability
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt \
