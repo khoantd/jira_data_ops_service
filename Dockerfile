@@ -1,4 +1,4 @@
-FROM python:3.9-slim
+FROM python:3.11-slim
 
 WORKDIR /app
 
@@ -18,5 +18,8 @@ COPY . .
 # Create necessary directories
 RUN mkdir -p data
 
-# Set the entrypoint
-ENTRYPOINT ["python", "main.py"]
+# Expose the port on which the application will run
+EXPOSE 8080
+
+# Run the FastAPI application using uvicorn server
+CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "8080"]

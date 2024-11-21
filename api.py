@@ -15,6 +15,7 @@ import db_import
 from main import QueryConfig
 import psycopg2
 import os
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
