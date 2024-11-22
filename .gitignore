@@ -5,4 +5,7 @@
 *.csv
 *.zip
 cfg/cfg.ini
-config/jira_team_accounts.json
+config/*.json
+data/*
+*.pyc
+*.pyc~
