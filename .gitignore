@@ -9,3 +9,4 @@ config/*.json
 data/*
 *.pyc
 *.pyc~
+config/jira_team_accounts.json
