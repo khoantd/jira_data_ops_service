@@ -275,32 +275,34 @@ async def create_user(
     current_user: User = Depends(get_current_user)
 ):
     try:
+        # Log the attempt to create a user with the provided username and admin flag
         logger.info("create_user called with username: %s, admin_flag: %s", request.username, request.is_admin)
         
-        # Admin privilege check
+        # Check if the user is trying to create an admin account and verify if the current user has admin privileges
         if request.admin_flag and not getattr(current_user, 'is_admin', False):
             raise HTTPException(
                 status_code=status.HTTP_403_FORBIDDEN,
                 detail="Only admin users can create admin accounts"
             )
         
-        # Input validation
+        # Validate that the username is provided and meets the minimum length requirement
         if not request.username or len(request.username) < 3:
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST,
                 detail="Username must be at least 3 characters long"
             )
         
+        # Validate that the password is provided and meets the minimum length requirement
         if not request.password or len(request.password) < 8:
             raise HTTPException(
                 status_code=status.HTTP_400_BAD_REQUEST,
                 detail="Password must be at least 8 characters long"
             )
 
-        # Database operations
+        # Establish a connection to the database
         with get_db_connection() as conn:
             with conn.cursor() as cur:
-                # Check if username exists
+                # Check if the username already exists in the database
                 cur.execute("SELECT username FROM users WHERE username = %s", (request.username,))
                 if cur.fetchone():
                     raise HTTPException(
@@ -308,8 +310,10 @@ async def create_user(
                         detail="Username already exists"
                     )
 
-                # Create new user
+                # Hash the provided password for secure storage
                 hashed_password = get_password_hash(request.password)
+                
+                # Insert the new user into the database and return the relevant user information
                 cur.execute(
                     """
                     INSERT INTO users (username, email, full_name, disabled, hashed_password, is_admin)
@@ -320,14 +324,16 @@ async def create_user(
                         request.username,
                         request.email,
                         request.full_name,
-                        False,
+                        False,  # New users are not disabled by default
                         hashed_password,
                         request.admin_flag
                     )
                 )
                 user_data = cur.fetchone()
+                # Commit the transaction to save changes
                 conn.commit()
                 
+                # Return the created user's information
                 return User(
                     username=user_data[0],
                     email=user_data[1],
@@ -336,11 +342,12 @@ async def create_user(
                 )
 
     except HTTPException as he:
-        # Re-raise HTTP exceptions with their original status codes
+        # Log and re-raise HTTP exceptions to preserve their status codes and messages
         logger.warning(f"HTTP error during user creation: {he.detail}")
         raise
 
     except psycopg2.Error as e:
+        # Log database-related errors and raise a 500 Internal Server Error
         logger.error(f"Database error while creating user: {str(e)}")
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
@@ -348,6 +355,7 @@ async def create_user(
         )
 
     except Exception as e:
+        # Log unexpected errors and raise a 500 Internal Server Error
         logger.error(f"Unexpected error while creating user: {str(e)}")
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
