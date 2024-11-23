@@ -1,0 +1,44 @@
+[
+  {
+    "pattern_type": "formal_request",
+    "regex": "(?i)\\b(dear IT|Nhờ IT hỗ trợ|nhờ IT|nhờ anh IT)\\b",
+    "confidence": 0.9,
+    "description": "Formal IT support request identifier",
+    "priority": 100
+  },
+  {
+    "pattern_type": "crm_number",
+    "regex": "\\b(CRM:|Crm ID:|CRM ID:|Crm:)\\s*(\\d+)\\b",
+    "confidence": 0.85,
+    "description": "Customer CRM number",
+    "priority": 90
+  },
+  {
+    "pattern_type": "phone_number",
+    "regex": "\\b(Sđt:|SDT)\\s*(\\d{9,15})\\b",
+    "confidence": 0.8,
+    "description": "Customer phone number",
+    "priority": 80
+  },
+  {
+    "pattern_type": "personal_id",
+    "regex": "\\b(CCCD:|CCCD)\\s*(\\d+)\\b",
+    "confidence": 0.8,
+    "description": "Personal identification number",
+    "priority": 70
+  },
+  {
+    "pattern_type": "customer_name",
+    "regex": "(?i)\\b(?:KH:|KH)\\s+([A-ZĐÀÁẢÃẠÈÉẺẼẸÌÍỈĨỊÒÓỎÕỌÙÚỦŨỤỲÝỶỸỴ][a-zàáạãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]+(?:\\s+[A-ZĐÀÁẢÃẠÈÉẺẼẸÌÍỈĨỊÒÓỎÕỌÙÚỦŨỤỲÝỶỸỴ][a-zàáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]+){1,6})(?=\\s*[-\\s]|$)",
+    "confidence": 0.8,
+    "description": "Customer name",
+    "priority": 60
+  },
+  {
+    "pattern_type": "application_id",
+    "regex": "\\b(APP ID:|APP)\\s*(\\d+)\\b",
+    "confidence": 0.8,
+    "description": "Application ID",
+    "priority": 50
+  }
+]

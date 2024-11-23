@@ -1,0 +1,12 @@
+{
+  "key": "$.key",
+  "created": "$.fields[*].created",
+  "updated": "$.fields[*].updated",
+  "status": "$.fields[*].status[*].name",
+  "requestor": "$.fields[*].reporter.emailAddress",
+  "accountId": "$.fields[*].reporter.accountId",
+  "comments": "$.fields[*].comment",
+  "assignee": "$.fields[*].assignee.emailAddress",
+  "expectedDate": "$.fields[*].customfield_15198",
+  "histories": "$.changelog.histories"
+}

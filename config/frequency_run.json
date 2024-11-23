@@ -1,0 +1,16 @@
+{
+  "frequency": [
+    { "JAN": "EOM" },
+    { "FEB": "EOM" },
+    { "MAR": "EOM" },
+    { "APR": "EOM" },
+    { "MAY": "EOM" },
+    { "JUN": "EOM" },
+    { "JUL": "EOM" },
+    { "AUG": "EOM" },
+    { "SEP": "EOM" },
+    { "OCT": "EOM" },
+    { "NOV": "EOM" },
+    { "DEC": "EOM" }
+  ]
+}
