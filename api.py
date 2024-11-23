@@ -497,6 +497,64 @@ async def download_csv(
         logger.error(f"Error downloading CSV files: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.post("/api/download-binary-csv")
+async def download_binary_csv(
+    request: DownloadRequest,
+    current_user: User = Depends(get_current_user)
+):
+    """
+    Endpoint to download specified CSV files as binary data.
+
+        Args:
+            request (DownloadRequest): Request body containing list of file names to download.
+
+        Returns:
+            Response: Binary data of CSV file or zip archive containing the requested CSV files.
+    """
+    try:
+        data_dir = db_import.Config.DATA_DIR
+        # Validate requested files
+        missing_files = [
+            f for f in request.file_names if not (data_dir / f).exists()
+        ]
+        if missing_files:
+            raise HTTPException(
+                status_code=404,
+                detail=f"Files not found: {', '.join(missing_files)}"
+            )
+
+        if len(request.file_names) == 1:
+            # Return individual CSV file as binary
+            file_name = request.file_names[0]
+            file_path = data_dir / file_name
+            with open(file_path, 'rb') as f:
+                binary_data = f.read()
+            return Response(
+                content=binary_data,
+                media_type='text/csv',
+                headers={
+                    'Content-Disposition': f'attachment; filename="{file_name}"'
+                }
+            )
+        else:
+            # Create a zip archive in memory
+            zip_buffer = io.BytesIO()
+            with zipfile.ZipFile(zip_buffer, 'w', zipfile.ZIP_DEFLATED) as zipf:
+                for file_name in request.file_names:
+                    file_path = data_dir / file_name
+                    with open(file_path, 'rb') as f:
+                        zipf.writestr(file_name, f.read())
+            
+            return Response(
+                content=zip_buffer.getvalue(),
+                media_type='application/zip',
+                headers={
+                    'Content-Disposition': 'attachment; filename="requested_files.zip"'
+                }
+            )
+    except Exception as e:
+        logger.error(f"Error downloading CSV files: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/api/import-data")
 async def import_data_task(
@@ -535,6 +593,7 @@ async def import_data_task(
         logger.error(
             f"Error executing data import task for file {file_name}: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
+
 
 
 @app.get("/health")
