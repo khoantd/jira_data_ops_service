@@ -6,6 +6,7 @@ from typing import Dict, Optional, List
 from atlassian import Jira
 
 from common.jira_util import (
+    download_issue_attachments,
     load_jql_queries,
     count_issues_in_project,
     export_issues_to_csv
@@ -164,6 +165,57 @@ def main():
                 return 1
         else:
             logger.warning("No in progress tickets query found in configuration")
+            
+        if queries.get("royalty_tickets", {}).get("query"):
+            if not process_query_type(
+                "royal",
+                queries["royalty_tickets"]["query"],
+                config,
+                stats
+            ):
+                logger.error("Failed to process in progress tickets")
+                return 1
+        else:
+            logger.warning("No in progress tickets query found in configuration")
+
+        # Print statistics if any queries were processed
+        if stats:
+            print_statistics(stats)
+        else:
+            logger.warning("No queries were processed")
+
+        return 0
+
+    except Exception as e:
+        logger.error(f"Critical error: {str(e)}")
+        return 1
+    
+def main_v2():
+    """Main execution function"""
+    try:
+        config = QueryConfig()
+        config.ensure_directories()
+
+        # Load JQL queries from configuration file
+        queries = load_jql_queries(str(config.QUERIES_FILE))
+        if queries is None:
+            logger.error("Failed to load JQL queries")
+            return 1
+
+        # Initialize statistics dictionary
+        stats = {}
+
+        if queries.get("royalty_tickets", {}).get("query"):
+            if not process_query_type(
+                "royal",
+                queries["royalty_tickets"]["query"],
+                config,
+                stats
+            ):
+                logger.error("Failed to process in progress tickets")
+                return 1
+        else:
+            logger.warning("No in progress tickets query found in configuration")
 
         # Print statistics if any queries were processed
         if stats:
@@ -177,6 +229,36 @@ def main():
         logger.error(f"Critical error: {str(e)}")
         return 1
 
+def download_main():
+    """Main execution function"""
+    try:
+        config = QueryConfig()
+        
+        # Create base data directory
+        data_dir = Path("data")
+        data_dir.mkdir(exist_ok=True)
+        
+        logger.info(f"Attempting to download attachments for TC-44 to {data_dir}")
+        logger.info(f"Using config file: {config.CONFIG_FILE}")
+        
+        # Download attachments
+        downloaded_files = download_issue_attachments(
+            "TC-44",
+            str(config.CONFIG_FILE), 
+            str(data_dir)  # Pass the base data directory
+        )
+        
+        if not downloaded_files:
+            logger.error(f"Failed to download attachments to {data_dir}/downloads")
+            return 1
+            
+        logger.info(f"Successfully downloaded {len(downloaded_files)} files to {data_dir}/downloads")
+        return 0
+        
+    except Exception as e:
+        logger.error(f"Critical error: {str(e)}")
+        return 1
 
 if __name__ == "__main__":
-    sys.exit(main())
+    # sys.exit(main_v2())
+    download_main()

@@ -56,7 +56,8 @@ def jira_acct_get(team: str) -> Optional[Jira]:
         logger.debug("Team: %s, Account: %s", team, jira_acct.get('account'))
 
         return Jira(
-            url='https://fecredit.atlassian.net',
+                                # url='https://fecredit.atlassian.net',
+        url='https://royal-solution.atlassian.net',
             username=jira_acct.get('account'),
             password=jira_acct.get('token')
         )
@@ -174,7 +175,8 @@ def get_jira_credentials(config_file: str) -> Tuple[Optional[str], Optional[str]
     try:
         with open(config_file, 'r', encoding='utf-8') as file:
             config = json.load(file)
-            account_info = config['team_accounts'][0]['IT CM']
+            # account_info = config['team_accounts'][0]['IT CM']
+            account_info = config['team_accounts'][1]['ROYAL']
             return account_info['account'], account_info['token']
     except Exception as e:
         logger.error("Failed to read credentials: %s", str(e))
@@ -195,7 +197,8 @@ def get_jira_issues(
 
     try:
         jira = Jira(
-            url='https://fecredit.atlassian.net',
+                    # url='https://fecredit.atlassian.net',
+        url='https://royal-solution.atlassian.net',
             username=username,
             password=password
         )
@@ -249,7 +252,8 @@ def export_issues_to_csv(
 
     try:
         jira = Jira(
-            url='https://fecredit.atlassian.net',
+                    # url='https://fecredit.atlassian.net',
+        url='https://royal-solution.atlassian.net',
             username=username,
             password=password
         )
@@ -300,7 +304,8 @@ def count_issues_in_project(jql, config_file, max_results=1000, page_size=100):
         return 0, 0, 0
 
     jira = Jira(
-        url='https://fecredit.atlassian.net',
+        # url='https://fecredit.atlassian.net',
+        url='https://royal-solution.atlassian.net',
         username=username,
         password=password
     )
@@ -331,3 +336,65 @@ def count_issues_in_project(jql, config_file, max_results=1000, page_size=100):
             return total_issues, total_records, total_pages
 
     return total_issues, total_records, total_pages
+
+def download_issue_attachments(issue_key: str, config_file: str, output_dir: str) -> List[str]:
+    """
+    Download all attachments from a Jira issue.
+    """
+    try:
+        # Create output directory if it doesn't exist
+        output_path = Path(output_dir) / "downloads"  # Ensure we use downloads subdirectory
+        output_path.mkdir(parents=True, exist_ok=True)
+        logger.info(f"Saving attachments to: {output_path}")
+        
+        # Get credentials
+        username, password = get_jira_credentials(config_file)
+        if not username or not password:
+            logger.error("Failed to get credentials from config file")
+            return []
+
+        # Initialize Jira client and verify connection
+        jira = Jira(
+            url='https://royal-solution.atlassian.net',
+            username=username,
+            password=password
+        )
+        
+        # Get issue details
+        issue = jira.get_issue(issue_key)
+        if not issue:
+            logger.error(f"Could not find issue {issue_key}")
+            return []
+            
+        attachments = issue.get('fields', {}).get('attachment', [])
+        
+        if not attachments:
+            logger.info(f"No attachments found for issue {issue_key}")
+            return []
+
+        downloaded_files = []
+        
+        # Download each attachment
+        for attachment in attachments:
+            filename = attachment['filename']
+            file_path = output_path / filename
+            
+            # Ensure the file path is safe
+            if not str(file_path).startswith(str(output_path)):
+                logger.warning(f"Skipping potentially unsafe path: {filename}")
+                continue
+                
+            content = jira.download_attachments_from_issue(issue_key, attachment['id'])
+            
+            # Save file
+            with open(file_path, 'wb') as f:
+                f.write(content)
+                
+            downloaded_files.append(str(file_path))
+            logger.info(f"Downloaded attachment {filename} from issue {issue_key}")
+            
+        return downloaded_files
+
+    except Exception as e:
+        logger.error(f"Failed to download attachments for issue {issue_key}: {str(e)}")
+        return []
