@@ -100,12 +100,25 @@ class ColumnAnalyzer:
     def __init__(self, headers: List[str]):
         self.headers = headers
         self.normalized_headers = [
-            h.replace(' ', '_').lower() for h in headers]
+            self._normalize_header(h) for h in headers
+        ]
         self.header_mapping = dict(zip(headers, self.normalized_headers))
         self.max_lengths = [0] * len(headers)
         self.is_numeric = [True] * len(headers)
         self.has_decimal = [False] * len(headers)
         self.sample_values = [[] for _ in headers]
+
+    def _normalize_header(self, header: str) -> str:
+        """Normalize header names by removing special characters and converting to snake_case"""
+        # Convert to lowercase
+        header = header.lower()
+        # Replace special characters and spaces with underscore
+        header = re.sub(r'[^a-z0-9]+', '_', header)
+        # Remove leading/trailing underscores
+        header = header.strip('_')
+        # Replace multiple underscores with single underscore
+        header = re.sub(r'_+', '_', header)
+        return header
 
     def analyze_row(self, row: List[str]) -> None:
         """Analyze a single row of data"""

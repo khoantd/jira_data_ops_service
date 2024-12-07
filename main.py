@@ -4,7 +4,7 @@ import logging
 from pathlib import Path
 from typing import Dict, Optional, List
 from atlassian import Jira
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from common.jira_util import (
     download_issue_attachments,
@@ -128,8 +128,14 @@ def print_statistics(stats: Dict) -> None:
     logger.info(f"Total tickets processed: {total_records:,}")
 
 
-def main(from_date: Optional[str] = None, to_date: Optional[str] = None):
-    """Main execution function"""
+def main(query_name: Optional[str] = None, from_date: Optional[str] = None, to_date: Optional[str] = None):
+    """Main execution function
+    
+    Args:
+        query_name: Name of specific query to run (optional)
+        from_date: Start date for date range queries (optional) 
+        to_date: End date for date range queries (optional)
+    """
     try:
         config = QueryConfig()
         config.ensure_directories()
@@ -143,57 +149,79 @@ def main(from_date: Optional[str] = None, to_date: Optional[str] = None):
         # Initialize statistics dictionary
         stats = {}
 
-        # Process closed tickets if query exists
-        if queries.get("closed_tickets_date_range", {}).get("query"):
-            if from_date is None and to_date is None:
-                closed_query = queries["closed_tickets_date_range"]["query"]
+        # If query_name specified, only run that query
+        if query_name:
+            if query_name not in queries:
+                logger.error(f"Query '{query_name}' not found in configuration")
+                return 1
+                
+            query = queries[query_name]["query"]
+            if from_date is not None and to_date is not None and "date_range" in query_name:
+                query = jql_v2_print(query, from_date, to_date)
+                
+            query_type = query_name.split("_tickets")[0]
+            if not process_query_type(query_type, query, config, stats):
+                logger.error(f"Failed to process {query_type} tickets")
+                return 1
+                
+        # Otherwise run all configured queries
+        else:
+            # Process closed tickets if query exists
+            if queries.get("closed_tickets_date_range", {}).get("query"):
+                if from_date is None and to_date is None:
+                    closed_query = queries["closed_tickets_date_range"]["query"]
+                else:
+                    closed_query = jql_v2_print(queries["closed_tickets_date_range"]["query"], from_date, to_date)
+                if not process_query_type(
+                    "closed",
+                    closed_query,
+                    config,
+                    stats
+                ):
+                    logger.error("Failed to process closed tickets")
+                    return 1
             else:
-                closed_query = jql_v2_print(queries["closed_tickets_date_range"]["query"], from_date, to_date)
-            if not process_query_type(
-                "closed",
-                closed_query,
-                config,
-                stats
-            ):
-                logger.error("Failed to process closed tickets")
-                return 1
-        else:
-            logger.warning("No closed tickets query found in configuration")
+                logger.warning("No closed tickets query found in configuration")
 
-        # Process canceled tickets if query exists
-        if queries.get("canceled_tickets", {}).get("query"):
-            if not process_query_type(
-                "canceled",
-                queries["canceled_tickets"]["query"],
-                config,
-                stats
-            ):
-                logger.error("Failed to process canceled tickets")
-                return 1
-        # Process in progress tickets if query exists
-        if queries.get("in_progress_tickets", {}).get("query"):
-            if not process_query_type(
-                "in_progress",
-                queries["in_progress_tickets"]["query"],
-                config,
-                stats
-            ):
-                logger.error("Failed to process in progress tickets")
-                return 1
-        else:
-            logger.warning("No in progress tickets query found in configuration")
-            
-        if queries.get("royalty_tickets", {}).get("query"):
-            if not process_query_type(
-                "royal",
-                queries["royalty_tickets"]["query"],
-                config,
-                stats
-            ):
-                logger.error("Failed to process in progress tickets")
-                return 1
-        else:
-            logger.warning("No in progress tickets query found in configuration")
+            # Process canceled tickets if query exists
+            if queries.get("canceled_tickets_date_range", {}).get("query"):
+                if from_date is None and to_date is None:
+                    canceled_query = queries["canceled_tickets_date_range"]["query"]
+                else:
+                    canceled_query = jql_v2_print(queries["canceled_tickets_date_range"]["query"], from_date, to_date)
+                if not process_query_type(
+                    "canceled",
+                    canceled_query,
+                    config,
+                    stats
+                ):
+                    logger.error("Failed to process canceled tickets")
+                    return 1
+
+            # Process in progress tickets if query exists
+            if queries.get("in_progress_tickets", {}).get("query"):
+                if not process_query_type(
+                    "in_progress",
+                    queries["in_progress_tickets"]["query"],
+                    config,
+                    stats
+                ):
+                    logger.error("Failed to process in progress tickets")
+                    return 1
+            else:
+                logger.warning("No in progress tickets query found in configuration")
+                
+            if queries.get("royalty_tickets", {}).get("query"):
+                if not process_query_type(
+                    "royal",
+                    queries["royalty_tickets"]["query"],
+                    config,
+                    stats
+                ):
+                    logger.error("Failed to process royalty tickets")
+                    return 1
+            else:
+                logger.warning("No royalty tickets query found in configuration")
 
         # Print statistics if any queries were processed
         if stats:
@@ -377,7 +405,6 @@ def attachment_replace_main():
         return 1
 
 if __name__ == "__main__":
-    current_date = datetime.now().strftime("%Y-%m-%d")
-    sys.exit(main(current_date, current_date))
-    # sys.exit(main_v2())
-    # download_main()
+    to_date = datetime.now().strftime("%Y-%m-%d")
+    from_date = (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d")
+    sys.exit(main(from_date=from_date, to_date=to_date, query_name="closed_tickets_date_range"))
