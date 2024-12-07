@@ -4,6 +4,7 @@ import logging
 from pathlib import Path
 from typing import Dict, Optional, List
 from atlassian import Jira
+from datetime import datetime
 
 from common.jira_util import (
     download_issue_attachments,
@@ -376,6 +377,7 @@ def attachment_replace_main():
         return 1
 
 if __name__ == "__main__":
-    sys.exit(main())
+    current_date = datetime.now().strftime("%Y-%m-%d")
+    sys.exit(main(current_date, current_date))
     # sys.exit(main_v2())
     # download_main()
