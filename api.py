@@ -411,6 +411,13 @@ async def execute_query(
         exported_files = []
         # Export tickets in batches
         for batch in range(0, records, batch_size):
+            # Delete existing CSV files with the same base filename
+            for existing_file in config.DATA_DIR.glob(f'{base_filename.lower()}*.csv'):
+                try:
+                    existing_file.unlink()
+                    logger.info(f"Deleted existing file: {existing_file}")
+                except Exception as e:
+                    logger.warning(f"Failed to delete file {existing_file}: {str(e)}")
             output_file = config.DATA_DIR / \
                 f'{base_filename}_batch_{batch // batch_size + 1}.csv'
 
