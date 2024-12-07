@@ -7,11 +7,12 @@ from atlassian import Jira
 
 from common.jira_util import (
     download_issue_attachments,
+    jql_v2_print,
     load_jql_queries,
     count_issues_in_project,
     export_issues_to_csv
 )
-
+import pandas as pd
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -24,7 +25,8 @@ class QueryConfig:
     """Configuration class for JQL queries"""
     FIELDS = ["key", "summary", "created", "status"]
     CONFIG_FILE = Path("config/jira_team_accounts.json")
-    QUERIES_FILE = Path("config/queries.json")
+    # QUERIES_FILE = Path("config/queries.json")
+    QUERIES_FILE = Path("config/queries_v2.json")
     EXPORT_BATCH_SIZE = 1000
     DATA_DIR = Path("data")
 
@@ -70,6 +72,16 @@ def process_query_type(
             return True
 
         # Export tickets in batches
+        # Remove existing files for this query type
+        existing_files = list(config.DATA_DIR.glob(f'jira_{query_type}_tickets_batch_*.csv'))
+        if existing_files:
+            logger.info(f"Removing {len(existing_files)} existing {query_type} ticket files")
+            for file in existing_files:
+                try:
+                    file.unlink()
+                except Exception as e:
+                    logger.warning(f"Failed to remove file {file}: {str(e)}")
+
         for batch in range(0, records, config.EXPORT_BATCH_SIZE):
             output_file = config.DATA_DIR / \
                 f'jira_{query_type}_tickets_batch_{batch // config.EXPORT_BATCH_SIZE + 1}.csv'
@@ -115,7 +127,7 @@ def print_statistics(stats: Dict) -> None:
     logger.info(f"Total tickets processed: {total_records:,}")
 
 
-def main():
+def main(from_date: Optional[str] = None, to_date: Optional[str] = None):
     """Main execution function"""
     try:
         config = QueryConfig()
@@ -131,10 +143,14 @@ def main():
         stats = {}
 
         # Process closed tickets if query exists
-        if queries.get("closed_tickets", {}).get("query"):
+        if queries.get("closed_tickets_date_range", {}).get("query"):
+            if from_date is None and to_date is None:
+                closed_query = queries["closed_tickets_date_range"]["query"]
+            else:
+                closed_query = jql_v2_print(queries["closed_tickets_date_range"]["query"], from_date, to_date)
             if not process_query_type(
                 "closed",
-                queries["closed_tickets"]["query"],
+                closed_query,
                 config,
                 stats
             ):
@@ -242,11 +258,111 @@ def download_main():
         logger.info(f"Using config file: {config.CONFIG_FILE}")
         
         # Download attachments
-        downloaded_files = download_issue_attachments(
-            "TC-44",
-            str(config.CONFIG_FILE), 
-            str(data_dir)  # Pass the base data directory
-        )
+        # downloaded_files = download_issue_attachments(
+        #     "TC-44",
+        #     str(config.CONFIG_FILE), 
+        #     str(data_dir)  # Pass the base data directory
+        # )
+        # Read CSV file containing Jira issue keys
+        try:
+            issues_df = pd.read_csv(data_dir / "jira_royal_tickets_batch_1.csv")
+            if 'Issue key' not in issues_df.columns:
+                logger.error("CSV file must contain a 'key' column with Jira issue keys")
+                return 1
+                
+            downloaded_files = []
+            
+            # Process each issue key and download attachments
+            for issue_key in issues_df["Issue key"].unique():
+                logger.info(f"Downloading attachments for issue {issue_key}")
+                
+                # Download attachments for current issue
+                issue_files = download_issue_attachments(
+                    issue_key,
+                    str(config.CONFIG_FILE),
+                    str(data_dir)
+                )
+                
+                if issue_files:
+                    downloaded_files.extend(issue_files)
+                    logger.info(f"Downloaded {len(issue_files)} files for issue {issue_key}")
+                else:
+                    logger.warning(f"No attachments found for issue {issue_key}")
+                    
+        except FileNotFoundError:
+            logger.error(f"Could not find issues CSV file at {data_dir / 'issues.csv'}")
+            return 1
+        except pd.errors.EmptyDataError:
+            logger.error("The issues CSV file is empty")
+            return 1
+        except Exception as e:
+            logger.error(f"Error processing CSV file: {str(e)}")
+            return 1
+        
+        if not downloaded_files:
+            logger.error(f"Failed to download attachments to {data_dir}/downloads")
+            return 1
+            
+        logger.info(f"Successfully downloaded {len(downloaded_files)} files to {data_dir}/downloads")
+        return 0
+        
+    except Exception as e:
+        logger.error(f"Critical error: {str(e)}")
+        return 1
+
+def attachment_replace_main():
+    """Main execution function"""
+    try:
+        config = QueryConfig()
+        
+        # Create base data directory
+        data_dir = Path("data")
+        data_dir.mkdir(exist_ok=True)
+        
+        logger.info(f"Attempting to download attachments for TC-44 to {data_dir}")
+        logger.info(f"Using config file: {config.CONFIG_FILE}")
+        
+        # Download attachments
+        # downloaded_files = download_issue_attachments(
+        #     "TC-44",
+        #     str(config.CONFIG_FILE), 
+        #     str(data_dir)  # Pass the base data directory
+        # )
+        # Read CSV file containing Jira issue keys
+        try:
+            issues_df = pd.read_csv(data_dir / "jira_royal_tickets_batch_1.csv")
+            if 'Issue key' not in issues_df.columns:
+                logger.error("CSV file must contain a 'key' column with Jira issue keys")
+                return 1
+                
+            downloaded_files = []
+            
+            # Process each issue key and download attachments
+            for issue_key in issues_df["Issue key"].unique():
+                logger.info(f"Downloading attachments for issue {issue_key}")
+                
+                # Download attachments for current issue
+                issue_files = download_issue_attachments(
+                    issue_key,
+                    str(config.CONFIG_FILE),
+                    str(data_dir)
+                )
+                
+                if issue_files:
+                    downloaded_files.extend(issue_files)
+                    logger.info(f"Downloaded {len(issue_files)} files for issue {issue_key}")
+                else:
+                    logger.warning(f"No attachments found for issue {issue_key}")
+                    
+        except FileNotFoundError:
+            logger.error(f"Could not find issues CSV file at {data_dir / 'issues.csv'}")
+            return 1
+        except pd.errors.EmptyDataError:
+            logger.error("The issues CSV file is empty")
+            return 1
+        except Exception as e:
+            logger.error(f"Error processing CSV file: {str(e)}")
+            return 1
         
         if not downloaded_files:
             logger.error(f"Failed to download attachments to {data_dir}/downloads")
@@ -260,5 +376,6 @@ def download_main():
         return 1
 
 if __name__ == "__main__":
+    sys.exit(main())
     # sys.exit(main_v2())
-    download_main()
+    # download_main()

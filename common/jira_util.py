@@ -56,8 +56,8 @@ def jira_acct_get(team: str) -> Optional[Jira]:
         logger.debug("Team: %s, Account: %s", team, jira_acct.get('account'))
 
         return Jira(
-                                # url='https://fecredit.atlassian.net',
-        url='https://royal-solution.atlassian.net',
+                                url='https://fecredit.atlassian.net',
+        # url='https://royal-solution.atlassian.net',
             username=jira_acct.get('account'),
             password=jira_acct.get('token')
         )
@@ -175,8 +175,8 @@ def get_jira_credentials(config_file: str) -> Tuple[Optional[str], Optional[str]
     try:
         with open(config_file, 'r', encoding='utf-8') as file:
             config = json.load(file)
-            # account_info = config['team_accounts'][0]['IT CM']
-            account_info = config['team_accounts'][1]['ROYAL']
+            account_info = config['team_accounts'][0]['IT CM']
+            # account_info = config['team_accounts'][1]['ROYAL']
             return account_info['account'], account_info['token']
     except Exception as e:
         logger.error("Failed to read credentials: %s", str(e))
@@ -197,8 +197,8 @@ def get_jira_issues(
 
     try:
         jira = Jira(
-                    # url='https://fecredit.atlassian.net',
-        url='https://royal-solution.atlassian.net',
+                    url='https://fecredit.atlassian.net',
+        # url='https://royal-solution.atlassian.net',
             username=username,
             password=password
         )
@@ -252,8 +252,8 @@ def export_issues_to_csv(
 
     try:
         jira = Jira(
-                    # url='https://fecredit.atlassian.net',
-        url='https://royal-solution.atlassian.net',
+                    url='https://fecredit.atlassian.net',
+        # url='https://royal-solution.atlassian.net',
             username=username,
             password=password
         )
@@ -304,8 +304,8 @@ def count_issues_in_project(jql, config_file, max_results=1000, page_size=100):
         return 0, 0, 0
 
     jira = Jira(
-        # url='https://fecredit.atlassian.net',
-        url='https://royal-solution.atlassian.net',
+        url='https://fecredit.atlassian.net',
+        # url='https://royal-solution.atlassian.net',
         username=username,
         password=password
     )
@@ -355,7 +355,8 @@ def download_issue_attachments(issue_key: str, config_file: str, output_dir: str
 
         # Initialize Jira client and verify connection
         jira = Jira(
-            url='https://royal-solution.atlassian.net',
+            # url='https://royal-solution.atlassian.net',
+            url='https://fecredit.atlassian.net',
             username=username,
             password=password
         )
@@ -378,13 +379,14 @@ def download_issue_attachments(issue_key: str, config_file: str, output_dir: str
         for attachment in attachments:
             filename = attachment['filename']
             file_path = output_path / filename
+            logger.info("file_path: %s", file_path.resolve())
             
             # Ensure the file path is safe
             if not str(file_path).startswith(str(output_path)):
                 logger.warning(f"Skipping potentially unsafe path: {filename}")
                 continue
                 
-            content = jira.download_attachments_from_issue(issue_key, attachment['id'])
+            content = jira.get_attachment_content(attachment['id'])
             
             # Save file
             with open(file_path, 'wb') as f:

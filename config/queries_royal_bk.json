@@ -1,0 +1,5 @@
+{
+  "royalty_tickets": {
+    "query": "project in (TC,AMC,BMTTC,CR,CSB,CSNV,CST,DM,QTAL,FE,HC,IA,LEG,PJ,QLD) ORDER BY created DESC"
+  }
+}

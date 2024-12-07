@@ -1,6 +1,6 @@
 {
-  "closed_tickets": {
-    "query": "project in (BO,FI) AND type = \"Service Request\" and created >= \"2024-08-07\" and created <= \"2024-12-31\" AND status IN (Closed,\"Resolved Non-Approval\") AND \"it-feol[select list (cascading)]\" IS NOT EMPTY ORDER BY created DESC"
+  "closed_tickets_date_range": {
+    "query": "project in (BO,FI) AND type = \"Service Request\" and created >= \"2024-08-07\" and created <= \"2024-12-31\" AND status IN (Closed,\"Resolved Non-Approval\") AND \"it-feol[select list (cascading)]\" IS NOT EMPTY AND resolved >= {from_date} AND resolved <= {to_date} ORDER BY created DESC"
   },
   "in_progress_tickets": {
     "query": "project in (BO,FI) AND type = \"Service Request\" and created >= \"2024-08-07\" and created <= \"2024-12-31\" AND status IN (\"Escalated Non-Approval\", \"Technical In Progress Non-Approval\", \"Technical Awaiting Vendor\", \"Awaiting End User Response\", \"Awaiting End User Response Non-Approval\", \"Technical Awaiting Vendor Non-Approval\") AND \"it-feol[select list (cascading)]\" IS NOT EMPTY ORDER BY created DESC"
